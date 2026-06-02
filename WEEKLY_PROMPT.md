@@ -15,7 +15,7 @@ You are generating this week's PGA Tour win-probability forecast (two parts:
 
 ## Steps
 
-1. **Environment.** Ensure Python deps are available: `python3 -m venv .venv && .venv/bin/pip install -q numpy` (numpy is optional — `simulate.py` has a pure-Python fallback — but it makes 40k sims fast). Confirm `.env` exists with `DATAGOLF_API_KEY`, `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD`, `REPORT_TO`. Load it: `set -a; . ./.env; set +a`.
+1. **Environment.** Ensure Python deps are available: `python3 -m venv .venv && .venv/bin/pip install -q numpy` (numpy is optional — `simulate.py` has a pure-Python fallback — but it makes 40k sims fast). Confirm `.env` exists with `DATAGOLF_API_KEY`, `RESEND_API_KEY`, `RESEND_FROM`, `REPORT_TO` (and optionally `GMAIL_ADDRESS` / `GMAIL_APP_PASSWORD` for the local SMTP fallback). Load it: `set -a; . ./.env; set +a`. Email goes out via the **Resend HTTP API** — outbound SMTP is blocked in the cloud sandbox, so `RESEND_API_KEY` is what makes the send work here.
 
 2. **Determine this week's event + cut rule.** Find today's date and the PGA Tour
    event teeing off this Thursday (`DATE=YYYY-MM-DD` for that Thursday). Web-search
