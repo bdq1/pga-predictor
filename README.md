@@ -2,10 +2,18 @@
 
 Weekly Monte Carlo win-probability forecast for upcoming PGA Tour tournaments.
 
-Runs every Monday as a **claude.ai cloud routine** (runs on Anthropic's infrastructure,
-no local machine needed): it finds the week's event and field, estimates each player's
-strokes-gained skill from free public data, simulates the tournament tens of thousands of
-times, and emails a report of win / top-5 / top-10 / top-20 / make-cut probabilities.
+Runs every Monday as a **GitHub Actions workflow** (`.github/workflows/weekly.yml`,
+14:00 UTC): it pulls the week's event, field and **measured strokes-gained skill +
+course-fit from the DataGolf API**, simulates the tournament 40,000 times, and emails a
+two-part report — **The Favorites** (win / top-5 / top-10 / make-cut probabilities) and
+**The Long Shots** (four contrarian lenses: ceiling, value-vs-market, course-fit, and
+model-vs-reputation, plus a synthesis of names hitting multiple lenses).
+
+The whole chain is one command — `python run_week.py` — wired as:
+`fetch_datagolf.py` → `simulate.py` → `analyze.py` → `build_email.py` → `send_email.py`.
+Email goes out via the **Resend HTTP API** (`RESEND_API_KEY`); secrets live in GitHub
+Actions secrets locally in a gitignored `.env`. (An earlier claude.ai cloud-routine
+attempt was abandoned: that sandbox's egress allowlist blocks DataGolf and Resend.)
 
 - **`simulate.py`** — the simulation engine. Pure math, zero required dependencies (uses
   numpy if present, otherwise a built-in pure-Python fallback). This is the rigorous core.
