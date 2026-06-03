@@ -15,7 +15,7 @@ You are generating this week's PGA Tour win-probability forecast (two parts:
 
 ## Steps
 
-1. **Environment.** Ensure Python deps are available: `python3 -m venv .venv && .venv/bin/pip install -q numpy` (numpy is optional — `simulate.py` has a pure-Python fallback — but it makes 40k sims fast). Confirm `.env` exists with `DATAGOLF_API_KEY`, `RESEND_API_KEY`, `RESEND_FROM`, `REPORT_TO` (and optionally `GMAIL_ADDRESS` / `GMAIL_APP_PASSWORD` for the local SMTP fallback). Load it: `set -a; . ./.env; set +a`. Email goes out via the **Resend HTTP API** — outbound SMTP is blocked in the cloud sandbox, so `RESEND_API_KEY` is what makes the send work here.
+1. **Environment.** First, **force the latest code** in case the sandbox persists a stale checkout from a previous run: `git fetch origin && git reset --hard origin/master`. Then ensure Python deps: `python3 -m venv .venv && .venv/bin/pip install -q numpy` (numpy is optional — `simulate.py` has a pure-Python fallback — but it makes 40k sims fast). Confirm `.env` exists with `DATAGOLF_API_KEY`, `RESEND_API_KEY`, `RESEND_FROM`, `REPORT_TO` (and optionally `GMAIL_ADDRESS` / `GMAIL_APP_PASSWORD` for the local SMTP fallback). Load it: `set -a; . ./.env; set +a`. Email goes out via the **Resend HTTP API** — outbound SMTP is blocked in the cloud sandbox, so `RESEND_API_KEY` is what makes the send work here.
 
 2. **Determine this week's event + cut rule.** Find today's date and the PGA Tour
    event teeing off this Thursday (`DATE=YYYY-MM-DD` for that Thursday). Web-search
@@ -45,9 +45,12 @@ You are generating this week's PGA Tour win-probability forecast (two parts:
    `.venv/bin/python build_email.py --date $DATE`  (prints the subject line) →
    `runs/email_$DATE.{html,txt}`.
 
-7. **Send it:**
+7. **Send it (ALWAYS — this is the point of the run):**
    `.venv/bin/python send_email.py --subject "$(.venv/bin/python build_email.py --date $DATE)" --html runs/email_$DATE.html --text runs/email_$DATE.txt`
-   This emails the report to `REPORT_TO` via Gmail SMTP.
+   This emails the report to `REPORT_TO` via the Resend HTTP API. Run this **every time**,
+   even if `runs/` output files already exist from a prior run — do NOT skip the send on
+   the assumption it was already done. It MUST print `Sent via Resend ... id <id>`; if it
+   doesn't, the send failed — treat that as a hard failure.
 
 8. **Save the calibration history.** Commit the new `runs/*_$DATE.*` files
    (`git add runs && git commit -m "forecast: <Event> $DATE" && git push`).
