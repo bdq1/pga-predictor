@@ -46,9 +46,10 @@ def _get(path, key, **params):
 def main():
     ap = argparse.ArgumentParser(description="Build field JSON from DataGolf API")
     ap.add_argument("--date", required=True, help="event date YYYY-MM-DD (Thursday)")
-    ap.add_argument("--cut-line", type=int, default=65,
-                    help="36-hole cut (top N + ties). 50 = Memorial/most signature, "
-                         "0 = no-cut signature event. Default 65 (standard event).")
+    ap.add_argument("--cut-line", type=int, default=None,
+                    help="36-hole cut (top N + ties). If omitted, auto-picked from field "
+                         "size: >=100 players -> 65 (standard event), else -> 50 "
+                         "(limited/signature/major field). Pass 0 for a no-cut event.")
     ap.add_argument("--out-dir", default="runs")
     args = ap.parse_args()
 
@@ -143,11 +144,19 @@ def main():
             "datagolf_rank": rk.get("datagolf_rank"),
         })
 
+    # Auto cut-line by field size when not given: large fields are standard events
+    # (top 65 + ties); small fields are limited/signature/major fields (top 50).
+    # The exact cut barely moves win/top-10 odds; it mainly shapes make-cut %.
+    cut_line = args.cut_line
+    if cut_line is None:
+        cut_line = 65 if len(players) >= 100 else 50
+        print(f"  cut-line auto: {cut_line} (field size {len(players)})")
+
     field = {
         "event": event,
         "course": course,
         "date": args.date,
-        "cut_line": args.cut_line,
+        "cut_line": cut_line,
         "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
         "players": players,
     }
@@ -163,7 +172,7 @@ def main():
                    "players": sidecar}, f, indent=2)
 
     print(f"{event}  —  {course or 'course n/a'}")
-    print(f"  field:   {fpath}  ({len(players)} players, cut {args.cut_line})")
+    print(f"  field:   {fpath}  ({len(players)} players, cut {cut_line})")
     print(f"  sidecar: {spath}")
     # quick sanity: top 5 by final_pred
     top = sorted(sidecar, key=lambda p: p["final_pred"], reverse=True)[:5]

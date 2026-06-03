@@ -2,22 +2,22 @@ PGA forecast — the Memorial Tournament presented by Workday
 Muirfield Village Golf Club · 2026-06-04 · 40,000 sims · cut top 50+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Scottie Scheffler       16.1%  (top5 43.5, top10 60.3)
-   2. Rory McIlroy             4.9%  (top5 19.9, top10 33.9)
-   3. Ludvig Aberg             4.8%  (top5 19.8, top10 33.9)
-   4. Russell Henley           4.6%  (top5 19.1, top10 33.2)
-   5. Si Woo Kim               4.2%  (top5 17.9, top10 31.3)
-   6. Matt Fitzpatrick         3.7%  (top5 16.4, top10 29.1)
-   7. Cameron Young            3.7%  (top5 16.8, top10 29.8)
-   8. Xander Schauffele        3.6%  (top5 16.2, top10 29.0)
-   9. Patrick Cantlay          2.5%  (top5 12.3, top10 23.6)
-  10. J.J. Spaun               2.2%  (top5 11.3, top10 22.1)
-  11. Tommy Fleetwood          2.2%  (top5 11.8, top10 22.6)
-  12. Ben Griffin              2.2%  (top5 10.9, top10 21.4)
+   1. Scottie Scheffler       16.2%  (top5 43.7, top10 60.9)
+   2. Russell Henley           4.8%  (top5 19.4, top10 33.1)
+   3. Ludvig Aberg             4.7%  (top5 19.9, top10 34.4)
+   4. Rory McIlroy             4.7%  (top5 19.2, top10 33.0)
+   5. Si Woo Kim               4.1%  (top5 17.9, top10 31.1)
+   6. Cameron Young            3.7%  (top5 16.6, top10 29.8)
+   7. Xander Schauffele        3.7%  (top5 16.3, top10 29.0)
+   8. Matt Fitzpatrick         3.6%  (top5 15.7, top10 28.5)
+   9. J.J. Spaun               2.5%  (top5 11.8, top10 22.7)
+  10. Patrick Cantlay          2.5%  (top5 12.3, top10 23.8)
+  11. Tommy Fleetwood          2.4%  (top5 11.4, top10 22.3)
+  12. Justin Thomas            2.2%  (top5 10.7, top10 20.9)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Tommy Fleetwood 22.6%, Ben Griffin 21.4%, Justin Thomas 20.5%, Hideki Matsuyama 18.6%, Alex Smalley 18.6%, Min Woo Lee 18.3%
- [2] Value vs market: Russell Henley +1.1 @21, Si Woo Kim +1.0 @22, Matt Fitzpatrick +0.5 @22, J.J. Spaun +0.4 @39, Alex Smalley +0.3 @51, Alex Noren +0.3 @91
+ [1] Deep ceiling: Tommy Fleetwood 22.3%, Ben Griffin 21.3%, Justin Thomas 20.9%, Alex Smalley 18.7%, Min Woo Lee 18.4%, Hideki Matsuyama 18.2%
+ [2] Value vs market: Russell Henley +1.3 @21, Si Woo Kim +0.9 @22, J.J. Spaun +0.6 @39, Matt Fitzpatrick +0.4 @23, Alex Smalley +0.3 @51, Alex Noren +0.3 @88
  [3] Course-fit: Si Woo Kim +0.57, Russell Henley +0.53, Scottie Scheffler +0.50, Justin Thomas +0.45, Ryo Hisatsune +0.45, Ludvig Aberg +0.44
  [4] Reputation gap: Mac Meissner (OWGR 81/DG 46), Denny McCarthy (OWGR 102/DG 70), Alex Fitzpatrick (OWGR 88/DG 57), Matt Kuchar (OWGR 179/DG 154), Nick Taylor (OWGR 60/DG 37), J.T. Poston (OWGR 94/DG 71)
 
