@@ -1,0 +1,32 @@
+name: Send pre-built forecast
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Forecast date (YYYY-MM-DD)'
+        required: true
+        default: '2026-06-11'
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild email & send via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          REPORT_TO: ${{ secrets.REPORT_TO }}
+        run: |
+          SUBJECT=$(python build_email.py --date ${{ inputs.date }})
+          echo "Subject: $SUBJECT"
+          python send_email.py \
+            --subject "$SUBJECT" \
+            --html "runs/email_${{ inputs.date }}.html" \
+            --text "runs/email_${{ inputs.date }}.txt"

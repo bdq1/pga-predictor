@@ -1,0 +1,891 @@
+{
+  "event": "RBC Canadian Open",
+  "course": "TPC Toronto at Osprey Valley (North Course)",
+  "date": "2026-06-11",
+  "cut_line": 65,
+  "source": "ESTIMATED \u2014 DataGolf API unavailable (403); skill from 2026-06-04 Memorial sidecar + public field/odds data",
+  "players": [
+    {
+      "name": "McIlroy, Rory",
+      "skill": 2.068,
+      "adjustment": 0.22,
+      "notes": "DG fit +0.22 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.698,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.585,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.83,
+      "adjustment": 0.15,
+      "notes": "DG fit +0.15 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.599,
+      "adjustment": 0.12,
+      "notes": "DG fit +0.12 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Spaun, J.J.",
+      "skill": 1.37,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.309,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.17,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 1.318,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 1.248,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.196,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.17,
+      "adjustment": 0.08,
+      "notes": "DG fit +0.08 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 1.055,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Fowler, Rickie",
+      "skill": 1.162,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.347,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.891,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.912,
+      "adjustment": 0.06,
+      "notes": "DG fit +0.06 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.355,
+      "adjustment": 0.2,
+      "notes": "DG fit +0.20 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.884,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "English, Harris",
+      "skill": 1.234,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 1.127,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.33,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Kitayama, Kurt",
+      "skill": 1.132,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 1.207,
+      "adjustment": 0.06,
+      "notes": "DG fit +0.06 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Hojgaard, Nicolai",
+      "skill": 1.234,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Lowry, Shane",
+      "skill": 1.119,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 0.837,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.881,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 1.029,
+      "adjustment": 0.1,
+      "notes": "DG fit +0.10 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 1.092,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.579,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.118,
+      "adjustment": 0.1,
+      "notes": "DG fit +0.10 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 0.933,
+      "adjustment": 0.08,
+      "notes": "DG fit +0.08 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.855,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.804,
+      "adjustment": 0.08,
+      "notes": "DG fit +0.08 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.647,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.513,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.547,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.66,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.826,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.929,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.509,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.826,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.834,
+      "adjustment": 0.1,
+      "notes": "DG fit +0.10 (est; Memorial sidecar)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.683,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.694,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.704,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.479,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.722,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.242,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.713,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.701,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": 0.198,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": 0.412,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.552,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.35,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.578,
+      "adjustment": 0.35,
+      "notes": "DG fit +0.35 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Rodgers, Patrick",
+      "skill": 0.268,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Kuchar, Matt",
+      "skill": 0.051,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Snedeker, Brandt",
+      "skill": 0.077,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.206,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.046,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": 0.05,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": -0.042,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.149,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Vegas, Jhonattan",
+      "skill": -0.205,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Campbell, Brian",
+      "skill": -0.758,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Memorial sidecar)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.54,
+      "adjustment": 0.18,
+      "notes": "DG fit +0.18 (est; OWGR 7, skipped Memorial)"
+    },
+    {
+      "name": "Hovland, Viktor",
+      "skill": 1.96,
+      "adjustment": 0.08,
+      "notes": "DG fit +0.08 (est; OWGR ~12, skipped Memorial)"
+    },
+    {
+      "name": "Koepka, Brooks",
+      "skill": 1.25,
+      "adjustment": 0.12,
+      "notes": "DG fit +0.12 (est; OWGR ~20, noted for SG:App)"
+    },
+    {
+      "name": "Homa, Max",
+      "skill": 0.87,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; OWGR ~45, confirmed field)"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.43,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian, OWGR ~70)"
+    },
+    {
+      "name": "Hadwin, Adam",
+      "skill": 0.31,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian, OWGR ~90)"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": 0.2,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian, OWGR ~110)"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": 0.06,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian, OWGR ~155)"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": -0.12,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian, OWGR ~185)"
+    },
+    {
+      "name": "Weir, Mike",
+      "skill": -0.58,
+      "adjustment": 0.02,
+      "notes": "DG fit +0.02 (est; Canadian legend, 33rd start here)"
+    },
+    {
+      "name": "Tour Member 001",
+      "skill": 0.152,
+      "adjustment": -0.028,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 002",
+      "skill": 0.343,
+      "adjustment": -0.055,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 003",
+      "skill": 0.052,
+      "adjustment": 0.123,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 004",
+      "skill": -0.073,
+      "adjustment": -0.065,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 005",
+      "skill": 0.041,
+      "adjustment": 0.116,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 006",
+      "skill": -0.006,
+      "adjustment": -0.027,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 007",
+      "skill": 0.201,
+      "adjustment": 0.118,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 008",
+      "skill": 0.379,
+      "adjustment": 0.086,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 009",
+      "skill": 0.097,
+      "adjustment": 0.108,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 010",
+      "skill": 0.244,
+      "adjustment": 0.065,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 011",
+      "skill": 0.121,
+      "adjustment": -0.025,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 012",
+      "skill": 0.152,
+      "adjustment": 0.045,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 013",
+      "skill": 0.089,
+      "adjustment": -0.068,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 014",
+      "skill": 0.119,
+      "adjustment": -0.075,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 015",
+      "skill": 0.3,
+      "adjustment": 0.118,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 016",
+      "skill": 0.062,
+      "adjustment": -0.079,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 017",
+      "skill": 0.127,
+      "adjustment": 0.091,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 018",
+      "skill": 0.193,
+      "adjustment": 0.1,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 019",
+      "skill": 0.082,
+      "adjustment": -0.103,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 020",
+      "skill": 0.271,
+      "adjustment": -0.094,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 021",
+      "skill": 0.238,
+      "adjustment": -0.104,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 022",
+      "skill": -0.09,
+      "adjustment": -0.088,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 023",
+      "skill": 0.388,
+      "adjustment": 0.123,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 024",
+      "skill": 0.046,
+      "adjustment": 0.119,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 025",
+      "skill": 0.287,
+      "adjustment": -0.102,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 026",
+      "skill": -0.068,
+      "adjustment": -0.01,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 027",
+      "skill": 0.174,
+      "adjustment": -0.061,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 028",
+      "skill": -0.01,
+      "adjustment": -0.108,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 029",
+      "skill": -0.221,
+      "adjustment": -0.053,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 030",
+      "skill": 0.156,
+      "adjustment": -0.125,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 031",
+      "skill": 0.193,
+      "adjustment": 0.087,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 032",
+      "skill": -0.096,
+      "adjustment": -0.077,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 033",
+      "skill": 0.035,
+      "adjustment": 0.025,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 034",
+      "skill": -0.172,
+      "adjustment": 0.086,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 035",
+      "skill": -0.168,
+      "adjustment": -0.078,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 036",
+      "skill": 0.129,
+      "adjustment": 0.095,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 037",
+      "skill": -0.086,
+      "adjustment": 0.111,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 038",
+      "skill": 0.227,
+      "adjustment": -0.111,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 039",
+      "skill": 0.195,
+      "adjustment": -0.052,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 040",
+      "skill": 0.094,
+      "adjustment": 0.021,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 041",
+      "skill": 0.137,
+      "adjustment": -0.018,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 042",
+      "skill": 0.018,
+      "adjustment": 0.098,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 043",
+      "skill": -0.189,
+      "adjustment": 0.057,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 044",
+      "skill": 0.033,
+      "adjustment": -0.049,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 045",
+      "skill": -0.074,
+      "adjustment": -0.054,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 046",
+      "skill": 0.029,
+      "adjustment": 0.123,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 047",
+      "skill": -0.111,
+      "adjustment": -0.123,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 048",
+      "skill": -0.189,
+      "adjustment": -0.111,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 049",
+      "skill": -0.135,
+      "adjustment": 0.119,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 050",
+      "skill": -0.207,
+      "adjustment": 0.034,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 051",
+      "skill": -0.35,
+      "adjustment": -0.102,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 052",
+      "skill": 0.046,
+      "adjustment": -0.087,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 053",
+      "skill": -0.051,
+      "adjustment": 0.079,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 054",
+      "skill": 0.052,
+      "adjustment": 0.067,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 055",
+      "skill": -0.0,
+      "adjustment": -0.038,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 056",
+      "skill": -0.176,
+      "adjustment": 0.038,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 057",
+      "skill": 0.031,
+      "adjustment": -0.036,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 058",
+      "skill": 0.105,
+      "adjustment": 0.034,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 059",
+      "skill": -0.33,
+      "adjustment": 0.044,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 060",
+      "skill": -0.305,
+      "adjustment": 0.006,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 061",
+      "skill": -0.262,
+      "adjustment": -0.083,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 062",
+      "skill": -0.192,
+      "adjustment": -0.073,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 063",
+      "skill": -0.106,
+      "adjustment": -0.107,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 064",
+      "skill": -0.118,
+      "adjustment": -0.008,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 065",
+      "skill": -0.053,
+      "adjustment": -0.071,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 066",
+      "skill": -0.248,
+      "adjustment": 0.05,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 067",
+      "skill": -0.346,
+      "adjustment": -0.108,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 068",
+      "skill": 0.064,
+      "adjustment": 0.083,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 069",
+      "skill": -0.2,
+      "adjustment": -0.062,
+      "notes": "est. avg. field tier"
+    },
+    {
+      "name": "Tour Member 070",
+      "skill": 0.05,
+      "adjustment": 0.008,
+      "notes": "est. avg. field tier"
+    }
+  ]
+}

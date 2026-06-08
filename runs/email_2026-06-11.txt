@@ -1,0 +1,31 @@
+
+⚠ DATA NOTE: DataGolf API returned 403 this run. Skills from 2026-06-04 Memorial sidecar;
+  Morikawa/Hovland/Koepka/Homa use OWGR-estimated baselines. Course fit manually set.
+  Odds from public sportsbooks as of 2026-06-08. Direction reliable; exact % approximate.
+
+PGA forecast — RBC Canadian Open
+TPC Toronto at Osprey Valley (North Course) · 2026-06-11 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Rory McIlroy             5.8%  (top5 20.2, top10 32.2)
+   2. Viktor Hovland           4.2%  (top5 16.3, top10 26.6)
+   3. Matt Fitzpatrick         4.2%  (top5 15.2, top10 25.4)
+   4. Tommy Fleetwood          3.0%  (top5 11.9, top10 20.8)
+   5. Russell Henley           3.0%  (top5 11.7, top10 20.6)
+   6. Collin Morikawa          2.8%  (top5 11.7, top10 21.0)
+   7. Si Woo Kim               2.5%  (top5 10.6, top10 18.9)
+   8. Sam Burns                2.4%  (top5 9.9, top10 17.9)
+   9. J.J. Spaun               1.9%  (top5 8.6, top10 15.7)
+  10. Chris Gotterup           1.7%  (top5 8.2, top10 15.0)
+  11. Maverick McNealy         1.7%  (top5 8.1, top10 14.7)
+  12. Brooks Koepka            1.7%  (top5 8.2, top10 15.1)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Brooks Koepka 15.1%, Maverick McNealy 14.7%, Alex Smalley 14.4%, Ben Griffin 14.3%, Robert MacIntyre 13.7%, Alex Noren 13.6%
+ [2] Value vs market: Viktor Hovland -0.2 @23, Mackenzie Hughes -0.4 @126, Nick Taylor -0.5 @56, Robert MacIntyre -0.6 @46, Corey Conners -1.1 @51, Eric Cole -1.3 @47
+ [3] Course-fit: Ryan Fox +0.35, Rory McIlroy +0.22, Sam Burns +0.20, Collin Morikawa +0.18, Matt Fitzpatrick +0.15, Tommy Fleetwood +0.12
+ [4] Reputation gap: 
+
+ SYNTHESIS (multiple lenses): Robert MacIntyre [ceiling+value]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
