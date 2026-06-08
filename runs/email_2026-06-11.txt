@@ -1,31 +1,26 @@
-
-⚠ DATA NOTE: DataGolf API returned 403 this run. Skills from 2026-06-04 Memorial sidecar;
-  Morikawa/Hovland/Koepka/Homa use OWGR-estimated baselines. Course fit manually set.
-  Odds from public sportsbooks as of 2026-06-08. Direction reliable; exact % approximate.
-
-PGA forecast — RBC Canadian Open
-TPC Toronto at Osprey Valley (North Course) · 2026-06-11 · 40,000 sims · cut top 65+ties
+PGA forecast — the Memorial Tournament presented by Workday
+Muirfield Village Golf Club · 2026-06-11 · 40,000 sims · cut top 50+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Rory McIlroy             5.8%  (top5 20.2, top10 32.2)
-   2. Viktor Hovland           4.2%  (top5 16.3, top10 26.6)
-   3. Matt Fitzpatrick         4.2%  (top5 15.2, top10 25.4)
-   4. Tommy Fleetwood          3.0%  (top5 11.9, top10 20.8)
-   5. Russell Henley           3.0%  (top5 11.7, top10 20.6)
-   6. Collin Morikawa          2.8%  (top5 11.7, top10 21.0)
-   7. Si Woo Kim               2.5%  (top5 10.6, top10 18.9)
-   8. Sam Burns                2.4%  (top5 9.9, top10 17.9)
-   9. J.J. Spaun               1.9%  (top5 8.6, top10 15.7)
-  10. Chris Gotterup           1.7%  (top5 8.2, top10 15.0)
-  11. Maverick McNealy         1.7%  (top5 8.1, top10 14.7)
-  12. Brooks Koepka            1.7%  (top5 8.2, top10 15.1)
+   1. Scottie Scheffler       16.2%  (top5 43.7, top10 60.9)
+   2. Russell Henley           4.8%  (top5 19.4, top10 33.1)
+   3. Ludvig Aberg             4.7%  (top5 19.9, top10 34.4)
+   4. Rory McIlroy             4.7%  (top5 19.2, top10 33.0)
+   5. Si Woo Kim               4.1%  (top5 17.9, top10 31.1)
+   6. Cameron Young            3.7%  (top5 16.6, top10 29.8)
+   7. Xander Schauffele        3.7%  (top5 16.3, top10 29.0)
+   8. Matt Fitzpatrick         3.6%  (top5 15.7, top10 28.5)
+   9. J.J. Spaun               2.5%  (top5 11.8, top10 22.7)
+  10. Patrick Cantlay          2.5%  (top5 12.3, top10 23.8)
+  11. Tommy Fleetwood          2.4%  (top5 11.4, top10 22.3)
+  12. Justin Thomas            2.2%  (top5 10.7, top10 20.9)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Brooks Koepka 15.1%, Maverick McNealy 14.7%, Alex Smalley 14.4%, Ben Griffin 14.3%, Robert MacIntyre 13.7%, Alex Noren 13.6%
- [2] Value vs market: Viktor Hovland -0.2 @23, Mackenzie Hughes -0.4 @126, Nick Taylor -0.5 @56, Robert MacIntyre -0.6 @46, Corey Conners -1.1 @51, Eric Cole -1.3 @47
- [3] Course-fit: Ryan Fox +0.35, Rory McIlroy +0.22, Sam Burns +0.20, Collin Morikawa +0.18, Matt Fitzpatrick +0.15, Tommy Fleetwood +0.12
- [4] Reputation gap: 
+ [1] Deep ceiling: Tommy Fleetwood 22.3%, Ben Griffin 21.3%, Justin Thomas 20.9%, Alex Smalley 18.7%, Min Woo Lee 18.4%, Hideki Matsuyama 18.2%
+ [2] Value vs market: Scottie Scheffler +13.7 @33, Russell Henley +4.8 @2901, Ludvig Aberg +4.7 @1470, Si Woo Kim +4.0 @907, Rory McIlroy +3.9 @98, Cameron Young +3.7 @2834
+ [3] Course-fit: Si Woo Kim +0.57, Russell Henley +0.53, Scottie Scheffler +0.50, Justin Thomas +0.45, Ryo Hisatsune +0.45, Ludvig Aberg +0.44
+ [4] Reputation gap: Matt Kuchar (OWGR 171/DG 114), Denny McCarthy (OWGR 103/DG 67), Mac Meissner (OWGR 86/DG 55), Alex Fitzpatrick (OWGR 73/DG 42), Adam Scott (OWGR 50/DG 21), Eric Cole (OWGR 63/DG 36)
 
- SYNTHESIS (multiple lenses): Robert MacIntyre [ceiling+value]
+ SYNTHESIS (multiple lenses): Scottie Scheffler [value+fit]; Russell Henley [value+fit]; Ludvig Aberg [value+fit]; Si Woo Kim [value+fit]; Justin Thomas [ceiling+fit]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
