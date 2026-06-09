@@ -2,8 +2,12 @@ name: Weekly PGA forecast
 
 on:
   schedule:
-    # Monday 14:00 UTC (after DataGolf's ~12:00 UTC Monday feed refresh).
-    - cron: "0 14 * * 1"
+    # Tuesday 16:11 UTC. DataGolf only publishes the upcoming event's model on
+    # Monday afternoon/Tuesday, so a Monday run pulls last week's data. Tuesday
+    # guarantees fresh inputs + a complete field. Off the top-of-hour to dodge
+    # GitHub's cron congestion (which delays :00 jobs). A staleness guard in
+    # fetch_datagolf.py fails the run rather than emailing stale data, just in case.
+    - cron: "11 16 * * 2"
   workflow_dispatch: {}   # allow manual runs from the Actions tab / gh CLI
 
 permissions:

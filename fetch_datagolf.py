@@ -25,6 +25,7 @@ Usage:
 """
 
 import argparse
+import datetime
 import json
 import os
 import sys
@@ -51,6 +52,10 @@ def main():
                          "size: >=100 players -> 65 (standard event), else -> 50 "
                          "(limited/signature/major field). Pass 0 for a no-cut event.")
     ap.add_argument("--out-dir", default="runs")
+    ap.add_argument("--max-stale-days", type=float, default=4.0,
+                    help="Abort if DataGolf's last_updated is older than this many days. "
+                         "Guards against emailing last week's forecast when the new event's "
+                         "model isn't published yet. Set 0 to disable.")
     args = ap.parse_args()
 
     key = os.environ.get("DATAGOLF_API_KEY")
@@ -59,6 +64,26 @@ def main():
 
     # --- pull the four feeds (all auto-target the current upcoming PGA event) -----
     decomp = _get("preds/player-decompositions", key, tour="pga")
+
+    # Staleness guard. DataGolf publishes the upcoming event's model Monday
+    # afternoon / Tuesday. Run too early and the feed still serves LAST week's
+    # event, which would otherwise be emailed as a duplicate with this week's date.
+    # Refuse to proceed if the data is older than --max-stale-days.
+    if args.max_stale_days:
+        lu = (decomp.get("last_updated") or "").replace("UTC", "").strip()
+        try:
+            ts = datetime.datetime.strptime(lu, "%Y-%m-%d %H:%M:%S").replace(
+                tzinfo=datetime.timezone.utc)
+            age = (datetime.datetime.now(datetime.timezone.utc) - ts).total_seconds() / 86400
+            if age > args.max_stale_days:
+                sys.exit(
+                    f"STALE DATA: DataGolf last_updated {lu} UTC is {age:.1f} days old "
+                    f"(limit {args.max_stale_days}). The new event's model isn't out yet "
+                    f"(feed still shows {decomp.get('event_name')!r}). Refusing to build a "
+                    f"stale forecast — try again later.")
+        except ValueError:
+            print(f"  warning: couldn't parse last_updated {lu!r}; skipping staleness check")
+
     pre = _get("preds/pre-tournament", key, tour="pga", odds_format="percent")
     skills = _get("preds/skill-ratings", key, display="value")
     rankings = _get("preds/get-dg-rankings", key)
