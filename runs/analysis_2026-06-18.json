@@ -1,0 +1,426 @@
+{
+  "event": "U.S. Open (Shinnecock Hills) \u2014 FALLBACK: DataGolf API unreachable",
+  "course": "Shinnecock Hills Golf Club",
+  "date": "2026-06-18",
+  "sims": 40000,
+  "cut_line": 60,
+  "favorites": [
+    {
+      "player": "Tommy Fleetwood",
+      "win": 5.69,
+      "top5": 19.68,
+      "top10": 31.82,
+      "make_cut": 76.1,
+      "win_rank": 1
+    },
+    {
+      "player": "Matt Fitzpatrick",
+      "win": 5.02,
+      "top5": 18.02,
+      "top10": 29.32,
+      "make_cut": 74.3,
+      "win_rank": 2
+    },
+    {
+      "player": "Sam Burns",
+      "win": 4.28,
+      "top5": 16.26,
+      "top10": 27.09,
+      "make_cut": 72.8,
+      "win_rank": 3
+    },
+    {
+      "player": "Collin Morikawa",
+      "win": 3.62,
+      "top5": 13.94,
+      "top10": 23.86,
+      "make_cut": 69.5,
+      "win_rank": 4
+    },
+    {
+      "player": "Alex Noren",
+      "win": 3.27,
+      "top5": 13.29,
+      "top10": 22.89,
+      "make_cut": 68.4,
+      "win_rank": 5
+    },
+    {
+      "player": "Wyndham Clark",
+      "win": 2.8,
+      "top5": 11.43,
+      "top10": 20.22,
+      "make_cut": 66.1,
+      "win_rank": 6
+    },
+    {
+      "player": "Justin Rose",
+      "win": 2.6,
+      "top5": 11.52,
+      "top10": 20.5,
+      "make_cut": 66.4,
+      "win_rank": 7
+    },
+    {
+      "player": "Kristoffer Reitan",
+      "win": 2.51,
+      "top5": 10.94,
+      "top10": 19.76,
+      "make_cut": 65.5,
+      "win_rank": 8
+    },
+    {
+      "player": "Shane Lowry",
+      "win": 2.38,
+      "top5": 10.63,
+      "top10": 19.26,
+      "make_cut": 65.2,
+      "win_rank": 9
+    },
+    {
+      "player": "Viktor Hovland",
+      "win": 2.36,
+      "top5": 10.14,
+      "top10": 18.57,
+      "make_cut": 64.4,
+      "win_rank": 10
+    },
+    {
+      "player": "Nicolai Hojgaard",
+      "win": 2.21,
+      "top5": 9.83,
+      "top10": 17.98,
+      "make_cut": 63.9,
+      "win_rank": 11
+    },
+    {
+      "player": "Eric Cole",
+      "win": 2.14,
+      "top5": 9.39,
+      "top10": 17.16,
+      "make_cut": 63.0,
+      "win_rank": 12
+    },
+    {
+      "player": "Robert MacIntyre",
+      "win": 2.06,
+      "top5": 9.35,
+      "top10": 17.39,
+      "make_cut": 63.5,
+      "win_rank": 13
+    },
+    {
+      "player": "Aaron Rai",
+      "win": 1.94,
+      "top5": 8.91,
+      "top10": 16.61,
+      "make_cut": 62.3,
+      "win_rank": 14
+    },
+    {
+      "player": "Nick Taylor",
+      "win": 1.87,
+      "top5": 8.12,
+      "top10": 15.34,
+      "make_cut": 61.0,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Nicolai Hojgaard",
+        "win": 2.21,
+        "top5": 9.83,
+        "top10": 17.98,
+        "make_cut": 63.9,
+        "std": 2.76,
+        "win_rank": 11,
+        "ceiling": 17.98
+      },
+      {
+        "player": "Robert MacIntyre",
+        "win": 2.06,
+        "top5": 9.35,
+        "top10": 17.39,
+        "make_cut": 63.5,
+        "std": 2.67,
+        "win_rank": 13,
+        "ceiling": 17.39
+      },
+      {
+        "player": "Eric Cole",
+        "win": 2.14,
+        "top5": 9.39,
+        "top10": 17.16,
+        "make_cut": 63.0,
+        "std": 2.68,
+        "win_rank": 12,
+        "ceiling": 17.16
+      },
+      {
+        "player": "Aaron Rai",
+        "win": 1.94,
+        "top5": 8.91,
+        "top10": 16.61,
+        "make_cut": 62.3,
+        "std": 2.61,
+        "win_rank": 14,
+        "ceiling": 16.61
+      },
+      {
+        "player": "Alex Fitzpatrick",
+        "win": 1.86,
+        "top5": 8.76,
+        "top10": 16.06,
+        "make_cut": 61.7,
+        "std": 2.68,
+        "win_rank": 16,
+        "ceiling": 16.06
+      },
+      {
+        "player": "Nick Taylor",
+        "win": 1.87,
+        "top5": 8.12,
+        "top10": 15.34,
+        "make_cut": 61.0,
+        "std": 2.61,
+        "win_rank": 15,
+        "ceiling": 15.34
+      }
+    ],
+    "value": [
+      {
+        "player": "Alex Noren",
+        "win": 3.27,
+        "top5": 13.29,
+        "top10": 22.89,
+        "make_cut": 68.4,
+        "mkt_win": 1.9,
+        "dg_win": 2.25,
+        "edge": 1.37,
+        "odds": 35.75,
+        "dg_agrees": true
+      },
+      {
+        "player": "Collin Morikawa",
+        "win": 3.62,
+        "top5": 13.94,
+        "top10": 23.86,
+        "make_cut": 69.5,
+        "mkt_win": 2.8,
+        "dg_win": 3.03,
+        "edge": 0.82,
+        "odds": 24.27,
+        "dg_agrees": false
+      },
+      {
+        "player": "Eric Cole",
+        "win": 2.14,
+        "top5": 9.39,
+        "top10": 17.16,
+        "make_cut": 63.0,
+        "mkt_win": 1.59,
+        "dg_win": 1.58,
+        "edge": 0.55,
+        "odds": 42.74,
+        "dg_agrees": false
+      },
+      {
+        "player": "Denny McCarthy",
+        "win": 1.07,
+        "top5": 5.6,
+        "top10": 11.13,
+        "make_cut": 54.5,
+        "mkt_win": 0.54,
+        "dg_win": 0.47,
+        "edge": 0.53,
+        "odds": 124.57,
+        "dg_agrees": false
+      },
+      {
+        "player": "Shane Lowry",
+        "win": 2.38,
+        "top5": 10.63,
+        "top10": 19.26,
+        "make_cut": 65.2,
+        "mkt_win": 1.86,
+        "dg_win": 1.91,
+        "edge": 0.52,
+        "odds": 36.57,
+        "dg_agrees": false
+      },
+      {
+        "player": "Andrew Putnam",
+        "win": 1.24,
+        "top5": 6.35,
+        "top10": 12.43,
+        "make_cut": 56.5,
+        "mkt_win": 0.75,
+        "dg_win": 0.63,
+        "edge": 0.49,
+        "odds": 90.57,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Tommy Fleetwood",
+        "win": 5.69,
+        "top5": 19.68,
+        "top10": 31.82,
+        "make_cut": 76.1,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 1
+      },
+      {
+        "player": "Matt Fitzpatrick",
+        "win": 5.02,
+        "top5": 18.02,
+        "top10": 29.32,
+        "make_cut": 74.3,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 2
+      },
+      {
+        "player": "Sam Burns",
+        "win": 4.28,
+        "top5": 16.26,
+        "top10": 27.09,
+        "make_cut": 72.8,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 3
+      },
+      {
+        "player": "Collin Morikawa",
+        "win": 3.62,
+        "top5": 13.94,
+        "top10": 23.86,
+        "make_cut": 69.5,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 4
+      },
+      {
+        "player": "Alex Noren",
+        "win": 3.27,
+        "top5": 13.29,
+        "top10": 22.89,
+        "make_cut": 68.4,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 5
+      },
+      {
+        "player": "Wyndham Clark",
+        "win": 2.8,
+        "top5": 11.43,
+        "top10": 20.22,
+        "make_cut": 66.1,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 6
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Ben James",
+        "win": 0.46,
+        "top5": 2.97,
+        "top10": 6.4,
+        "make_cut": 45.0,
+        "owgr": 501,
+        "dg_rank": 143,
+        "gap": 358
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.26,
+        "top5": 1.75,
+        "top10": 3.99,
+        "make_cut": 38.0,
+        "owgr": 426,
+        "dg_rank": 211,
+        "gap": 215
+      },
+      {
+        "player": "Peter Malnati",
+        "win": 0.17,
+        "top5": 1.05,
+        "top10": 2.62,
+        "make_cut": 32.4,
+        "owgr": 501,
+        "dg_rank": 303,
+        "gap": 198
+      },
+      {
+        "player": "Kris Ventura",
+        "win": 0.34,
+        "top5": 2.16,
+        "top10": 5.07,
+        "make_cut": 41.6,
+        "owgr": 298,
+        "dg_rank": 181,
+        "gap": 117
+      },
+      {
+        "player": "Dylan Wu",
+        "win": 0.16,
+        "top5": 1.24,
+        "top10": 2.99,
+        "make_cut": 34.0,
+        "owgr": 395,
+        "dg_rank": 278,
+        "gap": 117
+      },
+      {
+        "player": "Jimmy Stanger",
+        "win": 0.07,
+        "top5": 0.57,
+        "top10": 1.62,
+        "make_cut": 27.2,
+        "owgr": 501,
+        "dg_rank": 415,
+        "gap": 86
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Collin Morikawa",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 3.62
+    },
+    {
+      "player": "Alex Noren",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 3.27
+    },
+    {
+      "player": "Eric Cole",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 2.14
+    }
+  ]
+}
