@@ -196,10 +196,10 @@
         "top5": 11.84,
         "top10": 21.54,
         "make_cut": 74.1,
-        "mkt_win": 1.78,
-        "dg_win": 2.31,
-        "edge": 0.84,
-        "odds": 38.57,
+        "mkt_win": 1.92,
+        "dg_win": 2.5,
+        "edge": 0.7,
+        "odds": 36.57,
         "dg_agrees": true
       },
       {
@@ -208,10 +208,10 @@
         "top5": 16.24,
         "top10": 27.68,
         "make_cut": 78.8,
-        "mkt_win": 3.35,
-        "dg_win": 3.97,
-        "edge": 0.76,
-        "odds": 20.49,
+        "mkt_win": 3.42,
+        "dg_win": 3.95,
+        "edge": 0.69,
+        "odds": 20.54,
         "dg_agrees": true
       },
       {
@@ -220,22 +220,10 @@
         "top5": 16.05,
         "top10": 27.65,
         "make_cut": 78.4,
-        "mkt_win": 3.28,
-        "dg_win": 3.98,
-        "edge": 0.64,
-        "odds": 20.94,
-        "dg_agrees": true
-      },
-      {
-        "player": "Xander Schauffele",
-        "win": 4.21,
-        "top5": 16.41,
-        "top10": 27.93,
-        "make_cut": 79.0,
-        "mkt_win": 3.79,
-        "dg_win": 4.83,
-        "edge": 0.42,
-        "odds": 18.09,
+        "mkt_win": 3.45,
+        "dg_win": 4.04,
+        "edge": 0.47,
+        "odds": 20.36,
         "dg_agrees": true
       },
       {
@@ -244,10 +232,10 @@
         "top5": 11.06,
         "top10": 19.95,
         "make_cut": 72.8,
-        "mkt_win": 1.85,
-        "dg_win": 2.23,
-        "edge": 0.4,
-        "odds": 37.06,
+        "mkt_win": 1.84,
+        "dg_win": 2.18,
+        "edge": 0.41,
+        "odds": 38.15,
         "dg_agrees": true
       },
       {
@@ -256,10 +244,22 @@
         "top5": 9.06,
         "top10": 17.21,
         "make_cut": 69.2,
-        "mkt_win": 1.45,
-        "dg_win": 1.75,
+        "mkt_win": 1.43,
+        "dg_win": 1.7,
+        "edge": 0.41,
+        "odds": 49.01,
+        "dg_agrees": false
+      },
+      {
+        "player": "Xander Schauffele",
+        "win": 4.21,
+        "top5": 16.41,
+        "top10": 27.93,
+        "make_cut": 79.0,
+        "mkt_win": 3.82,
+        "dg_win": 4.73,
         "edge": 0.39,
-        "odds": 47.19,
+        "odds": 18.39,
         "dg_agrees": true
       }
     ],
