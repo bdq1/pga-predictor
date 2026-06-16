@@ -1,891 +1,945 @@
 {
-  "event": "U.S. Open (Shinnecock Hills) \u2014 FALLBACK: DataGolf API unreachable",
+  "event": "U.S. Open",
   "course": "Shinnecock Hills Golf Club",
   "date": "2026-06-18",
-  "cut_line": 60,
-  "source": "Fallback: DataGolf skill ratings from 2026-06-11 (RBC Canadian Open); no course-fit adjustments available",
+  "cut_line": 65,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
   "players": [
     {
-      "name": "Fleetwood, Tommy",
-      "skill": 1.818,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Scheffler, Scottie",
+      "skill": 2.845,
+      "adjustment": 0.21,
+      "notes": "DG fit +0.21 (hist -0.04, fit +0.14)"
+    },
+    {
+      "name": "McIlroy, Rory",
+      "skill": 2.108,
+      "adjustment": 0.256,
+      "notes": "DG fit +0.26 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.715,
+      "adjustment": 0.546,
+      "notes": "DG fit +0.55 (hist +0.02, fit +0.04)"
+    },
+    {
+      "name": "Rahm, Jon",
+      "skill": 2.085,
+      "adjustment": 0.175,
+      "notes": "DG fit +0.17 (hist -0.06, fit +0.05)"
     },
     {
       "name": "Fitzpatrick, Matt",
-      "skill": 1.718,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 1.823,
+      "adjustment": 0.405,
+      "notes": "DG fit +0.41 (hist +0.01, fit +0.12)"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.817,
+      "adjustment": 0.39,
+      "notes": "DG fit +0.39 (hist +0.02, fit +0.14)"
+    },
+    {
+      "name": "Aberg, Ludvig",
+      "skill": 1.708,
+      "adjustment": 0.245,
+      "notes": "DG fit +0.24 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.822,
+      "adjustment": 0.082,
+      "notes": "DG fit +0.08 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.697,
+      "adjustment": 0.199,
+      "notes": "DG fit +0.20 (hist -0.03, fit +0.15)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.704,
+      "adjustment": 0.121,
+      "notes": "DG fit +0.12 (hist -0.00, fit +0.18)"
     },
     {
       "name": "Burns, Sam",
-      "skill": 1.596,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Clark, Wyndham",
-      "skill": 1.25,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 1.564,
+      "adjustment": 0.108,
+      "notes": "DG fit +0.11 (hist +0.01, fit +0.05)"
     },
     {
       "name": "Morikawa, Collin",
-      "skill": 1.423,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 1.393,
+      "adjustment": 0.269,
+      "notes": "DG fit +0.27 (hist -0.04, fit +0.11)"
     },
     {
-      "name": "Reitan, Kristoffer",
-      "skill": 1.182,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Rai, Aaron",
-      "skill": 1.03,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "MacIntyre, Robert",
-      "skill": 1.076,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Hojgaard, Nicolai",
-      "skill": 1.113,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Rose, Justin",
-      "skill": 1.254,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Noren, Alex",
-      "skill": 1.381,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Fitzpatrick, Alex",
-      "skill": 0.963,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Lowry, Shane",
-      "skill": 1.184,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Cauley, Bud",
-      "skill": 0.766,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Bridgeman, Jacob",
-      "skill": 0.845,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Cantlay, Patrick",
+      "skill": 1.574,
+      "adjustment": 0.07,
+      "notes": "DG fit +0.07 (hist -0.02, fit +0.06)"
     },
     {
       "name": "Hovland, Viktor",
-      "skill": 1.094,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 1.236,
+      "adjustment": 0.335,
+      "notes": "DG fit +0.34 (hist -0.04, fit +0.10)"
     },
     {
-      "name": "Cole, Eric",
-      "skill": 1.069,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Spaun, J.J.",
+      "skill": 1.468,
+      "adjustment": 0.073,
+      "notes": "DG fit +0.07 (hist -0.04, fit +0.09)"
     },
     {
-      "name": "Hall, Harry",
-      "skill": 0.879,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "DeChambeau, Bryson",
+      "skill": 1.262,
+      "adjustment": 0.223,
+      "notes": "DG fit +0.22 (hist -0.01, fit -0.04)"
     },
     {
-      "name": "Taylor, Nick",
-      "skill": 0.923,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Reed, Patrick",
+      "skill": 1.093,
+      "adjustment": 0.354,
+      "notes": "DG fit +0.35 (hist +0.01, fit +0.08)"
     },
     {
-      "name": "Meissner, Mac",
-      "skill": 0.761,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Thomas, Justin",
+      "skill": 1.25,
+      "adjustment": 0.177,
+      "notes": "DG fit +0.18 (hist -0.02, fit +0.05)"
     },
     {
-      "name": "Mitchell, Keith",
-      "skill": 0.759,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Lee, Min Woo",
+      "skill": 1.119,
+      "adjustment": 0.305,
+      "notes": "DG fit +0.30 (hist -0.04, fit +0.01)"
+    },
+    {
+      "name": "Hatton, Tyrrell",
+      "skill": 1.01,
+      "adjustment": 0.368,
+      "notes": "DG fit +0.37 (hist +0.02, fit +0.02)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.123,
+      "adjustment": 0.245,
+      "notes": "DG fit +0.24 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.366,
+      "adjustment": -0.008,
+      "notes": "DG fit -0.01 (hist -0.04, fit -0.04)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.198,
+      "adjustment": 0.13,
+      "notes": "DG fit +0.13 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Kitayama, Kurt",
+      "skill": 1.186,
+      "adjustment": 0.123,
+      "notes": "DG fit +0.12 (hist -0.04, fit +0.01)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.306,
+      "adjustment": -0.003,
+      "notes": "DG fit -0.00 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.455,
+      "adjustment": -0.157,
+      "notes": "DG fit -0.16 (hist -0.04, fit +0.04)"
     },
     {
       "name": "Koepka, Brooks",
-      "skill": 0.634,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.669,
+      "adjustment": 0.627,
+      "notes": "DG fit +0.63 (hist +0.03, fit -0.00)"
     },
     {
-      "name": "Thorbjornsen, Michael",
-      "skill": 0.572,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "English, Harris",
+      "skill": 1.329,
+      "adjustment": -0.042,
+      "notes": "DG fit -0.04 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Lowry, Shane",
+      "skill": 1.18,
+      "adjustment": 0.082,
+      "notes": "DG fit +0.08 (hist -0.05, fit +0.07)"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.954,
+      "adjustment": 0.307,
+      "notes": "DG fit +0.31 (hist -0.04, fit +0.16)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.98,
+      "adjustment": 0.281,
+      "notes": "DG fit +0.28 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 1.257,
+      "adjustment": -0.018,
+      "notes": "DG fit -0.02 (hist -0.06, fit +0.01)"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.998,
+      "adjustment": 0.228,
+      "notes": "DG fit +0.23 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.069,
+      "adjustment": 0.138,
+      "notes": "DG fit +0.14 (hist -0.00, fit +0.05)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.099,
+      "adjustment": 0.104,
+      "notes": "DG fit +0.10 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 1.028,
+      "adjustment": 0.166,
+      "notes": "DG fit +0.17 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.172,
+      "adjustment": -0.043,
+      "notes": "DG fit -0.04 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 1.021,
+      "adjustment": 0.097,
+      "notes": "DG fit +0.10 (hist -0.03, fit +0.01)"
+    },
+    {
+      "name": "Niemann, Joaquin",
+      "skill": 0.804,
+      "adjustment": 0.305,
+      "notes": "DG fit +0.30 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 1.152,
+      "adjustment": -0.059,
+      "notes": "DG fit -0.06 (hist -0.01, fit +0.12)"
+    },
+    {
+      "name": "Hojgaard, Nicolai",
+      "skill": 0.967,
+      "adjustment": 0.096,
+      "notes": "DG fit +0.10 (hist -0.04, fit -0.05)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.94,
+      "adjustment": 0.085,
+      "notes": "DG fit +0.09 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 1.024,
+      "adjustment": -0.058,
+      "notes": "DG fit -0.06 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Puig, David",
+      "skill": 0.955,
+      "adjustment": -0.002,
+      "notes": "DG fit -0.00 (hist -0.04, fit -0.04)"
+    },
+    {
+      "name": "Knapp, Jake",
+      "skill": 1.237,
+      "adjustment": -0.297,
+      "notes": "DG fit -0.30 (hist -0.04, fit -0.02)"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.822,
+      "adjustment": 0.066,
+      "notes": "DG fit +0.07 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.985,
+      "adjustment": -0.098,
+      "notes": "DG fit -0.10 (hist -0.05, fit +0.03)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.902,
+      "adjustment": -0.015,
+      "notes": "DG fit -0.01 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.854,
+      "adjustment": 0.004,
+      "notes": "DG fit +0.00 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.858,
+      "adjustment": -0.007,
+      "notes": "DG fit -0.01 (hist -0.01, fit -0.03)"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.787,
+      "adjustment": 0.051,
+      "notes": "DG fit +0.05 (hist -0.04, fit -0.02)"
     },
     {
       "name": "Fox, Ryan",
-      "skill": 0.673,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.807,
+      "adjustment": -0.005,
+      "notes": "DG fit -0.01 (hist +0.00, fit -0.03)"
     },
     {
-      "name": "Smith, Jordan",
-      "skill": 0.46,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Koivun, Jackson",
+      "skill": 0.872,
+      "adjustment": -0.086,
+      "notes": "DG fit -0.09 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.604,
+      "adjustment": 0.17,
+      "notes": "DG fit +0.17 (hist -0.01, fit +0.08)"
+    },
+    {
+      "name": "Fowler, Rickie",
+      "skill": 0.829,
+      "adjustment": -0.071,
+      "notes": "DG fit -0.07 (hist -0.01, fit +0.05)"
     },
     {
       "name": "Theegala, Sahith",
-      "skill": 0.58,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.556,
+      "adjustment": 0.183,
+      "notes": "DG fit +0.18 (hist -0.04, fit +0.01)"
     },
     {
-      "name": "Finau, Tony",
-      "skill": 0.313,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Brennan, Michael",
-      "skill": 0.437,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Hoey, Rico",
-      "skill": 0.43,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Thompson, Davis",
-      "skill": 0.469,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Conners, Corey",
-      "skill": 0.475,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Ghim, Doug",
-      "skill": 0.348,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Taylor, Nick",
+      "skill": 0.765,
+      "adjustment": -0.049,
+      "notes": "DG fit -0.05 (hist -0.04, fit +0.09)"
     },
     {
       "name": "Putnam, Andrew",
-      "skill": 0.706,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.575,
+      "adjustment": 0.134,
+      "notes": "DG fit +0.13 (hist -0.04, fit +0.19)"
     },
     {
-      "name": "Pendrith, Taylor",
-      "skill": 0.368,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Yellamaraju, Sudarshan",
-      "skill": 0.339,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Bezuidenhout, Christiaan",
-      "skill": 0.69,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Fisk, Steven",
-      "skill": 0.363,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Bhatia, Akshay",
+      "skill": 0.943,
+      "adjustment": -0.236,
+      "notes": "DG fit -0.24 (hist -0.04, fit +0.04)"
     },
     {
       "name": "Kim, Tom",
-      "skill": 0.22,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.346,
+      "adjustment": 0.331,
+      "notes": "DG fit +0.33 (hist -0.04, fit +0.06)"
     },
     {
-      "name": "Castillo, Ricky",
-      "skill": 0.281,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Johnson, Dustin",
+      "skill": 0.561,
+      "adjustment": 0.109,
+      "notes": "DG fit +0.11 (hist +0.01, fit -0.01)"
     },
     {
-      "name": "Neergaard-Petersen, Rasmus",
-      "skill": 0.226,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Hisatsune, Ryo",
+      "skill": 0.309,
+      "adjustment": 0.324,
+      "notes": "DG fit +0.32 (hist -0.04, fit +0.03)"
     },
     {
-      "name": "Bauchou, Zach",
-      "skill": 0.471,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Conners, Corey",
+      "skill": 0.406,
+      "adjustment": 0.204,
+      "notes": "DG fit +0.20 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.571,
+      "adjustment": 0.036,
+      "notes": "DG fit +0.04 (hist +0.02, fit +0.03)"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.662,
+      "adjustment": -0.057,
+      "notes": "DG fit -0.06 (hist -0.05, fit +0.05)"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.457,
+      "adjustment": 0.132,
+      "notes": "DG fit +0.13 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.432,
+      "adjustment": 0.142,
+      "notes": "DG fit +0.14 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.347,
+      "adjustment": 0.213,
+      "notes": "DG fit +0.21 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.631,
+      "adjustment": -0.073,
+      "notes": "DG fit -0.07 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.508,
+      "adjustment": 0.05,
+      "notes": "DG fit +0.05 (hist -0.04, fit +0.00)"
+    },
+    {
+      "name": "Schaper, Jayden",
+      "skill": 0.59,
+      "adjustment": -0.038,
+      "notes": "DG fit -0.04 (hist -0.04, fit +0.09)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.592,
+      "adjustment": -0.05,
+      "notes": "DG fit -0.05 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.319,
+      "adjustment": 0.178,
+      "notes": "DG fit +0.18 (hist -0.02, fit +0.05)"
     },
     {
       "name": "McGreevy, Max",
-      "skill": 0.318,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.3,
+      "adjustment": 0.184,
+      "notes": "DG fit +0.18 (hist -0.04, fit +0.07)"
     },
     {
       "name": "Greyserman, Max",
-      "skill": 0.393,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.327,
+      "adjustment": 0.154,
+      "notes": "DG fit +0.15 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Wallace, Matt",
-      "skill": 0.533,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Smith, Cameron",
+      "skill": 0.429,
+      "adjustment": 0.046,
+      "notes": "DG fit +0.05 (hist -0.03, fit +0.02)"
     },
     {
-      "name": "McCarthy, Denny",
-      "skill": 0.591,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Coody, Pierceson",
+      "skill": 0.549,
+      "adjustment": -0.08,
+      "notes": "DG fit -0.08 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Olesen, Thorbjorn",
+      "name": "Herbert, Lucas",
       "skill": 0.34,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "adjustment": 0.092,
+      "notes": "DG fit +0.09 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Moore, Taylor",
-      "skill": 0.23,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Homa, Max",
-      "skill": 0.342,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Smotherman, Austin",
-      "skill": 0.154,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Keefer, Johnny",
-      "skill": 0.145,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Li, Haotong",
-      "skill": 0.139,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Potgieter, Aldrich",
-      "skill": 0.054,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "James, Ben",
-      "skill": 0.08,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Jaeger, Stephan",
-      "skill": 0.263,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Yu, Kevin",
-      "skill": 0.057,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Hughes, Mackenzie",
-      "skill": 0.224,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Schmid, Matti",
-      "skill": 0.221,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Hossler, Beau",
-      "skill": 0.067,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Brennan, Michael",
+      "skill": 0.264,
+      "adjustment": 0.104,
+      "notes": "DG fit +0.10 (hist -0.04, fit -0.07)"
     },
     {
       "name": "Mouw, William",
-      "skill": 0.073,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.195,
+      "adjustment": 0.118,
+      "notes": "DG fit +0.12 (hist -0.04, fit -0.00)"
     },
     {
-      "name": "Hodges, Lee",
-      "skill": 0.044,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Kohles, Ben",
+      "skill": 0.099,
+      "adjustment": 0.196,
+      "notes": "DG fit +0.20 (hist -0.04, fit +0.09)"
     },
     {
-      "name": "Dumont De Chassart, Adrien",
-      "skill": 0.183,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Keefer, Johnny",
+      "skill": 0.141,
+      "adjustment": 0.087,
+      "notes": "DG fit +0.09 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Power, Seamus",
-      "skill": 0.142,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Kirk, Chris",
-      "skill": 0.274,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Eckroat, Austin",
-      "skill": 0.21,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Blanchet, Chandler",
-      "skill": -0.027,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Nakajima, Keita",
-      "skill": -0.151,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Parry, John",
-      "skill": 0.101,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Dou, Zecheng",
-      "skill": 0.076,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "James, Ben",
+      "skill": 0.112,
+      "adjustment": 0.107,
+      "notes": "DG fit +0.11 (hist -0.04, fit -0.00)"
     },
     {
       "name": "Suber, Jackson",
-      "skill": -0.144,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.08,
+      "adjustment": 0.131,
+      "notes": "DG fit +0.13 (hist -0.04, fit -0.01)"
     },
     {
-      "name": "Higgo, Garrick",
-      "skill": -0.103,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Ramey, Chad",
-      "skill": 0.074,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Schmid, Matti",
+      "skill": 0.185,
+      "adjustment": 0.002,
+      "notes": "DG fit +0.00 (hist -0.04, fit -0.04)"
     },
     {
       "name": "Grillo, Emiliano",
-      "skill": -0.157,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -0.018,
+      "adjustment": 0.164,
+      "notes": "DG fit +0.16 (hist -0.03, fit +0.06)"
     },
     {
-      "name": "Ewart, A.J.",
-      "skill": -0.029,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Kirk, Chris",
+      "skill": 0.232,
+      "adjustment": -0.103,
+      "notes": "DG fit -0.10 (hist -0.04, fit +0.01)"
     },
     {
-      "name": "Roy, Kevin",
-      "skill": 0.014,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Rodgers, Patrick",
+      "skill": 0.191,
+      "adjustment": -0.122,
+      "notes": "DG fit -0.12 (hist -0.00, fit -0.03)"
     },
     {
-      "name": "Hubbard, Mark",
-      "skill": -0.094,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Parry, John",
+      "skill": 0.01,
+      "adjustment": 0.036,
+      "notes": "DG fit +0.04 (hist -0.04, fit +0.04)"
     },
     {
-      "name": "Glover, Lucas",
-      "skill": 0.023,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Kimsey, Nathan",
+      "skill": -0.035,
+      "adjustment": 0.049,
+      "notes": "DG fit +0.05 (hist -0.04, fit +0.05)"
     },
     {
-      "name": "Ventura, Kris",
-      "skill": -0.1,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Dumont De Chassart, Adrien",
+      "skill": 0.094,
+      "adjustment": -0.086,
+      "notes": "DG fit -0.09 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Hadwin, Adam",
-      "skill": -0.434,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Ortiz, Carlos",
+      "skill": 0.131,
+      "adjustment": -0.123,
+      "notes": "DG fit -0.12 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Svensson, Adam",
-      "skill": -0.286,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Dossey, Cooper",
+      "skill": 0.149,
+      "adjustment": -0.157,
+      "notes": "DG fit -0.16 (hist -0.04, fit +0.02)"
     },
     {
-      "name": "Whaley, Vince",
-      "skill": 0.006,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Echavarria, Nico",
+      "skill": 0.202,
+      "adjustment": -0.219,
+      "notes": "DG fit -0.22 (hist -0.04, fit +0.04)"
     },
     {
-      "name": "Hoge, Tom",
-      "skill": -0.268,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Vegas, Jhonattan",
-      "skill": -0.342,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Brown, Dan",
-      "skill": -0.169,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Ryder, Sam",
-      "skill": 0.067,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Kanaya, Takumi",
-      "skill": -0.134,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Griffin, Lanto",
-      "skill": -0.105,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Blair, Zac",
+      "skill": -0.064,
+      "adjustment": -0.046,
+      "notes": "DG fit -0.05 (hist -0.04, fit +0.10)"
     },
     {
       "name": "Horschel, Billy",
-      "skill": -0.048,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": 0.108,
+      "adjustment": -0.219,
+      "notes": "DG fit -0.22 (hist -0.04, fit -0.00)"
     },
     {
-      "name": "Svensson, Jesper",
-      "skill": -0.317,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Stout, Preston",
+      "skill": -0.011,
+      "adjustment": -0.115,
+      "notes": "DG fit -0.12 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Fishburn, Patrick",
-      "skill": -0.231,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Saddier, Adrien",
+      "skill": -0.262,
+      "adjustment": 0.065,
+      "notes": "DG fit +0.07 (hist -0.04, fit +0.01)"
     },
     {
-      "name": "Pavon, Matthieu",
-      "skill": -0.199,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Waring, Paul",
-      "skill": -0.531,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Springer, Hayden",
-      "skill": -0.331,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Roy, Kevin",
+      "skill": -0.138,
+      "adjustment": -0.122,
+      "notes": "DG fit -0.12 (hist -0.04, fit +0.00)"
     },
     {
       "name": "Shipley, Neal",
-      "skill": -0.482,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -0.425,
+      "adjustment": 0.149,
+      "notes": "DG fit +0.15 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Dahmen, Joel",
-      "skill": -0.324,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Du Plessis, Hennie",
+      "skill": -0.015,
+      "adjustment": -0.284,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Clanton, Luke",
-      "skill": -0.511,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Coussaud, Ugo",
+      "skill": 0.024,
+      "adjustment": -0.333,
+      "notes": "DG fit -0.33 (hist -0.04, fit -0.05)"
     },
     {
-      "name": "Lipsky, David",
-      "skill": -0.162,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Crowe, Trace",
-      "skill": -0.327,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Vilips, Karl",
-      "skill": -0.295,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Lebioda, Hank",
-      "skill": -0.402,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "VanDerLaan, John",
-      "skill": -0.54,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Canter, Laurie",
+      "skill": -0.368,
+      "adjustment": 0.002,
+      "notes": "DG fit +0.00 (hist -0.04, fit -0.02)"
     },
     {
       "name": "Wu, Dylan",
-      "skill": -0.515,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -0.425,
+      "adjustment": 0.046,
+      "notes": "DG fit +0.05 (hist -0.04, fit +0.00)"
     },
     {
-      "name": "Dunlap, Nick",
-      "skill": -0.638,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Hirata, Kensei",
-      "skill": -0.679,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Skinns, David",
-      "skill": -0.473,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Nyholm, Pontus",
-      "skill": -0.503,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Peterson, Paul",
-      "skill": -0.342,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Sloan, Roger",
-      "skill": -0.702,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Willett, Danny",
-      "skill": -0.771,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Van Rooyen, Erik",
-      "skill": -0.36,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Silverman, Ben",
-      "skill": -0.537,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Garnett, Brice",
-      "skill": -0.574,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Kang, Jeffrey",
-      "skill": -0.663,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Jordan, Matthew",
+      "skill": -0.31,
+      "adjustment": -0.112,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.01)"
     },
     {
       "name": "Phillips, Chandler",
-      "skill": -0.644,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Chatfield, Davis",
-      "skill": -0.704,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -0.425,
+      "adjustment": -0.035,
+      "notes": "DG fit -0.04 (hist -0.04, fit +0.03)"
     },
     {
       "name": "Stanger, Jimmy",
-      "skill": -0.909,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -0.615,
+      "adjustment": 0.085,
+      "notes": "DG fit +0.09 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Lower, Justin",
-      "skill": -0.683,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Hammer, Cole",
+      "skill": -0.463,
+      "adjustment": -0.104,
+      "notes": "DG fit -0.10 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Campbell, Brian",
-      "skill": -0.726,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Surratt, Caleb",
+      "skill": -0.415,
+      "adjustment": -0.156,
+      "notes": "DG fit -0.16 (hist -0.04, fit -0.07)"
     },
     {
-      "name": "Schenk, Adam",
-      "skill": -1.026,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Silverman, Ben",
+      "skill": -0.489,
+      "adjustment": -0.151,
+      "notes": "DG fit -0.15 (hist -0.04, fit +0.03)"
     },
     {
-      "name": "Walker, Danny",
-      "skill": -0.697,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Nicholas, James",
+      "skill": -0.624,
+      "adjustment": -0.143,
+      "notes": "DG fit -0.14 (hist -0.04, fit -0.10)"
     },
     {
-      "name": "Malnati, Peter",
-      "skill": -0.6,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Russell, Miles",
+      "skill": -0.517,
+      "adjustment": -0.256,
+      "notes": "DG fit -0.26 (hist -0.04, fit -0.04)"
     },
     {
-      "name": "Lamprecht, Christo",
-      "skill": -0.822,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Higgs, Harry",
+      "skill": -0.857,
+      "adjustment": -0.018,
+      "notes": "DG fit -0.02 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Sato, Taihei",
+      "skill": -0.652,
+      "adjustment": -0.248,
+      "notes": "DG fit -0.25 (hist -0.04, fit -0.02)"
     },
     {
       "name": "Tosti, Alejandro",
-      "skill": -1.177,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -1.01,
+      "adjustment": 0.103,
+      "notes": "DG fit +0.10 (hist -0.04, fit -0.12)"
+    },
+    {
+      "name": "Yuan, Carl",
+      "skill": -0.856,
+      "adjustment": -0.063,
+      "notes": "DG fit -0.06 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Norgaard, Niklas",
+      "skill": -0.71,
+      "adjustment": -0.228,
+      "notes": "DG fit -0.23 (hist -0.04, fit -0.11)"
+    },
+    {
+      "name": "Montgomery, Taylor",
+      "skill": -0.687,
+      "adjustment": -0.326,
+      "notes": "DG fit -0.33 (hist -0.04, fit -0.03)"
     },
     {
       "name": "Rozo, Marcelo",
-      "skill": -0.98,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -1.012,
+      "adjustment": -0.034,
+      "notes": "DG fit -0.03 (hist -0.04, fit +0.01)"
     },
     {
-      "name": "Hoffman, Charley",
-      "skill": -0.867,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Davis, Cam",
-      "skill": -1.268,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Highsmith, Joe",
-      "skill": -1.119,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Riley, Davis",
-      "skill": -1.082,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Villegas, Camilo",
-      "skill": -0.856,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
-    },
-    {
-      "name": "Savoie, Joey",
-      "skill": -1.411,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Hardy, Nick",
+      "skill": -0.845,
+      "adjustment": -0.208,
+      "notes": "DG fit -0.21 (hist -0.04, fit -0.09)"
     },
     {
       "name": "Harrington, Padraig",
-      "skill": -1.038,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "skill": -1.048,
+      "adjustment": -0.017,
+      "notes": "DG fit -0.02 (hist -0.02, fit -0.05)"
     },
     {
-      "name": "Kizzire, Patton",
-      "skill": -0.994,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "McDowell, Graeme",
+      "skill": -0.914,
+      "adjustment": -0.166,
+      "notes": "DG fit -0.17 (hist -0.03, fit +0.02)"
     },
     {
-      "name": "Martin, Ben",
-      "skill": -1.203,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Uihlein, Peter",
+      "skill": -0.564,
+      "adjustment": -0.633,
+      "notes": "DG fit -0.63 (hist -0.02, fit -0.13)"
     },
     {
-      "name": "Anderson, Matthew",
-      "skill": -1.422,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Cowan, Ryder",
+      "skill": -1.046,
+      "adjustment": -0.164,
+      "notes": "DG fit -0.16 (hist -0.04, fit -0.04)"
     },
     {
-      "name": "Nesbitt, Drew",
-      "skill": -1.514,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Hidalgo Portillo, Angel",
+      "skill": -1.201,
+      "adjustment": -0.082,
+      "notes": "DG fit -0.08 (hist -0.04, fit -0.04)"
     },
     {
-      "name": "Campos, Rafael",
-      "skill": -1.468,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Leach, Greyson",
+      "skill": -1.532,
+      "adjustment": 0.16,
+      "notes": "DG fit +0.16 (hist -0.04, fit -0.02)"
     },
     {
-      "name": "O'Donovan, Declan",
-      "skill": -1.453,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Wu, Brandon",
+      "skill": -1.274,
+      "adjustment": -0.145,
+      "notes": "DG fit -0.14 (hist -0.04, fit -0.03)"
     },
     {
-      "name": "Matthews, Justin",
-      "skill": -2.248,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Celli, Filippo",
+      "skill": -1.313,
+      "adjustment": -0.154,
+      "notes": "DG fit -0.15 (hist -0.04, fit -0.08)"
     },
     {
-      "name": "O'Hair, Sean",
-      "skill": -1.891,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Van Paris, Jackson",
+      "skill": -1.117,
+      "adjustment": -0.379,
+      "notes": "DG fit -0.38 (hist -0.04, fit -0.04)"
     },
     {
-      "name": "Lew, Dawson",
-      "skill": -2.536,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Repetto Taylor, Rocco Paolo",
+      "skill": -1.296,
+      "adjustment": -0.273,
+      "notes": "DG fit -0.27 (hist -0.04, fit -0.14)"
     },
     {
-      "name": "Covello, Vince",
-      "skill": -2.306,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Peacock, Jake",
+      "skill": -1.53,
+      "adjustment": -0.102,
+      "notes": "DG fit -0.10 (hist -0.04, fit -0.05)"
     },
     {
-      "name": "McCulloch, Ashton",
-      "skill": -2.378,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Lee, Eric",
+      "skill": -1.409,
+      "adjustment": -0.312,
+      "notes": "DG fit -0.31 (hist -0.04, fit -0.05)"
     },
     {
-      "name": "Benson, Yohann",
-      "skill": -2.369,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Fang, Ethan",
+      "skill": -1.462,
+      "adjustment": -0.282,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Weir, Mike",
-      "skill": -2.815,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Howell, Mason",
+      "skill": -1.864,
+      "adjustment": -0.018,
+      "notes": "DG fit -0.02 (hist -0.04, fit -0.15)"
     },
     {
-      "name": "Sanderson, Calen",
-      "skill": -3.567,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Onishi, Kaito",
+      "skill": -1.672,
+      "adjustment": -0.238,
+      "notes": "DG fit -0.24 (hist -0.04, fit -0.07)"
     },
     {
-      "name": "Sihota, Jeevan",
-      "skill": -3.347,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Reilly, Logan",
+      "skill": -1.884,
+      "adjustment": -0.146,
+      "notes": "DG fit -0.15 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Desmarchais, Laurent",
-      "skill": -3.955,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Oiwa, Ryuichi",
+      "skill": -1.757,
+      "adjustment": -0.284,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.06)"
     },
     {
-      "name": "Zhao, Eric",
-      "skill": -4.405,
-      "adjustment": 0.0,
-      "notes": "DataGolf skill (RBC Canadian Open baseline); no Shinnecock fit adj (API blocked)"
+      "name": "Puebla, Giuseppe",
+      "skill": -2.182,
+      "adjustment": -0.013,
+      "notes": "DG fit -0.01 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Arni Sveinsson, Gunnlaugur",
+      "skill": -1.993,
+      "adjustment": -0.407,
+      "notes": "DG fit -0.41 (hist -0.04, fit -0.08)"
+    },
+    {
+      "name": "Lee, Bryan",
+      "skill": -2.176,
+      "adjustment": -0.245,
+      "notes": "DG fit -0.24 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Herrington, Jackson",
+      "skill": -2.38,
+      "adjustment": -0.332,
+      "notes": "DG fit -0.33 (hist -0.04, fit -0.16)"
+    },
+    {
+      "name": "Pulcini, Mateo",
+      "skill": -2.624,
+      "adjustment": -0.118,
+      "notes": "DG fit -0.12 (hist -0.04, fit -0.15)"
+    },
+    {
+      "name": "Kyes, Chase",
+      "skill": -2.534,
+      "adjustment": -0.281,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.09)"
+    },
+    {
+      "name": "Higgins, Robbie",
+      "skill": -2.484,
+      "adjustment": -0.414,
+      "notes": "DG fit -0.41 (hist -0.04, fit -0.19)"
+    },
+    {
+      "name": "Holmes, J.B.",
+      "skill": -2.195,
+      "adjustment": -0.733,
+      "notes": "DG fit -0.73 (hist -0.04, fit -0.17)"
+    },
+    {
+      "name": "Robles, Matt",
+      "skill": -2.926,
+      "adjustment": -0.368,
+      "notes": "DG fit -0.37 (hist -0.04, fit -0.11)"
+    },
+    {
+      "name": "Shah, Manav",
+      "skill": -2.867,
+      "adjustment": -0.433,
+      "notes": "DG fit -0.43 (hist -0.04, fit -0.09)"
+    },
+    {
+      "name": "Sollon, Jake",
+      "skill": -3.546,
+      "adjustment": 0.145,
+      "notes": "DG fit +0.14 (hist -0.04, fit -0.14)"
+    },
+    {
+      "name": "Coleman, Hamilton",
+      "skill": -3.059,
+      "adjustment": -0.408,
+      "notes": "DG fit -0.41 (hist -0.04, fit -0.15)"
+    },
+    {
+      "name": "Tibbits, Spencer",
+      "skill": -2.599,
+      "adjustment": -0.935,
+      "notes": "DG fit -0.94 (hist -0.04, fit -0.18)"
+    },
+    {
+      "name": "Fleming, Marek",
+      "skill": -3.234,
+      "adjustment": -0.425,
+      "notes": "DG fit -0.42 (hist -0.04, fit -0.12)"
+    },
+    {
+      "name": "Holtz, Brandon",
+      "skill": -3.267,
+      "adjustment": -0.522,
+      "notes": "DG fit -0.52 (hist -0.04, fit -0.13)"
+    },
+    {
+      "name": "Harber, Vaughn",
+      "skill": -3.393,
+      "adjustment": -0.468,
+      "notes": "DG fit -0.47 (hist -0.04, fit -0.13)"
+    },
+    {
+      "name": "Ormond, Jackson",
+      "skill": -3.65,
+      "adjustment": -0.283,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.20)"
+    },
+    {
+      "name": "Schoenberger, Jack",
+      "skill": -3.275,
+      "adjustment": -0.73,
+      "notes": "DG fit -0.73 (hist -0.04, fit -0.14)"
+    },
+    {
+      "name": "Kim, T.K.",
+      "skill": -4.068,
+      "adjustment": -1.474,
+      "notes": "DG fit -1.47 (hist -0.04, fit -0.19)"
     }
   ]
 }
