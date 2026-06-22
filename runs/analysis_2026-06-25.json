@@ -1,0 +1,435 @@
+{
+  "event": "Travelers Championship",
+  "course": "TPC River Highlands",
+  "date": "2026-06-25",
+  "sims": 40000,
+  "cut_line": 0,
+  "favorites": [
+    {
+      "player": "Scottie Scheffler",
+      "win": 14.98,
+      "top5": 41.22,
+      "top10": 57.7,
+      "make_cut": 100.0,
+      "win_rank": 1
+    },
+    {
+      "player": "Cameron Young",
+      "win": 4.65,
+      "top5": 19.07,
+      "top10": 32.36,
+      "make_cut": 100.0,
+      "win_rank": 2
+    },
+    {
+      "player": "Matt Fitzpatrick",
+      "win": 3.71,
+      "top5": 15.8,
+      "top10": 27.92,
+      "make_cut": 100.0,
+      "win_rank": 3
+    },
+    {
+      "player": "Tommy Fleetwood",
+      "win": 3.42,
+      "top5": 15.12,
+      "top10": 27.35,
+      "make_cut": 100.0,
+      "win_rank": 4
+    },
+    {
+      "player": "Russell Henley",
+      "win": 2.99,
+      "top5": 13.73,
+      "top10": 24.97,
+      "make_cut": 100.0,
+      "win_rank": 5
+    },
+    {
+      "player": "Xander Schauffele",
+      "win": 2.92,
+      "top5": 13.49,
+      "top10": 24.76,
+      "make_cut": 100.0,
+      "win_rank": 6
+    },
+    {
+      "player": "Ludvig Aberg",
+      "win": 2.9,
+      "top5": 13.21,
+      "top10": 24.33,
+      "make_cut": 100.0,
+      "win_rank": 7
+    },
+    {
+      "player": "Si Woo Kim",
+      "win": 2.65,
+      "top5": 12.6,
+      "top10": 23.55,
+      "make_cut": 100.0,
+      "win_rank": 8
+    },
+    {
+      "player": "Patrick Cantlay",
+      "win": 2.63,
+      "top5": 12.35,
+      "top10": 23.46,
+      "make_cut": 100.0,
+      "win_rank": 9
+    },
+    {
+      "player": "J.J. Spaun",
+      "win": 2.37,
+      "top5": 11.38,
+      "top10": 21.47,
+      "make_cut": 100.0,
+      "win_rank": 10
+    },
+    {
+      "player": "Sam Burns",
+      "win": 2.33,
+      "top5": 11.51,
+      "top10": 22.07,
+      "make_cut": 100.0,
+      "win_rank": 11
+    },
+    {
+      "player": "Keegan Bradley",
+      "win": 2.23,
+      "top5": 10.92,
+      "top10": 20.74,
+      "make_cut": 100.0,
+      "win_rank": 12
+    },
+    {
+      "player": "Collin Morikawa",
+      "win": 2.12,
+      "top5": 11.14,
+      "top10": 21.32,
+      "make_cut": 100.0,
+      "win_rank": 13
+    },
+    {
+      "player": "Justin Thomas",
+      "win": 1.91,
+      "top5": 9.64,
+      "top10": 19.18,
+      "make_cut": 100.0,
+      "win_rank": 14
+    },
+    {
+      "player": "Jordan Spieth",
+      "win": 1.87,
+      "top5": 9.68,
+      "top10": 19.4,
+      "make_cut": 100.0,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Sam Burns",
+        "win": 2.33,
+        "top5": 11.51,
+        "top10": 22.07,
+        "make_cut": 100.0,
+        "std": 2.93,
+        "win_rank": 11,
+        "ceiling": 22.07
+      },
+      {
+        "player": "Collin Morikawa",
+        "win": 2.12,
+        "top5": 11.14,
+        "top10": 21.32,
+        "make_cut": 100.0,
+        "std": 2.87,
+        "win_rank": 13,
+        "ceiling": 21.32
+      },
+      {
+        "player": "Keegan Bradley",
+        "win": 2.23,
+        "top5": 10.92,
+        "top10": 20.74,
+        "make_cut": 100.0,
+        "std": 2.9,
+        "win_rank": 12,
+        "ceiling": 20.74
+      },
+      {
+        "player": "Jordan Spieth",
+        "win": 1.87,
+        "top5": 9.68,
+        "top10": 19.4,
+        "make_cut": 100.0,
+        "std": 2.9,
+        "win_rank": 15,
+        "ceiling": 19.4
+      },
+      {
+        "player": "Justin Thomas",
+        "win": 1.91,
+        "top5": 9.64,
+        "top10": 19.18,
+        "make_cut": 100.0,
+        "std": 2.97,
+        "win_rank": 14,
+        "ceiling": 19.18
+      },
+      {
+        "player": "Maverick McNealy",
+        "win": 1.76,
+        "top5": 9.29,
+        "top10": 18.41,
+        "make_cut": 100.0,
+        "std": 2.93,
+        "win_rank": 16,
+        "ceiling": 18.41
+      }
+    ],
+    "value": [
+      {
+        "player": "Si Woo Kim",
+        "win": 2.65,
+        "top5": 12.6,
+        "top10": 23.55,
+        "make_cut": 100.0,
+        "mkt_win": 1.34,
+        "dg_win": 0,
+        "edge": 1.31,
+        "odds": 65.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Patrick Cantlay",
+        "win": 2.63,
+        "top5": 12.35,
+        "top10": 23.46,
+        "make_cut": 100.0,
+        "mkt_win": 1.58,
+        "dg_win": 0,
+        "edge": 1.05,
+        "odds": 55.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Sam Burns",
+        "win": 2.33,
+        "top5": 11.51,
+        "top10": 22.07,
+        "make_cut": 100.0,
+        "mkt_win": 1.34,
+        "dg_win": 0,
+        "edge": 0.99,
+        "odds": 65.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Russell Henley",
+        "win": 2.99,
+        "top5": 13.73,
+        "top10": 24.97,
+        "make_cut": 100.0,
+        "mkt_win": 2.18,
+        "dg_win": 0,
+        "edge": 0.81,
+        "odds": 40.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Jake Knapp",
+        "win": 1.26,
+        "top5": 7.23,
+        "top10": 15.19,
+        "make_cut": 100.0,
+        "mkt_win": 0.5,
+        "dg_win": 0,
+        "edge": 0.76,
+        "odds": 175.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Alex Noren",
+        "win": 1.02,
+        "top5": 6.15,
+        "top10": 12.81,
+        "make_cut": 100.0,
+        "mkt_win": 0.29,
+        "dg_win": 0,
+        "edge": 0.73,
+        "odds": 300.0,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Keegan Bradley",
+        "win": 2.23,
+        "top5": 10.92,
+        "top10": 20.74,
+        "make_cut": 100.0,
+        "fit": 0.65,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 12
+      },
+      {
+        "player": "Jordan Spieth",
+        "win": 1.87,
+        "top5": 9.68,
+        "top10": 19.4,
+        "make_cut": 100.0,
+        "fit": 0.55,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 15
+      },
+      {
+        "player": "Scottie Scheffler",
+        "win": 14.98,
+        "top5": 41.22,
+        "top10": 57.7,
+        "make_cut": 100.0,
+        "fit": 0.45,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 1
+      },
+      {
+        "player": "Cameron Young",
+        "win": 4.65,
+        "top5": 19.07,
+        "top10": 32.36,
+        "make_cut": 100.0,
+        "fit": 0.4,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 2
+      },
+      {
+        "player": "Justin Thomas",
+        "win": 1.91,
+        "top5": 9.64,
+        "top10": 19.18,
+        "make_cut": 100.0,
+        "fit": 0.3,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 14
+      },
+      {
+        "player": "Ben Griffin",
+        "win": 1.73,
+        "top5": 9.02,
+        "top10": 18.07,
+        "make_cut": 100.0,
+        "fit": 0.28,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 18
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Jackson Koivun",
+        "win": 0.72,
+        "top5": 4.77,
+        "top10": 10.61,
+        "make_cut": 100.0,
+        "owgr": 260,
+        "dg_rank": 48,
+        "gap": 212
+      },
+      {
+        "player": "Davis Thompson",
+        "win": 0.42,
+        "top5": 2.79,
+        "top10": 6.82,
+        "make_cut": 100.0,
+        "owgr": 138,
+        "dg_rank": 85,
+        "gap": 53
+      },
+      {
+        "player": "Tom Kim",
+        "win": 0.35,
+        "top5": 2.35,
+        "top10": 5.91,
+        "make_cut": 100.0,
+        "owgr": 141,
+        "dg_rank": 95,
+        "gap": 46
+      },
+      {
+        "player": "Keith Mitchell",
+        "win": 0.71,
+        "top5": 4.49,
+        "top10": 10.0,
+        "make_cut": 100.0,
+        "owgr": 100,
+        "dg_rank": 55,
+        "gap": 45
+      },
+      {
+        "player": "Alex Fitzpatrick",
+        "win": 0.94,
+        "top5": 5.68,
+        "top10": 12.07,
+        "make_cut": 100.0,
+        "owgr": 69,
+        "dg_rank": 34,
+        "gap": 35
+      },
+      {
+        "player": "Adam Scott",
+        "win": 1.37,
+        "top5": 7.97,
+        "top10": 16.12,
+        "make_cut": 100.0,
+        "owgr": 49,
+        "dg_rank": 20,
+        "gap": 29
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Sam Burns",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 2.33
+    },
+    {
+      "player": "Keegan Bradley",
+      "lenses": [
+        "ceiling",
+        "fit"
+      ],
+      "n": 2,
+      "win": 2.23
+    },
+    {
+      "player": "Justin Thomas",
+      "lenses": [
+        "ceiling",
+        "fit"
+      ],
+      "n": 2,
+      "win": 1.91
+    },
+    {
+      "player": "Jordan Spieth",
+      "lenses": [
+        "ceiling",
+        "fit"
+      ],
+      "n": 2,
+      "win": 1.87
+    }
+  ]
+}

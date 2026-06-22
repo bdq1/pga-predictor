@@ -1,0 +1,441 @@
+{
+  "event": "Travelers Championship",
+  "course": "TPC River Highlands",
+  "date": "2026-06-25",
+  "cut_line": 0,
+  "source": "DataGolf API UNAVAILABLE (network egress policy blocks feeds.datagolf.com). Baseline skill from DataGolf 2026-06-18 (U.S. Open); TPC River Highlands adjustments estimated from course characteristics + history.",
+  "players": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.845,
+      "adjustment": 0.45,
+      "notes": "TPC fit +0.45 (est.)"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.715,
+      "adjustment": 0.15,
+      "notes": "TPC fit +0.15 (est.)"
+    },
+    {
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.823,
+      "adjustment": 0.18,
+      "notes": "TPC fit +0.18 (est.)"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.817,
+      "adjustment": 0.15,
+      "notes": "TPC fit +0.15 (est.)"
+    },
+    {
+      "name": "Aberg, Ludvig",
+      "skill": 1.708,
+      "adjustment": 0.12,
+      "notes": "TPC fit +0.12 (est.)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.822,
+      "adjustment": 0.4,
+      "notes": "TPC fit +0.40 (est.)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.697,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.704,
+      "adjustment": 0.14,
+      "notes": "TPC fit +0.14 (est.)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.564,
+      "adjustment": 0.15,
+      "notes": "TPC fit +0.15 (est.)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.393,
+      "adjustment": 0.27,
+      "notes": "TPC fit +0.27 (est.)"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.574,
+      "adjustment": 0.22,
+      "notes": "TPC fit +0.22 (est.)"
+    },
+    {
+      "name": "Hovland, Viktor",
+      "skill": 1.236,
+      "adjustment": 0.18,
+      "notes": "TPC fit +0.18 (est.)"
+    },
+    {
+      "name": "Spaun, J.J.",
+      "skill": 1.468,
+      "adjustment": 0.22,
+      "notes": "TPC fit +0.22 (est.)"
+    },
+    {
+      "name": "DeChambeau, Bryson",
+      "skill": 1.262,
+      "adjustment": -0.08,
+      "notes": "TPC fit -0.08 (est.)"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.25,
+      "adjustment": 0.3,
+      "notes": "TPC fit +0.30 (est.)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 1.119,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Hatton, Tyrrell",
+      "skill": 1.01,
+      "adjustment": -0.15,
+      "notes": "TPC fit -0.15 (est.)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.123,
+      "adjustment": -0.12,
+      "notes": "TPC fit -0.12 (est.)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.366,
+      "adjustment": 0.12,
+      "notes": "TPC fit +0.12 (est.)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.198,
+      "adjustment": 0.28,
+      "notes": "TPC fit +0.28 (est.)"
+    },
+    {
+      "name": "Kitayama, Kurt",
+      "skill": 1.186,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.306,
+      "adjustment": -0.05,
+      "notes": "TPC fit -0.05 (est.)"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.455,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "English, Harris",
+      "skill": 1.329,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Lowry, Shane",
+      "skill": 1.18,
+      "adjustment": -0.15,
+      "notes": "TPC fit -0.15 (est.)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.98,
+      "adjustment": 0.55,
+      "notes": "TPC fit +0.55 (est.)"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.954,
+      "adjustment": -0.1,
+      "notes": "TPC fit -0.10 (est.)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 1.257,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.998,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.069,
+      "adjustment": 0.14,
+      "notes": "TPC fit +0.14 (est.)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.099,
+      "adjustment": 0.12,
+      "notes": "TPC fit +0.12 (est.)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 1.028,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.172,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 1.021,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 1.152,
+      "adjustment": -0.05,
+      "notes": "TPC fit -0.05 (est.)"
+    },
+    {
+      "name": "Hojgaard, Nicolai",
+      "skill": 0.967,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.94,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 1.024,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Puig, David",
+      "skill": 0.955,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Knapp, Jake",
+      "skill": 1.237,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.822,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.985,
+      "adjustment": 0.65,
+      "notes": "TPC fit +0.65 (est.)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.902,
+      "adjustment": 0.1,
+      "notes": "TPC fit +0.10 (est.)"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.854,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.858,
+      "adjustment": 0.0,
+      "notes": "TPC fit +0.00 (est.)"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.787,
+      "adjustment": 0.08,
+      "notes": "TPC fit +0.08 (est.)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.807,
+      "adjustment": 0.0,
+      "notes": "TPC fit +0.00 (est.)"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 0.872,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.604,
+      "adjustment": 0.22,
+      "notes": "TPC fit +0.22 (est.)"
+    },
+    {
+      "name": "Fowler, Rickie",
+      "skill": 0.829,
+      "adjustment": 0.1,
+      "notes": "TPC fit +0.10 (est.)"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.556,
+      "adjustment": 0.16,
+      "notes": "TPC fit +0.16 (est.)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.765,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.575,
+      "adjustment": 0.18,
+      "notes": "TPC fit +0.18 (est.)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 0.943,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.346,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.309,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.406,
+      "adjustment": 0.1,
+      "notes": "TPC fit +0.10 (est.)"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.571,
+      "adjustment": 0.1,
+      "notes": "TPC fit +0.10 (est.)"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.662,
+      "adjustment": 0.12,
+      "notes": "TPC fit +0.12 (est.)"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.457,
+      "adjustment": 0.1,
+      "notes": "TPC fit +0.10 (est.)"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.432,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.347,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.631,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.508,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Schaper, Jayden",
+      "skill": 0.59,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.592,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.319,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.3,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.327,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.549,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Herbert, Lucas",
+      "skill": 0.34,
+      "adjustment": 0.03,
+      "notes": "TPC fit +0.03 (est.)"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.264,
+      "adjustment": 0.05,
+      "notes": "TPC fit +0.05 (est.)"
+    }
+  ]
+}
