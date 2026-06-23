@@ -1,26 +1,26 @@
 PGA forecast — Travelers Championship
-TPC River Highlands · 2026-06-25 · 40,000 sims · cut top 0+ties
+TPC River Highlands · 2026-06-25 · 40,000 sims · cut top 50+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Scottie Scheffler       15.0%  (top5 41.2, top10 57.7)
-   2. Cameron Young            4.7%  (top5 19.1, top10 32.4)
-   3. Matt Fitzpatrick         3.7%  (top5 15.8, top10 27.9)
-   4. Tommy Fleetwood          3.4%  (top5 15.1, top10 27.4)
-   5. Russell Henley           3.0%  (top5 13.7, top10 25.0)
-   6. Xander Schauffele        2.9%  (top5 13.5, top10 24.8)
-   7. Ludvig Aberg             2.9%  (top5 13.2, top10 24.3)
-   8. Si Woo Kim               2.6%  (top5 12.6, top10 23.6)
-   9. Patrick Cantlay          2.6%  (top5 12.3, top10 23.5)
-  10. J.J. Spaun               2.4%  (top5 11.4, top10 21.5)
-  11. Sam Burns                2.3%  (top5 11.5, top10 22.1)
-  12. Keegan Bradley           2.2%  (top5 10.9, top10 20.7)
+   1. Scottie Scheffler       11.6%  (top5 34.8, top10 51.5)
+   2. Tommy Fleetwood          4.6%  (top5 18.7, top10 32.4)
+   3. Xander Schauffele        4.1%  (top5 16.8, top10 29.2)
+   4. Si Woo Kim               3.9%  (top5 16.1, top10 28.2)
+   5. Ludvig Aberg             3.6%  (top5 15.9, top10 27.8)
+   6. Matt Fitzpatrick         3.1%  (top5 14.1, top10 25.9)
+   7. Russell Henley           3.0%  (top5 13.5, top10 24.5)
+   8. Patrick Cantlay          2.9%  (top5 12.6, top10 23.7)
+   9. Cameron Young            2.6%  (top5 12.6, top10 23.8)
+  10. Collin Morikawa          2.5%  (top5 11.7, top10 22.2)
+  11. Sam Burns                2.5%  (top5 11.7, top10 22.3)
+  12. Aaron Rai                2.2%  (top5 10.8, top10 20.7)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Sam Burns 22.1%, Collin Morikawa 21.3%, Keegan Bradley 20.7%, Jordan Spieth 19.4%, Justin Thomas 19.2%, Maverick McNealy 18.4%
- [2] Value vs market: Si Woo Kim +1.3 @65, Patrick Cantlay +1.1 @55, Sam Burns +1.0 @65, Russell Henley +0.8 @40, Jake Knapp +0.8 @175, Alex Noren +0.7 @300
- [3] Course-fit: Keegan Bradley +0.65, Jordan Spieth +0.55, Scottie Scheffler +0.45, Cameron Young +0.40, Justin Thomas +0.30, Ben Griffin +0.28
- [4] Reputation gap: Jackson Koivun (OWGR 260/DG 48), Davis Thompson (OWGR 138/DG 85), Tom Kim (OWGR 141/DG 95), Keith Mitchell (OWGR 100/DG 55), Alex Fitzpatrick (OWGR 69/DG 34), Adam Scott (OWGR 49/DG 20)
+ [1] Deep ceiling: Sam Burns 22.3%, Justin Thomas 21.1%, Aaron Rai 20.7%, J.J. Spaun 20.2%, Viktor Hovland 18.8%, Ben Griffin 17.8%
+ [2] Value vs market: Si Woo Kim +0.9 @24, Aaron Rai +0.7 @46, Russell Henley +0.6 @30, J.J. Spaun +0.5 @45, Tommy Fleetwood +0.5 @17, Patrick Cantlay +0.4 @29
+ [3] Course-fit: Brian Harman +0.55, Aaron Rai +0.43, Ryo Hisatsune +0.42, Corey Conners +0.36, Si Woo Kim +0.32, Keegan Bradley +0.29
+ [4] Reputation gap: Ben James (OWGR 501/DG 113), Alex Fitzpatrick (OWGR 67/DG 34), Adam Scott (OWGR 52/DG 25), Keith Mitchell (OWGR 68/DG 41), Mac Meissner (OWGR 90/DG 64), Denny McCarthy (OWGR 103/DG 78)
 
- SYNTHESIS (multiple lenses): Sam Burns [ceiling+value]; Keegan Bradley [ceiling+fit]; Justin Thomas [ceiling+fit]; Jordan Spieth [ceiling+fit]
+ SYNTHESIS (multiple lenses): Aaron Rai [ceiling+value+fit]; Si Woo Kim [value+fit]; J.J. Spaun [ceiling+value]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
