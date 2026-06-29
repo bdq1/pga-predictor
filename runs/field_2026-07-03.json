@@ -1,0 +1,549 @@
+{
+  "event": "John Deere Classic",
+  "course": "TPC Deere Run",
+  "date": "2026-07-03",
+  "cut_line": 65,
+  "_note": "DataGolf API blocked by sandbox egress policy. Field built from cached DG baseline skills (Jun 4-25) + web-sourced market odds. Course fit adjustments = 0.",
+  "players": [
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.303,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.264,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.94,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 1.064,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.943,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.997,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.906,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Fowler, Rickie",
+      "skill": 0.779,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Homa, Max",
+      "skill": 0.342,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.423,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.597,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.962,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 0.872,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.208,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.549,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.342,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.264,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.346,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.141,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.875,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.327,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": 0.417,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": -0.018,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": -0.091,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Brown, Blades",
+      "skill": 0.45,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.511,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Stout, Preston",
+      "skill": -0.011,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -0.994,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -1.026,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.224,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hadwin, Adam",
+      "skill": -0.434,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.297,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.286,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Knox, Russell",
+      "skill": 0.15,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Reavie, Chez",
+      "skill": -0.05,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Cook, Austin",
+      "skill": -0.15,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Detry, Thomas",
+      "skill": 0.35,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Werenski, Richy",
+      "skill": 0.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Frittelli, Dylan",
+      "skill": -0.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Na, Kevin",
+      "skill": -0.5,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Merritt, Troy",
+      "skill": -0.45,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hebert, Tim",
+      "skill": -0.55,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Norlander, Henrik",
+      "skill": -0.4,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": 0.323,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.653,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Griffin, Lanto",
+      "skill": -0.105,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.6,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Brehm, Ryan",
+      "skill": -0.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kim, Seung-yul",
+      "skill": -0.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Langley, Scott",
+      "skill": -0.55,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Laird, Martin",
+      "skill": -0.75,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Jones, Matt",
+      "skill": -0.4,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Thompson, Michael",
+      "skill": -0.6,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.199,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Tarren, Callum",
+      "skill": -0.25,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Bramlett, Joseph",
+      "skill": -0.35,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Byrd, Jonathan",
+      "skill": -0.8,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Henry, J.J.",
+      "skill": -0.75,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Burmester, Dean",
+      "skill": -0.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Arnaus, Adri",
+      "skill": -0.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Silvers, Peter",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Wolcott, Will",
+      "skill": -0.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kang, Sung",
+      "skill": -0.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Meissner, Brendon",
+      "skill": -0.35,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Fleischer, David",
+      "skill": -0.7,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Summerhays, Daniel",
+      "skill": -0.75,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Davis, Jason",
+      "skill": -0.8,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Heinen, Lee",
+      "skill": -0.85,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Roy, Brandon",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Sullivan, Andy",
+      "skill": -0.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Benson, James",
+      "skill": -0.9,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Lovemark, Jamie",
+      "skill": -0.75,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Novak, Kevin",
+      "skill": -0.9,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Yang, Y.E.",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Curran, Tom",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Snyder, Kyle",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Ingram, James",
+      "skill": -1.0,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Rodriguez, Nelson",
+      "skill": -1.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "James, Robbie",
+      "skill": -1.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Penley, Steve",
+      "skill": -1.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Atwal, Arjun",
+      "skill": -1.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Gangjee, Rahil",
+      "skill": -1.1,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Gates, Jimmy",
+      "skill": -1.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Lyle, Stuart",
+      "skill": -1.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Kelley, James",
+      "skill": -1.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Ogilvy, Geoff",
+      "skill": -1.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Hearn, Mark",
+      "skill": -1.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Park, Sangmoon",
+      "skill": -1.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Cohn, Brian",
+      "skill": -1.2,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    },
+    {
+      "name": "Choi, K.J.",
+      "skill": -1.3,
+      "adjustment": 0.0,
+      "notes": "cached DG baseline; adj=0 (DataGolf API blocked)"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "event": "John Deere Classic",
+  "course": "TPC Deere Run",
+  "date": "2026-07-03",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Chris Gotterup",
+      "win": 5.73,
+      "top5": 21.45,
+      "top10": 35.04,
+      "make_cut": 91.3,
+      "win_rank": 1
+    },
+    {
+      "player": "Ben Griffin",
+      "win": 5.51,
+      "top5": 20.91,
+      "top10": 34.65,
+      "make_cut": 91.0,
+      "win_rank": 2
+    },
+    {
+      "player": "J.T. Poston",
+      "win": 4.2,
+      "top5": 17.5,
+      "top10": 30.21,
+      "make_cut": 89.5,
+      "win_rank": 3
+    },
+    {
+      "player": "Keegan Bradley",
+      "win": 3.93,
+      "top5": 16.5,
+      "top10": 28.89,
+      "make_cut": 88.8,
+      "win_rank": 4
+    },
+    {
+      "player": "Keith Mitchell",
+      "win": 3.84,
+      "top5": 15.69,
+      "top10": 27.66,
+      "make_cut": 88.9,
+      "win_rank": 5
+    },
+    {
+      "player": "Jacob Bridgeman",
+      "win": 3.81,
+      "top5": 15.65,
+      "top10": 27.36,
+      "make_cut": 88.3,
+      "win_rank": 6
+    },
+    {
+      "player": "Eric Cole",
+      "win": 3.74,
+      "top5": 15.71,
+      "top10": 27.59,
+      "make_cut": 88.6,
+      "win_rank": 7
+    },
+    {
+      "player": "Jordan Spieth",
+      "win": 3.66,
+      "top5": 15.24,
+      "top10": 26.88,
+      "make_cut": 88.0,
+      "win_rank": 8
+    },
+    {
+      "player": "Alex Smalley",
+      "win": 3.49,
+      "top5": 14.8,
+      "top10": 26.2,
+      "make_cut": 87.7,
+      "win_rank": 9
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 3.47,
+      "top5": 14.89,
+      "top10": 26.16,
+      "make_cut": 87.8,
+      "win_rank": 10
+    },
+    {
+      "player": "Rickie Fowler",
+      "win": 3.07,
+      "top5": 13.27,
+      "top10": 23.92,
+      "make_cut": 86.7,
+      "win_rank": 11
+    },
+    {
+      "player": "Brian Harman",
+      "win": 2.57,
+      "top5": 11.69,
+      "top10": 21.74,
+      "make_cut": 85.2,
+      "win_rank": 12
+    },
+    {
+      "player": "Michael Kim",
+      "win": 2.41,
+      "top5": 11.16,
+      "top10": 20.86,
+      "make_cut": 84.9,
+      "win_rank": 13
+    },
+    {
+      "player": "Pierceson Coody",
+      "win": 2.11,
+      "top5": 10.55,
+      "top10": 19.88,
+      "make_cut": 84.1,
+      "win_rank": 14
+    },
+    {
+      "player": "Daniel Berger",
+      "win": 1.91,
+      "top5": 9.21,
+      "top10": 18.26,
+      "make_cut": 82.8,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Rickie Fowler",
+        "win": 3.07,
+        "top5": 13.27,
+        "top10": 23.92,
+        "make_cut": 86.7,
+        "std": 2.77,
+        "win_rank": 11,
+        "ceiling": 23.92
+      },
+      {
+        "player": "Brian Harman",
+        "win": 2.57,
+        "top5": 11.69,
+        "top10": 21.74,
+        "make_cut": 85.2,
+        "std": 2.7,
+        "win_rank": 12,
+        "ceiling": 21.74
+      },
+      {
+        "player": "Michael Kim",
+        "win": 2.41,
+        "top5": 11.16,
+        "top10": 20.86,
+        "make_cut": 84.9,
+        "std": 2.72,
+        "win_rank": 13,
+        "ceiling": 20.86
+      },
+      {
+        "player": "Pierceson Coody",
+        "win": 2.11,
+        "top5": 10.55,
+        "top10": 19.88,
+        "make_cut": 84.1,
+        "std": 2.94,
+        "win_rank": 14,
+        "ceiling": 19.88
+      },
+      {
+        "player": "Blades Brown",
+        "win": 1.81,
+        "top5": 9.42,
+        "top10": 18.3,
+        "make_cut": 83.0,
+        "std": 2.8,
+        "win_rank": 17,
+        "ceiling": 18.3
+      },
+      {
+        "player": "Daniel Berger",
+        "win": 1.91,
+        "top5": 9.21,
+        "top10": 18.26,
+        "make_cut": 82.8,
+        "std": 2.74,
+        "win_rank": 15,
+        "ceiling": 18.26
+      }
+    ],
+    "value": [
+      {
+        "player": "Brian Harman",
+        "win": 2.57,
+        "top5": 11.69,
+        "top10": 21.74,
+        "make_cut": 85.2,
+        "mkt_win": 0.84,
+        "dg_win": 1.17,
+        "edge": 1.73,
+        "odds": 118.6293,
+        "dg_agrees": true
+      },
+      {
+        "player": "Alex Smalley",
+        "win": 3.49,
+        "top5": 14.8,
+        "top10": 26.2,
+        "make_cut": 87.7,
+        "mkt_win": 2.37,
+        "dg_win": 0.73,
+        "edge": 1.12,
+        "odds": 42.2837,
+        "dg_agrees": false
+      },
+      {
+        "player": "Dean Burmester",
+        "win": 0.91,
+        "top5": 5.18,
+        "top10": 11.01,
+        "make_cut": 76.0,
+        "mkt_win": 0.24,
+        "dg_win": 0.24,
+        "edge": 0.67,
+        "odds": 412.2663,
+        "dg_agrees": false
+      },
+      {
+        "player": "Russell Knox",
+        "win": 1.33,
+        "top5": 6.74,
+        "top10": 13.87,
+        "make_cut": 79.2,
+        "mkt_win": 0.7,
+        "dg_win": 0.7,
+        "edge": 0.63,
+        "odds": 142.1203,
+        "dg_agrees": false
+      },
+      {
+        "player": "Adri Arnaus",
+        "win": 0.8,
+        "top5": 4.36,
+        "top10": 9.59,
+        "make_cut": 74.4,
+        "mkt_win": 0.21,
+        "dg_win": 0.21,
+        "edge": 0.59,
+        "odds": 470.9936,
+        "dg_agrees": false
+      },
+      {
+        "player": "Andy Sullivan",
+        "win": 0.75,
+        "top5": 4.56,
+        "top10": 9.99,
+        "make_cut": 73.9,
+        "mkt_win": 0.24,
+        "dg_win": 0.24,
+        "edge": 0.51,
+        "odds": 412.2663,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Chris Gotterup",
+        "win": 5.73,
+        "top5": 21.45,
+        "top10": 35.04,
+        "make_cut": 91.3,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 1
+      },
+      {
+        "player": "Ben Griffin",
+        "win": 5.51,
+        "top5": 20.91,
+        "top10": 34.65,
+        "make_cut": 91.0,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 2
+      },
+      {
+        "player": "J.T. Poston",
+        "win": 4.2,
+        "top5": 17.5,
+        "top10": 30.21,
+        "make_cut": 89.5,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 3
+      },
+      {
+        "player": "Keegan Bradley",
+        "win": 3.93,
+        "top5": 16.5,
+        "top10": 28.89,
+        "make_cut": 88.8,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 4
+      },
+      {
+        "player": "Keith Mitchell",
+        "win": 3.84,
+        "top5": 15.69,
+        "top10": 27.66,
+        "make_cut": 88.9,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 5
+      },
+      {
+        "player": "Jacob Bridgeman",
+        "win": 3.81,
+        "top5": 15.65,
+        "top10": 27.36,
+        "make_cut": 88.3,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 6
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Brian Harman",
+        "win": 2.57,
+        "top5": 11.69,
+        "top10": 21.74,
+        "make_cut": 85.2,
+        "owgr": 110,
+        "dg_rank": 59,
+        "gap": 51
+      },
+      {
+        "player": "Alex Smalley",
+        "win": 3.49,
+        "top5": 14.8,
+        "top10": 26.2,
+        "make_cut": 87.7,
+        "owgr": 95,
+        "dg_rank": 49,
+        "gap": 46
+      },
+      {
+        "player": "Matthieu Pavon",
+        "win": 0.7,
+        "top5": 4.65,
+        "top10": 9.88,
+        "make_cut": 74.3,
+        "owgr": 245,
+        "dg_rank": 202,
+        "gap": 43
+      },
+      {
+        "player": "Mackenzie Hughes",
+        "win": 1.41,
+        "top5": 7.39,
+        "top10": 14.76,
+        "make_cut": 80.6,
+        "owgr": 150,
+        "dg_rank": 118,
+        "gap": 32
+      },
+      {
+        "player": "Taylor Pendrith",
+        "win": 1.89,
+        "top5": 9.3,
+        "top10": 18.0,
+        "make_cut": 83.1,
+        "owgr": 115,
+        "dg_rank": 88,
+        "gap": 27
+      },
+      {
+        "player": "Preston Stout",
+        "win": 0.96,
+        "top5": 5.53,
+        "top10": 11.89,
+        "make_cut": 77.1,
+        "owgr": 190,
+        "dg_rank": 164,
+        "gap": 26
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Brian Harman",
+      "lenses": [
+        "ceiling",
+        "value",
+        "underrated"
+      ],
+      "n": 3,
+      "win": 2.57
+    },
+    {
+      "player": "Alex Smalley",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 3.49
+    }
+  ]
+}
