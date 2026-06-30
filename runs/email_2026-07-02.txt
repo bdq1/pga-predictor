@@ -1,0 +1,26 @@
+PGA forecast — John Deere Classic
+TPC Deere Run · 2026-07-02 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Ben Griffin              5.0%  (top5 17.2, top10 28.2)
+   2. Chris Gotterup           3.9%  (top5 14.7, top10 24.5)
+   3. Keegan Bradley           3.1%  (top5 12.5, top10 21.6)
+   4. Keith Mitchell           2.9%  (top5 12.1, top10 21.0)
+   5. Jackson Koivun           2.6%  (top5 10.9, top10 19.7)
+   6. Jacob Bridgeman          2.4%  (top5 10.7, top10 18.8)
+   7. Jordan Spieth            2.4%  (top5 10.5, top10 19.1)
+   8. J.T. Poston              2.3%  (top5 10.2, top10 18.3)
+   9. Andrew Novak             2.0%  (top5 8.7, top10 15.8)
+  10. Ryo Hisatsune            2.0%  (top5 8.9, top10 16.6)
+  11. Eric Cole                1.9%  (top5 8.6, top10 15.8)
+  12. Doug Ghim                1.9%  (top5 8.4, top10 15.6)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Tom Kim 16.0%, Eric Cole 15.8%, Doug Ghim 15.6%, Michael Thorbjornsen 15.2%, Rickie Fowler 15.0%, Mac Meissner 14.8%
+ [2] Value vs market: Ben Griffin +0.7 @15, Mac Meissner +0.5 @51, Keegan Bradley +0.5 @24, Doug Ghim +0.4 @43, Ryo Hisatsune +0.4 @41, Ben Kohles +0.4 @69
+ [3] Course-fit: Ryo Hisatsune +0.45, Doug Ghim +0.33, Andrew Novak +0.32, Jordan Spieth +0.30, Ben Kohles +0.29, Mason Howell +0.28
+ [4] Reputation gap: Preston Stout (OWGR 501/DG 177), Webb Simpson (OWGR 476/DG 200), Zach Johnson (OWGR 430/DG 158), Adam Svensson (OWGR 438/DG 227), Jackson Koivun (OWGR 218/DG 41), Fabian Gomez (OWGR 433/DG 302)
+
+ SYNTHESIS (multiple lenses): Doug Ghim [ceiling+value+fit]; Ryo Hisatsune [value+fit]; Mac Meissner [ceiling+value]; Ben Kohles [value+fit]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
