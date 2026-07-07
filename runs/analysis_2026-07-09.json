@@ -1,0 +1,417 @@
+{
+  "event": "Genesis Scottish Open",
+  "course": "The Renaissance Club",
+  "date": "2026-07-09",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Scottie Scheffler",
+      "win": 8.67,
+      "top5": 27.24,
+      "top10": 40.87,
+      "make_cut": 82.6,
+      "win_rank": 1
+    },
+    {
+      "player": "Rory McIlroy",
+      "win": 5.92,
+      "top5": 20.6,
+      "top10": 32.62,
+      "make_cut": 78.1,
+      "win_rank": 2
+    },
+    {
+      "player": "Xander Schauffele",
+      "win": 3.9,
+      "top5": 15.18,
+      "top10": 25.58,
+      "make_cut": 73.0,
+      "win_rank": 3
+    },
+    {
+      "player": "Tommy Fleetwood",
+      "win": 3.82,
+      "top5": 14.92,
+      "top10": 25.23,
+      "make_cut": 72.9,
+      "win_rank": 4
+    },
+    {
+      "player": "Jon Rahm",
+      "win": 3.77,
+      "top5": 14.67,
+      "top10": 25.01,
+      "make_cut": 72.6,
+      "win_rank": 5
+    },
+    {
+      "player": "Ludvig Aberg",
+      "win": 3.25,
+      "top5": 13.24,
+      "top10": 23.12,
+      "make_cut": 70.8,
+      "win_rank": 6
+    },
+    {
+      "player": "Matt Fitzpatrick",
+      "win": 3.24,
+      "top5": 13.51,
+      "top10": 23.49,
+      "make_cut": 71.2,
+      "win_rank": 7
+    },
+    {
+      "player": "Chris Gotterup",
+      "win": 2.8,
+      "top5": 11.97,
+      "top10": 21.25,
+      "make_cut": 69.5,
+      "win_rank": 8
+    },
+    {
+      "player": "Tyrrell Hatton",
+      "win": 2.16,
+      "top5": 9.77,
+      "top10": 17.87,
+      "make_cut": 65.7,
+      "win_rank": 9
+    },
+    {
+      "player": "Wyndham Clark",
+      "win": 1.94,
+      "top5": 8.97,
+      "top10": 17.12,
+      "make_cut": 64.8,
+      "win_rank": 10
+    },
+    {
+      "player": "Alex Fitzpatrick",
+      "win": 1.9,
+      "top5": 8.43,
+      "top10": 15.74,
+      "make_cut": 63.0,
+      "win_rank": 11
+    },
+    {
+      "player": "Robert MacIntyre",
+      "win": 1.88,
+      "top5": 9.34,
+      "top10": 17.14,
+      "make_cut": 65.1,
+      "win_rank": 12
+    },
+    {
+      "player": "Viktor Hovland",
+      "win": 1.81,
+      "top5": 8.74,
+      "top10": 16.35,
+      "make_cut": 63.7,
+      "win_rank": 13
+    },
+    {
+      "player": "Min Woo Lee",
+      "win": 1.79,
+      "top5": 8.62,
+      "top10": 15.97,
+      "make_cut": 63.1,
+      "win_rank": 14
+    },
+    {
+      "player": "Justin Thomas",
+      "win": 1.78,
+      "top5": 8.38,
+      "top10": 15.63,
+      "make_cut": 63.1,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Robert MacIntyre",
+        "win": 1.88,
+        "top5": 9.34,
+        "top10": 17.14,
+        "make_cut": 65.1,
+        "std": 2.7,
+        "win_rank": 12,
+        "ceiling": 17.14
+      },
+      {
+        "player": "Viktor Hovland",
+        "win": 1.81,
+        "top5": 8.74,
+        "top10": 16.35,
+        "make_cut": 63.7,
+        "std": 2.73,
+        "win_rank": 13,
+        "ceiling": 16.35
+      },
+      {
+        "player": "Min Woo Lee",
+        "win": 1.79,
+        "top5": 8.62,
+        "top10": 15.97,
+        "make_cut": 63.1,
+        "std": 2.78,
+        "win_rank": 14,
+        "ceiling": 15.97
+      },
+      {
+        "player": "Alex Fitzpatrick",
+        "win": 1.9,
+        "top5": 8.43,
+        "top10": 15.74,
+        "make_cut": 63.0,
+        "std": 2.72,
+        "win_rank": 11,
+        "ceiling": 15.74
+      },
+      {
+        "player": "Justin Thomas",
+        "win": 1.78,
+        "top5": 8.38,
+        "top10": 15.63,
+        "make_cut": 63.1,
+        "std": 2.79,
+        "win_rank": 15,
+        "ceiling": 15.63
+      },
+      {
+        "player": "Nicolai Hojgaard",
+        "win": 1.7,
+        "top5": 8.22,
+        "top10": 15.31,
+        "make_cut": 62.5,
+        "std": 2.79,
+        "win_rank": 16,
+        "ceiling": 15.31
+      }
+    ],
+    "value": [
+      {
+        "player": "Alex Fitzpatrick",
+        "win": 1.9,
+        "top5": 8.43,
+        "top10": 15.74,
+        "make_cut": 63.0,
+        "mkt_win": 1.3,
+        "dg_win": 1.73,
+        "edge": 0.6,
+        "odds": 53.2,
+        "dg_agrees": true
+      },
+      {
+        "player": "Tommy Fleetwood",
+        "win": 3.82,
+        "top5": 14.92,
+        "top10": 25.23,
+        "make_cut": 72.9,
+        "mkt_win": 3.29,
+        "dg_win": 4.37,
+        "edge": 0.53,
+        "odds": 20.98,
+        "dg_agrees": true
+      },
+      {
+        "player": "Xander Schauffele",
+        "win": 3.9,
+        "top5": 15.18,
+        "top10": 25.58,
+        "make_cut": 73.0,
+        "mkt_win": 3.48,
+        "dg_win": 4.35,
+        "edge": 0.42,
+        "odds": 19.83,
+        "dg_agrees": true
+      },
+      {
+        "player": "Chris Gotterup",
+        "win": 2.8,
+        "top5": 11.97,
+        "top10": 21.25,
+        "make_cut": 69.5,
+        "mkt_win": 2.46,
+        "dg_win": 3.21,
+        "edge": 0.34,
+        "odds": 28.03,
+        "dg_agrees": true
+      },
+      {
+        "player": "Min Woo Lee",
+        "win": 1.79,
+        "top5": 8.62,
+        "top10": 15.97,
+        "make_cut": 63.1,
+        "mkt_win": 1.45,
+        "dg_win": 1.94,
+        "edge": 0.34,
+        "odds": 47.58,
+        "dg_agrees": true
+      },
+      {
+        "player": "Eugenio Chacarra",
+        "win": 1.03,
+        "top5": 5.16,
+        "top10": 10.37,
+        "make_cut": 55.6,
+        "mkt_win": 0.72,
+        "dg_win": 0.73,
+        "edge": 0.31,
+        "odds": 95.85,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Marco Penge",
+        "win": 0.9,
+        "top5": 4.71,
+        "top10": 9.62,
+        "make_cut": 54.1,
+        "fit": 0.66,
+        "hist": 0.03,
+        "coursefit": 0.28,
+        "win_rank": 28
+      },
+      {
+        "player": "Grant Forrest",
+        "win": 0.3,
+        "top5": 1.77,
+        "top10": 4.17,
+        "make_cut": 41.0,
+        "fit": 0.53,
+        "hist": 0.2,
+        "coursefit": 0.21,
+        "win_rank": 79
+      },
+      {
+        "player": "Alejandro Del Rey",
+        "win": 0.3,
+        "top5": 2.02,
+        "top10": 4.75,
+        "make_cut": 42.7,
+        "fit": 0.51,
+        "hist": 0.04,
+        "coursefit": 0.27,
+        "win_rank": 76
+      },
+      {
+        "player": "Freddy Schott",
+        "win": 0.19,
+        "top5": 1.28,
+        "top10": 3.12,
+        "make_cut": 36.9,
+        "fit": 0.51,
+        "hist": -0.04,
+        "coursefit": 0.22,
+        "win_rank": 97
+      },
+      {
+        "player": "Haotong Li",
+        "win": 0.5,
+        "top5": 3.12,
+        "top10": 6.94,
+        "make_cut": 48.6,
+        "fit": 0.48,
+        "hist": 0.09,
+        "coursefit": 0.06,
+        "win_rank": 56
+      },
+      {
+        "player": "Joakim Lagergren",
+        "win": 0.15,
+        "top5": 1.11,
+        "top10": 2.67,
+        "make_cut": 34.6,
+        "fit": 0.46,
+        "hist": 0.07,
+        "coursefit": 0.2,
+        "win_rank": 102
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Padraig Harrington",
+        "win": 0.09,
+        "top5": 0.86,
+        "top10": 2.23,
+        "make_cut": 32.3,
+        "owgr": 501,
+        "dg_rank": 356,
+        "gap": 145
+      },
+      {
+        "player": "Victor Perez",
+        "win": 0.74,
+        "top5": 4.28,
+        "top10": 9.1,
+        "make_cut": 52.8,
+        "owgr": 198,
+        "dg_rank": 90,
+        "gap": 108
+      },
+      {
+        "player": "Adrian Meronk",
+        "win": 0.07,
+        "top5": 0.55,
+        "top10": 1.39,
+        "make_cut": 27.2,
+        "owgr": 501,
+        "dg_rank": 393,
+        "gap": 108
+      },
+      {
+        "player": "Dylan Frittelli",
+        "win": 0.11,
+        "top5": 0.79,
+        "top10": 2.19,
+        "make_cut": 31.6,
+        "owgr": 419,
+        "dg_rank": 313,
+        "gap": 106
+      },
+      {
+        "player": "David Ravetto",
+        "win": 0.13,
+        "top5": 0.89,
+        "top10": 2.34,
+        "make_cut": 32.6,
+        "owgr": 400,
+        "dg_rank": 309,
+        "gap": 91
+      },
+      {
+        "player": "Doug Ghim",
+        "win": 0.71,
+        "top5": 4.11,
+        "top10": 8.58,
+        "make_cut": 52.1,
+        "owgr": 155,
+        "dg_rank": 65,
+        "gap": 90
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Alex Fitzpatrick",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 1.9
+    },
+    {
+      "player": "Min Woo Lee",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 1.79
+    }
+  ]
+}
