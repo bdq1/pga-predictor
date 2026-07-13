@@ -1,0 +1,26 @@
+PGA forecast — The Open Championship (154th)
+Royal Birkdale · 2026-07-17 · 40,000 sims · cut top 70+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Scottie Scheffler        8.9%  (top5 27.4, top10 41.1)
+   2. Rory McIlroy             5.6%  (top5 20.3, top10 32.5)
+   3. Xander Schauffele        3.8%  (top5 15.2, top10 25.6)
+   4. Jon Rahm                 3.8%  (top5 14.4, top10 24.7)
+   5. Tommy Fleetwood          3.7%  (top5 15.1, top10 25.6)
+   6. Matt Fitzpatrick         3.4%  (top5 13.5, top10 23.2)
+   7. Ludvig Aberg             3.4%  (top5 13.4, top10 23.2)
+   8. Chris Gotterup           2.8%  (top5 11.9, top10 21.5)
+   9. Tyrrell Hatton           2.1%  (top5 9.6, top10 17.7)
+  10. Robert MacIntyre         2.0%  (top5 9.5, top10 17.3)
+  11. Wyndham Clark            2.0%  (top5 9.0, top10 16.9)
+  12. Viktor Hovland           1.9%  (top5 8.7, top10 16.2)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Wyndham Clark 16.9%, Viktor Hovland 16.2%, Min Woo Lee 16.2%, Justin Thomas 16.1%, Alex Fitzpatrick 15.9%, Patrick Cantlay 15.6%
+ [2] Value vs market: Min Woo Lee +0.5 @48, Tommy Fleetwood +0.4 @21, Chris Gotterup +0.4 @28, Alex Fitzpatrick +0.3 @53, Xander Schauffele +0.3 @20, Kurt Kitayama +0.3 @50
+ [3] Course-fit: Marco Penge +0.66, Grant Forrest +0.53, Alejandro Del Rey +0.51, Freddy Schott +0.51, Haotong Li +0.48, Joakim Lagergren +0.46
+ [4] Reputation gap: Padraig Harrington (OWGR 501/DG 356), Victor Perez (OWGR 198/DG 90), Adrian Meronk (OWGR 501/DG 393), Dylan Frittelli (OWGR 419/DG 313), David Ravetto (OWGR 400/DG 309), Doug Ghim (OWGR 155/DG 65)
+
+ SYNTHESIS (multiple lenses): Min Woo Lee [ceiling+value]; Alex Fitzpatrick [ceiling+value]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
