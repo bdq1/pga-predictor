@@ -1,0 +1,426 @@
+{
+  "event": "The Open Championship",
+  "course": "Royal Birkdale Golf Club",
+  "date": "2026-07-16",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Scottie Scheffler",
+      "win": 7.8,
+      "top5": 25.29,
+      "top10": 38.96,
+      "make_cut": 82.7,
+      "win_rank": 1
+    },
+    {
+      "player": "Tommy Fleetwood",
+      "win": 5.43,
+      "top5": 19.44,
+      "top10": 31.35,
+      "make_cut": 78.6,
+      "win_rank": 2
+    },
+    {
+      "player": "Matt Fitzpatrick",
+      "win": 4.93,
+      "top5": 18.06,
+      "top10": 29.58,
+      "make_cut": 77.6,
+      "win_rank": 3
+    },
+    {
+      "player": "Rory McIlroy",
+      "win": 4.79,
+      "top5": 17.63,
+      "top10": 29.0,
+      "make_cut": 77.0,
+      "win_rank": 4
+    },
+    {
+      "player": "Jon Rahm",
+      "win": 3.2,
+      "top5": 13.1,
+      "top10": 22.94,
+      "make_cut": 72.4,
+      "win_rank": 5
+    },
+    {
+      "player": "Viktor Hovland",
+      "win": 2.74,
+      "top5": 11.91,
+      "top10": 21.38,
+      "make_cut": 70.9,
+      "win_rank": 6
+    },
+    {
+      "player": "Xander Schauffele",
+      "win": 2.47,
+      "top5": 11.03,
+      "top10": 20.01,
+      "make_cut": 69.5,
+      "win_rank": 7
+    },
+    {
+      "player": "Robert MacIntyre",
+      "win": 2.34,
+      "top5": 10.62,
+      "top10": 19.21,
+      "make_cut": 69.1,
+      "win_rank": 8
+    },
+    {
+      "player": "Si Woo Kim",
+      "win": 2.32,
+      "top5": 10.28,
+      "top10": 18.76,
+      "make_cut": 68.4,
+      "win_rank": 9
+    },
+    {
+      "player": "Ludvig Aberg",
+      "win": 1.87,
+      "top5": 9.42,
+      "top10": 17.33,
+      "make_cut": 66.9,
+      "win_rank": 10
+    },
+    {
+      "player": "Tyrrell Hatton",
+      "win": 1.78,
+      "top5": 8.46,
+      "top10": 16.34,
+      "make_cut": 65.5,
+      "win_rank": 11
+    },
+    {
+      "player": "Cameron Young",
+      "win": 1.77,
+      "top5": 7.93,
+      "top10": 15.09,
+      "make_cut": 63.8,
+      "win_rank": 12
+    },
+    {
+      "player": "Shane Lowry",
+      "win": 1.72,
+      "top5": 8.43,
+      "top10": 16.03,
+      "make_cut": 64.9,
+      "win_rank": 13
+    },
+    {
+      "player": "Collin Morikawa",
+      "win": 1.7,
+      "top5": 8.22,
+      "top10": 15.62,
+      "make_cut": 64.2,
+      "win_rank": 14
+    },
+    {
+      "player": "Aaron Rai",
+      "win": 1.67,
+      "top5": 7.78,
+      "top10": 14.92,
+      "make_cut": 63.5,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Tyrrell Hatton",
+        "win": 1.78,
+        "top5": 8.46,
+        "top10": 16.34,
+        "make_cut": 65.5,
+        "std": 2.93,
+        "win_rank": 11,
+        "ceiling": 16.34
+      },
+      {
+        "player": "Shane Lowry",
+        "win": 1.72,
+        "top5": 8.43,
+        "top10": 16.03,
+        "make_cut": 64.9,
+        "std": 2.86,
+        "win_rank": 13,
+        "ceiling": 16.03
+      },
+      {
+        "player": "Collin Morikawa",
+        "win": 1.7,
+        "top5": 8.22,
+        "top10": 15.62,
+        "make_cut": 64.2,
+        "std": 2.88,
+        "win_rank": 14,
+        "ceiling": 15.62
+      },
+      {
+        "player": "Cameron Young",
+        "win": 1.77,
+        "top5": 7.93,
+        "top10": 15.09,
+        "make_cut": 63.8,
+        "std": 2.98,
+        "win_rank": 12,
+        "ceiling": 15.09
+      },
+      {
+        "player": "Aaron Rai",
+        "win": 1.67,
+        "top5": 7.78,
+        "top10": 14.92,
+        "make_cut": 63.5,
+        "std": 2.8,
+        "win_rank": 15,
+        "ceiling": 14.92
+      },
+      {
+        "player": "Justin Rose",
+        "win": 1.6,
+        "top5": 7.86,
+        "top10": 14.92,
+        "make_cut": 63.9,
+        "std": 2.97,
+        "win_rank": 17,
+        "ceiling": 14.92
+      }
+    ],
+    "value": [
+      {
+        "player": "Tommy Fleetwood",
+        "win": 5.43,
+        "top5": 19.44,
+        "top10": 31.35,
+        "make_cut": 78.6,
+        "mkt_win": 4.32,
+        "dg_win": 5.49,
+        "edge": 1.11,
+        "odds": 16.06,
+        "dg_agrees": true
+      },
+      {
+        "player": "Si Woo Kim",
+        "win": 2.32,
+        "top5": 10.28,
+        "top10": 18.76,
+        "make_cut": 68.4,
+        "mkt_win": 1.48,
+        "dg_win": 1.93,
+        "edge": 0.84,
+        "odds": 46.84,
+        "dg_agrees": true
+      },
+      {
+        "player": "Matt Fitzpatrick",
+        "win": 4.93,
+        "top5": 18.06,
+        "top10": 29.58,
+        "make_cut": 77.6,
+        "mkt_win": 4.27,
+        "dg_win": 4.63,
+        "edge": 0.66,
+        "odds": 16.25,
+        "dg_agrees": true
+      },
+      {
+        "player": "Aaron Rai",
+        "win": 1.67,
+        "top5": 7.78,
+        "top10": 14.92,
+        "make_cut": 63.5,
+        "mkt_win": 1.02,
+        "dg_win": 1.38,
+        "edge": 0.65,
+        "odds": 68.2,
+        "dg_agrees": true
+      },
+      {
+        "player": "Harris English",
+        "win": 1.26,
+        "top5": 6.1,
+        "top10": 12.1,
+        "make_cut": 60.1,
+        "mkt_win": 0.71,
+        "dg_win": 0.97,
+        "edge": 0.55,
+        "odds": 97.35,
+        "dg_agrees": false
+      },
+      {
+        "player": "Patrick Cantlay",
+        "win": 1.64,
+        "top5": 7.93,
+        "top10": 14.85,
+        "make_cut": 63.5,
+        "mkt_win": 1.1,
+        "dg_win": 1.48,
+        "edge": 0.54,
+        "odds": 63.03,
+        "dg_agrees": true
+      }
+    ],
+    "fit": [
+      {
+        "player": "Darren Clarke",
+        "win": 0.01,
+        "top5": 0.11,
+        "top10": 0.42,
+        "make_cut": 18.1,
+        "fit": 0.49,
+        "hist": -0.01,
+        "coursefit": 0.16,
+        "win_rank": 137
+      },
+      {
+        "player": "Padraig Harrington",
+        "win": 0.08,
+        "top5": 0.68,
+        "top10": 1.77,
+        "make_cut": 30.9,
+        "fit": 0.42,
+        "hist": 0.04,
+        "coursefit": 0.08,
+        "win_rank": 114
+      },
+      {
+        "player": "Tommy Fleetwood",
+        "win": 5.43,
+        "top5": 19.44,
+        "top10": 31.35,
+        "make_cut": 78.6,
+        "fit": 0.41,
+        "hist": -0.01,
+        "coursefit": -0.0,
+        "win_rank": 2
+      },
+      {
+        "player": "Tom Kim",
+        "win": 1.32,
+        "top5": 6.82,
+        "top10": 13.44,
+        "make_cut": 62.1,
+        "fit": 0.39,
+        "hist": -0.04,
+        "coursefit": 0.03,
+        "win_rank": 25
+      },
+      {
+        "player": "Henrik Stenson",
+        "win": 0.05,
+        "top5": 0.46,
+        "top10": 1.36,
+        "make_cut": 29.0,
+        "fit": 0.39,
+        "hist": 0.05,
+        "coursefit": 0.19,
+        "win_rank": 119
+      },
+      {
+        "player": "Laurie Canter",
+        "win": 0.22,
+        "top5": 1.66,
+        "top10": 3.88,
+        "make_cut": 41.3,
+        "fit": 0.37,
+        "hist": 0.02,
+        "coursefit": -0.01,
+        "win_rank": 89
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Stewart Cink",
+        "win": 0.22,
+        "top5": 1.7,
+        "top10": 4.16,
+        "make_cut": 42.4,
+        "owgr": 501,
+        "dg_rank": 146,
+        "gap": 355
+      },
+      {
+        "player": "Padraig Harrington",
+        "win": 0.08,
+        "top5": 0.68,
+        "top10": 1.77,
+        "make_cut": 30.9,
+        "owgr": 501,
+        "dg_rank": 381,
+        "gap": 120
+      },
+      {
+        "player": "Ryutaro Nagano",
+        "win": 0.02,
+        "top5": 0.16,
+        "top10": 0.57,
+        "make_cut": 20.4,
+        "owgr": 491,
+        "dg_rank": 385,
+        "gap": 106
+      },
+      {
+        "player": "Victor Perez",
+        "win": 0.77,
+        "top5": 4.2,
+        "top10": 8.81,
+        "make_cut": 54.6,
+        "owgr": 163,
+        "dg_rank": 64,
+        "gap": 99
+      },
+      {
+        "player": "Matthew Jordan",
+        "win": 0.18,
+        "top5": 1.19,
+        "top10": 2.98,
+        "make_cut": 37.5,
+        "owgr": 304,
+        "dg_rank": 221,
+        "gap": 83
+      },
+      {
+        "player": "Scott Vincent",
+        "win": 0.17,
+        "top5": 1.48,
+        "top10": 3.46,
+        "make_cut": 40.0,
+        "owgr": 152,
+        "dg_rank": 83,
+        "gap": 69
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Tommy Fleetwood",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 5.43
+    },
+    {
+      "player": "Aaron Rai",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 1.67
+    },
+    {
+      "player": "Padraig Harrington",
+      "lenses": [
+        "fit",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 0.08
+    }
+  ]
+}

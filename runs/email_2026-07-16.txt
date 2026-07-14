@@ -1,0 +1,26 @@
+PGA forecast — The Open Championship
+Royal Birkdale Golf Club · 2026-07-16 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Scottie Scheffler        7.8%  (top5 25.3, top10 39.0)
+   2. Tommy Fleetwood          5.4%  (top5 19.4, top10 31.4)
+   3. Matt Fitzpatrick         4.9%  (top5 18.1, top10 29.6)
+   4. Rory McIlroy             4.8%  (top5 17.6, top10 29.0)
+   5. Jon Rahm                 3.2%  (top5 13.1, top10 22.9)
+   6. Viktor Hovland           2.7%  (top5 11.9, top10 21.4)
+   7. Xander Schauffele        2.5%  (top5 11.0, top10 20.0)
+   8. Robert MacIntyre         2.3%  (top5 10.6, top10 19.2)
+   9. Si Woo Kim               2.3%  (top5 10.3, top10 18.8)
+  10. Ludvig Aberg             1.9%  (top5 9.4, top10 17.3)
+  11. Tyrrell Hatton           1.8%  (top5 8.5, top10 16.3)
+  12. Cameron Young            1.8%  (top5 7.9, top10 15.1)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Tyrrell Hatton 16.3%, Shane Lowry 16.0%, Collin Morikawa 15.6%, Cameron Young 15.1%, Aaron Rai 14.9%, Justin Rose 14.9%
+ [2] Value vs market: Tommy Fleetwood +1.1 @16, Si Woo Kim +0.8 @47, Matt Fitzpatrick +0.7 @16, Aaron Rai +0.7 @68, Harris English +0.6 @97, Patrick Cantlay +0.5 @63
+ [3] Course-fit: Darren Clarke +0.49, Padraig Harrington +0.42, Tommy Fleetwood +0.41, Tom Kim +0.39, Henrik Stenson +0.39, Laurie Canter +0.37
+ [4] Reputation gap: Stewart Cink (OWGR 501/DG 146), Padraig Harrington (OWGR 501/DG 381), Ryutaro Nagano (OWGR 491/DG 385), Victor Perez (OWGR 163/DG 64), Matthew Jordan (OWGR 304/DG 221), Scott Vincent (OWGR 152/DG 83)
+
+ SYNTHESIS (multiple lenses): Tommy Fleetwood [value+fit]; Aaron Rai [ceiling+value]; Padraig Harrington [fit+underrated]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
