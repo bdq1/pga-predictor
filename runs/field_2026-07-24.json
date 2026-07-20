@@ -1,0 +1,945 @@
+{
+  "event": "3M Open (est. \u2014 API unavailable)",
+  "course": "TPC Twin Cities, Blaine MN",
+  "date": "2026-07-24",
+  "cut_line": 65,
+  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-07-17.json (2026-07-07 17:28:26 UTC); no course-fit",
+  "players": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.869,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "McIlroy, Rory",
+      "skill": 1.995,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.836,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.599,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Rahm, Jon",
+      "skill": 1.929,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.908,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Aberg, Ludvig",
+      "skill": 1.553,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.434,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hatton, Tyrrell",
+      "skill": 1.118,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.221,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.635,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hovland, Viktor",
+      "skill": 1.38,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 0.865,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 1.204,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.362,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Nicolai",
+      "skill": 0.92,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.498,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kitayama, Kurt",
+      "skill": 1.134,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.999,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.488,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lowry, Shane",
+      "skill": 1.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Spaun, J.J.",
+      "skill": 1.437,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 0.942,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 1.076,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.552,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "English, Harris",
+      "skill": 1.216,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Chacarra, Eugenio",
+      "skill": 0.796,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 1.008,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Wallace, Matt",
+      "skill": 0.656,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Penge, Marco",
+      "skill": 0.115,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Puig, David",
+      "skill": 0.678,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Perez, Victor",
+      "skill": 0.372,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Knapp, Jake",
+      "skill": 1.004,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.644,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.613,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.904,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Ayora, Angel",
+      "skill": 0.54,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.773,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 0.958,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.065,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.616,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hillier, Daniel",
+      "skill": 0.441,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.345,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.626,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.663,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Reed, Patrick",
+      "skill": 0.792,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.839,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "McKibbin, Tom",
+      "skill": 0.149,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Thorbjornsen, Michael",
+      "skill": 0.421,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.356,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.693,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": -0.004,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.31,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.543,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.438,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Potgieter, Aldrich",
+      "skill": 0.128,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Koepka, Brooks",
+      "skill": 0.51,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lindell, Oliver",
+      "skill": 0.679,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.721,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Du Plessis, Hennie",
+      "skill": 0.124,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.321,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.788,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hill, Calum",
+      "skill": 0.13,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": 0.178,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Neergaard-Petersen, Rasmus",
+      "skill": 0.156,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.271,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.21,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.28,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.172,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Olesen, Thorbjorn",
+      "skill": 0.079,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.41,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Ferguson, Ewen",
+      "skill": 0.15,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lindberg, Mikael",
+      "skill": -0.05,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.211,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Del Rey, Alejandro",
+      "skill": -0.324,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.5,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Jarvis, Casey",
+      "skill": 0.204,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Schmid, Matti",
+      "skill": 0.011,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.08,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.265,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.3,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Forrest, Grant",
+      "skill": -0.447,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Schaper, Jayden",
+      "skill": 0.25,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.353,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Armitage, Marcus",
+      "skill": -0.038,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.231,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Wiesberger, Bernd",
+      "skill": 0.18,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Norgaard, Niklas",
+      "skill": -0.464,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.142,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.293,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Canter, Laurie",
+      "skill": -0.281,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": 0.02,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Brown, Dan",
+      "skill": -0.216,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Rozner, Antoine",
+      "skill": -0.075,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Nakajima, Keita",
+      "skill": 0.015,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Waring, Paul",
+      "skill": -0.495,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Schott, Freddy",
+      "skill": -0.648,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.095,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Couvra, Martin",
+      "skill": -0.228,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Sullivan, Andy",
+      "skill": -0.389,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Vilips, Karl",
+      "skill": -0.262,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Guerrier, Julien",
+      "skill": -0.155,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.405,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Bradbury, Dan",
+      "skill": -0.217,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lagergren, Joakim",
+      "skill": -0.738,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": -0.032,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Mansell, Richard",
+      "skill": -0.675,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Saddier, Adrien",
+      "skill": -0.355,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "LaCroix, Frederic",
+      "skill": -0.439,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Migliozzi, Guido",
+      "skill": -0.501,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.12,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kaneko, Kota",
+      "skill": 0.213,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Ravetto, David",
+      "skill": -0.614,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": -0.297,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Harrington, Padraig",
+      "skill": -0.752,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.097,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Frittelli, Dylan",
+      "skill": -0.624,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lawrence, Thriston",
+      "skill": -0.641,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.224,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Elvira Mijares, Ignacio",
+      "skill": -0.22,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Von Dellingshausen, Nicolai",
+      "skill": -0.892,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Manassero, Matteo",
+      "skill": -0.579,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Snedeker, Brandt",
+      "skill": 0.202,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Molinari, Francesco",
+      "skill": -0.448,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Meronk, Adrian",
+      "skill": -0.863,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Norris, Shaun",
+      "skill": -0.54,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Da Costa Rodrigues, Daniel",
+      "skill": -0.654,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Van Driel, Darius",
+      "skill": -0.579,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Wu, Ashun",
+      "skill": -0.64,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hidalgo Portillo, Angel",
+      "skill": -0.93,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Otaegui, Adrian",
+      "skill": -0.718,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Katsuragawa, Yuto",
+      "skill": -0.957,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Choi, Seungbin",
+      "skill": -1.187,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kruyswijk, Jacques",
+      "skill": -0.792,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -1.057,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Sterne, Richard",
+      "skill": -0.633,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Luiten, Joost",
+      "skill": -0.618,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hoshino, Rikuya",
+      "skill": -0.871,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Highsmith, Joe",
+      "skill": -1.145,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Jamieson, Scott",
+      "skill": -1.134,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Willett, Danny",
+      "skill": -1.053,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.358,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Lee, Junghwan",
+      "skill": -1.154,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Premlall, Yurav",
+      "skill": -1.168,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Gumberg, Jordan",
+      "skill": -1.262,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Syme, Connor",
+      "skill": -1.677,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Campbell, Brian",
+      "skill": -0.734,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Ok, Taehoon",
+      "skill": -1.081,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Veerman, Johannes",
+      "skill": -1.152,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Siem, Marcel",
+      "skill": -1.419,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Johnston, Ryggs",
+      "skill": -1.877,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Naidoo, Dylan",
+      "skill": -1.829,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Hoffman, Charley",
+      "skill": -1.239,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Larrazabal, Pablo",
+      "skill": -1.58,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Kim, Baekjun",
+      "skill": -2.007,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    },
+    {
+      "name": "Strydom, Ockie",
+      "skill": -2.337,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-07 17:28:26 UTC), no TPC course-fit applied"
+    }
+  ]
+}
