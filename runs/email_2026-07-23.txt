@@ -1,0 +1,26 @@
+PGA forecast — 3M Open
+TPC Twin Cities · 2026-07-23 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Scottie Scheffler       18.4%  (top5 44.0, top10 58.7)
+   2. Maverick McNealy         2.9%  (top5 12.7, top10 21.8)
+   3. Hideki Matsuyama         2.8%  (top5 12.0, top10 21.1)
+   4. Kurt Kitayama            2.7%  (top5 11.9, top10 21.0)
+   5. Tom Kim                  2.5%  (top5 11.3, top10 20.5)
+   6. Corey Conners            1.9%  (top5 9.2, top10 16.7)
+   7. Keith Mitchell           1.9%  (top5 9.2, top10 17.1)
+   8. Doug Ghim                1.8%  (top5 8.9, top10 16.7)
+   9. Jackson Koivun           1.8%  (top5 8.2, top10 15.8)
+  10. Jordan Smith             1.7%  (top5 8.3, top10 15.3)
+  11. Mac Meissner             1.6%  (top5 8.1, top10 15.4)
+  12. Sungjae Im               1.6%  (top5 7.8, top10 14.7)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Mac Meissner 15.4%, Sungjae Im 14.7%, Ben Kohles 14.2%, Ben James 13.6%, Christiaan Bezuidenhout 13.3%, Sam Stevens 13.1%
+ [2] Value vs market: Hideki Matsuyama +0.6 @30, Andrew Putnam +0.5 @123, Ben Kohles +0.4 @65, Maverick McNealy +0.4 @27, Jordan Smith +0.4 @51, Doug Ghim +0.4 @49
+ [3] Course-fit: Muzzy Donohue +0.54, Sungjae Im +0.43, Kensei Hirata +0.43, Brice Garnett +0.40, Aaron Wise +0.37, Sam Stevens +0.36
+ [4] Reputation gap: Preston Stout (OWGR 501/DG 163), Ben James (OWGR 395/DG 94), Ryder Cowan (OWGR 501/DG 325), Jackson Koivun (OWGR 206/DG 49), Adam Svensson (OWGR 467/DG 317), Kevin Streelman (OWGR 448/DG 300)
+
+ SYNTHESIS (multiple lenses): Sungjae Im [ceiling+fit]; Ben Kohles [ceiling+value]; Sam Stevens [ceiling+fit]; Ben James [ceiling+underrated]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
