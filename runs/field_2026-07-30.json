@@ -1,0 +1,873 @@
+{
+  "event": "Rocket Classic (est. \u2014 API unavailable)",
+  "course": "Detroit Golf Club, Detroit MI",
+  "date": "2026-07-30",
+  "cut_line": 65,
+  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-07-23.json (2026-07-21 13:07:10 UTC); no course-fit",
+  "players": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.698,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.169,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kitayama, Kurt",
+      "skill": 1.096,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.056,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.794,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.849,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.758,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.551,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 0.785,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.553,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.784,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.304,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kohles, Ben",
+      "skill": 0.462,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.307,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.479,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "James, Ben",
+      "skill": 0.348,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.532,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Homa, Max",
+      "skill": 0.625,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Jarvis, Casey",
+      "skill": 0.537,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.589,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Suber, Jackson",
+      "skill": 0.451,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Knapp, Jake",
+      "skill": 0.845,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.379,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Neergaard-Petersen, Rasmus",
+      "skill": 0.407,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.4,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.442,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.37,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.36,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Blair, Zac",
+      "skill": 0.306,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.482,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": 0.214,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.403,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hossler, Beau",
+      "skill": 0.094,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.182,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.322,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.443,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.27,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.301,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.281,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.223,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.36,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": 0.172,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Nakajima, Keita",
+      "skill": 0.253,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Mouw, William",
+      "skill": 0.243,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hoey, Rico",
+      "skill": 0.059,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hodges, Lee",
+      "skill": 0.109,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Fisk, Steven",
+      "skill": 0.229,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.14,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": 0.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": 0.233,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Snedeker, Brandt",
+      "skill": -0.016,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kanaya, Takumi",
+      "skill": -0.061,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kuchar, Matt",
+      "skill": 0.298,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Power, Seamus",
+      "skill": -0.0,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": -0.028,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": -0.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Dou, Zecheng",
+      "skill": -0.031,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": -0.148,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Schmid, Matti",
+      "skill": 0.146,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Potgieter, Aldrich",
+      "skill": 0.148,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Dahmen, Joel",
+      "skill": -0.224,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Jaeger, Stephan",
+      "skill": 0.067,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.16,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.06,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.002,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Ventura, Kristoffer",
+      "skill": -0.01,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Olesen, Thorbjorn",
+      "skill": 0.049,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": 0.006,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": -0.005,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Stout, Preston",
+      "skill": -0.025,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Chatfield, Davis",
+      "skill": -0.393,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Garnett, Brice",
+      "skill": -0.547,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.041,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": -0.159,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.161,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Peterson, Paul",
+      "skill": -0.401,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Ramey, Chad",
+      "skill": -0.262,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Lipsky, David",
+      "skill": -0.112,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Fishburn, Patrick",
+      "skill": -0.301,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Higgo, Garrick",
+      "skill": -0.272,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Phillips, Chandler",
+      "skill": -0.226,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Dumont De Chassart, Adrien",
+      "skill": 0.076,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Rodgers, Patrick",
+      "skill": -0.005,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.31,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Griffin, Lanto",
+      "skill": -0.297,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Vilips, Karl",
+      "skill": -0.153,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.685,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Skinns, David",
+      "skill": -0.33,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.338,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Crowe, Trace",
+      "skill": -0.317,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hadwin, Adam",
+      "skill": -0.724,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Wise, Aaron",
+      "skill": -0.811,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Gomez, Fabian",
+      "skill": -0.681,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Blanchet, Chandler",
+      "skill": -0.592,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Dunlap, Nick",
+      "skill": -0.563,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": -0.47,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Shipley, Neal",
+      "skill": -0.496,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.115,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Wu, Dylan",
+      "skill": -0.555,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Highsmith, Joe",
+      "skill": -0.867,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Lebioda, Hank",
+      "skill": -0.715,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.599,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Duncan, Tyler",
+      "skill": -0.773,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hirata, Kensei",
+      "skill": -1.004,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Whaley, Vince",
+      "skill": -0.374,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Cowan, Ryder",
+      "skill": -0.7,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Lower, Justin",
+      "skill": -0.832,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Springer, Hayden",
+      "skill": -0.493,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Higgs, Harry",
+      "skill": -0.649,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Streelman, Kevin",
+      "skill": -0.615,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "VanDerLaan, John",
+      "skill": -0.794,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Mazzoli, Stefano",
+      "skill": -0.64,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Nyholm, Pontus",
+      "skill": -0.614,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Hardy, Nick",
+      "skill": -0.807,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.098,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Campbell, Brian",
+      "skill": -0.863,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kang, Jeffrey",
+      "skill": -0.754,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "List, Luke",
+      "skill": -0.951,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Stanger, Jimmy",
+      "skill": -0.922,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Tosti, Alejandro",
+      "skill": -1.015,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Merritt, Troy",
+      "skill": -0.843,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.796,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Villegas, Camilo",
+      "skill": -0.943,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Gordon, Will",
+      "skill": -0.913,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Champ, Cameron",
+      "skill": -1.012,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -0.991,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Rozo, Marcelo",
+      "skill": -1.313,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -1.164,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Martin, Ben",
+      "skill": -1.121,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -1.135,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Walker, Danny",
+      "skill": -1.163,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Sargent, Gordon",
+      "skill": -1.228,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Campos, Rafael",
+      "skill": -1.313,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Paul, Jeremy",
+      "skill": -1.347,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Lindheim, Nicholas",
+      "skill": -1.398,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Lamprecht, Christo",
+      "skill": -1.424,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Brehm, Ryan",
+      "skill": -2.175,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Sandhu, Sihan",
+      "skill": -2.469,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Fahrny, Brannon",
+      "skill": -2.519,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Schultz, Cooper",
+      "skill": -2.649,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Wood, Griffin",
+      "skill": -2.493,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Campbell, Thomas",
+      "skill": -2.692,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Sihota, Jeevan",
+      "skill": -3.305,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    },
+    {
+      "name": "Donohue, Muzzy",
+      "skill": -6.761,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-07-21 13:07:10 UTC), no Detroit course-fit applied"
+    }
+  ]
+}
