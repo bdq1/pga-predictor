@@ -1,26 +1,26 @@
-PGA forecast — Rocket Classic (est. — API unavailable)
-Detroit Golf Club, Detroit MI · 2026-07-30 · 40,000 sims · cut top 65+ties
+PGA forecast — Rocket Classic
+Detroit Golf Club · 2026-07-30 · 40,000 sims · cut top 65+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Scottie Scheffler       17.2%  (top5 42.4, top10 56.9)
-   2. Maverick McNealy         3.1%  (top5 12.8, top10 22.2)
-   3. Kurt Kitayama            2.9%  (top5 12.0, top10 21.2)
-   4. Hideki Matsuyama         2.8%  (top5 11.6, top10 20.5)
-   5. Keith Mitchell           2.0%  (top5 9.2, top10 16.8)
-   6. Jake Knapp               2.0%  (top5 9.2, top10 16.8)
-   7. Tom Kim                  1.9%  (top5 8.8, top10 16.2)
-   8. Corey Conners            1.8%  (top5 8.6, top10 15.7)
-   9. Jackson Koivun           1.8%  (top5 8.4, top10 15.8)
-  10. Mac Meissner             1.8%  (top5 8.4, top10 15.9)
-  11. Max Homa                 1.4%  (top5 7.3, top10 13.9)
-  12. Pierceson Coody          1.3%  (top5 6.8, top10 13.2)
+   1. Cameron Young            5.7%  (top5 19.3, top10 30.9)
+   2. Chris Gotterup           3.8%  (top5 14.2, top10 24.1)
+   3. Si Woo Kim               3.6%  (top5 14.0, top10 23.8)
+   4. Xander Schauffele        3.5%  (top5 13.7, top10 23.5)
+   5. Patrick Cantlay          2.9%  (top5 11.6, top10 20.4)
+   6. Ben Griffin              2.6%  (top5 11.2, top10 19.7)
+   7. J.J. Spaun               2.5%  (top5 11.2, top10 19.6)
+   8. Wyndham Clark            2.5%  (top5 10.8, top10 19.4)
+   9. Russell Henley           2.3%  (top5 10.0, top10 18.0)
+  10. Jackson Koivun           2.2%  (top5 9.7, top10 17.6)
+  11. Ryan Gerard              2.2%  (top5 9.5, top10 17.2)
+  12. Hideki Matsuyama         2.2%  (top5 10.0, top10 18.0)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Max Homa 13.9%, Pierceson Coody 13.2%, Doug Ghim 13.0%, Jordan Smith 12.7%, Brian Harman 12.4%, Casey Jarvis 12.3%
- [2] Value vs market: 
- [3] Course-fit: Scottie Scheffler +0.00, Maverick McNealy +0.00, Kurt Kitayama +0.00, Hideki Matsuyama +0.00, Keith Mitchell +0.00, Jake Knapp +0.00
- [4] Reputation gap: Preston Stout (OWGR 501/DG 163), Ben James (OWGR 395/DG 94), Ryder Cowan (OWGR 501/DG 325), Jackson Koivun (OWGR 206/DG 49), Adam Svensson (OWGR 467/DG 317), Kevin Streelman (OWGR 448/DG 300)
+ [1] Deep ceiling: Hideki Matsuyama 18.0%, Ryan Gerard 17.2%, Jake Knapp 15.3%, Michael Thorbjornsen 13.8%, Nicolai Hojgaard 13.8%, Harris English 13.5%
+ [2] Value vs market: Si Woo Kim +0.5 @22, Ben Griffin +0.4 @31, Ryan Gerard +0.4 @38, J.J. Spaun +0.4 @32, Jordan Smith +0.4 @77, Patrick Cantlay +0.3 @27
+ [3] Course-fit: Cam Davis +0.49, Sungjae Im +0.44, Taylor Moore +0.39, Brad Dalke +0.39, Aaron Wise +0.36, Joe Highsmith +0.35
+ [4] Reputation gap: Ben James (OWGR 397/DG 102), Webb Simpson (OWGR 501/DG 212), Adam Svensson (OWGR 476/DG 329), Kevin Streelman (OWGR 397/DG 254), Kristoffer Ventura (OWGR 262/DG 155), Dylan Wu (OWGR 388/DG 287)
 
- SYNTHESIS (multiple lenses): none
+ SYNTHESIS (multiple lenses): Ryan Gerard [ceiling+value]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
