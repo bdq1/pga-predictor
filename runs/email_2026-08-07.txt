@@ -1,15 +1,15 @@
 PGA forecast — Wyndham Championship (est. — API unavailable)
-Sedgefield Country Club, Greensboro NC · 2026-08-07 · 40,000 sims · cut top 65+ties
+Sedgefield Country Club, Greensboro NC · 2026-08-07 · 40,000 sims · cut top 70+ties
 
 PART 1 — THE FAVORITES (win%)
    1. Cameron Young            4.7%  (top5 16.9, top10 28.2)
-   2. Si Woo Kim               4.2%  (top5 15.6, top10 26.2)
+   2. Si Woo Kim               4.3%  (top5 15.6, top10 26.2)
    3. Russell Henley           3.7%  (top5 14.6, top10 24.8)
    4. Chris Gotterup           3.6%  (top5 13.9, top10 23.9)
    5. Wyndham Clark            3.6%  (top5 14.2, top10 24.2)
    6. Patrick Cantlay          3.3%  (top5 13.0, top10 22.4)
    7. Xander Schauffele        3.2%  (top5 13.2, top10 22.8)
-   8. J.J. Spaun               2.8%  (top5 11.9, top10 20.9)
+   8. J.J. Spaun               2.8%  (top5 11.8, top10 20.9)
    9. Ben Griffin              2.4%  (top5 10.3, top10 18.7)
   10. Ryan Gerard              2.3%  (top5 10.2, top10 18.1)
   11. Hideki Matsuyama         2.3%  (top5 10.2, top10 18.4)

@@ -2,7 +2,7 @@
   "event": "Wyndham Championship (est. \u2014 API unavailable)",
   "course": "Sedgefield Country Club, Greensboro NC",
   "date": "2026-08-07",
-  "cut_line": 65,
+  "cut_line": 70,
   "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-07-30.json (2026-07-28 03:32:59 UTC); no course-fit",
   "players": [
     {
