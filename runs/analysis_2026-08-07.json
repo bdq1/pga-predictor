@@ -1,0 +1,325 @@
+{
+  "event": "Wyndham Championship (est. \u2014 API unavailable)",
+  "course": "Sedgefield Country Club, Greensboro NC",
+  "date": "2026-08-07",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Cameron Young",
+      "win": 4.65,
+      "top5": 16.87,
+      "top10": 28.16,
+      "make_cut": 75.9,
+      "win_rank": 1
+    },
+    {
+      "player": "Si Woo Kim",
+      "win": 4.25,
+      "top5": 15.62,
+      "top10": 26.2,
+      "make_cut": 74.0,
+      "win_rank": 2
+    },
+    {
+      "player": "Russell Henley",
+      "win": 3.7,
+      "top5": 14.64,
+      "top10": 24.78,
+      "make_cut": 73.0,
+      "win_rank": 3
+    },
+    {
+      "player": "Chris Gotterup",
+      "win": 3.63,
+      "top5": 13.89,
+      "top10": 23.89,
+      "make_cut": 72.7,
+      "win_rank": 4
+    },
+    {
+      "player": "Wyndham Clark",
+      "win": 3.58,
+      "top5": 14.19,
+      "top10": 24.25,
+      "make_cut": 72.8,
+      "win_rank": 5
+    },
+    {
+      "player": "Patrick Cantlay",
+      "win": 3.33,
+      "top5": 13.04,
+      "top10": 22.36,
+      "make_cut": 70.9,
+      "win_rank": 6
+    },
+    {
+      "player": "Xander Schauffele",
+      "win": 3.19,
+      "top5": 13.15,
+      "top10": 22.79,
+      "make_cut": 71.8,
+      "win_rank": 7
+    },
+    {
+      "player": "J.J. Spaun",
+      "win": 2.83,
+      "top5": 11.86,
+      "top10": 20.91,
+      "make_cut": 69.5,
+      "win_rank": 8
+    },
+    {
+      "player": "Ben Griffin",
+      "win": 2.4,
+      "top5": 10.3,
+      "top10": 18.73,
+      "make_cut": 67.6,
+      "win_rank": 9
+    },
+    {
+      "player": "Ryan Gerard",
+      "win": 2.33,
+      "top5": 10.19,
+      "top10": 18.07,
+      "make_cut": 66.8,
+      "win_rank": 10
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "win": 2.3,
+      "top5": 10.17,
+      "top10": 18.4,
+      "make_cut": 67.3,
+      "win_rank": 11
+    },
+    {
+      "player": "Harris English",
+      "win": 2.12,
+      "top5": 9.35,
+      "top10": 17.27,
+      "make_cut": 65.9,
+      "win_rank": 12
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 2.05,
+      "top5": 9.0,
+      "top10": 16.57,
+      "make_cut": 64.9,
+      "win_rank": 13
+    },
+    {
+      "player": "Akshay Bhatia",
+      "win": 1.93,
+      "top5": 8.62,
+      "top10": 15.96,
+      "make_cut": 64.5,
+      "win_rank": 14
+    },
+    {
+      "player": "Jacob Bridgeman",
+      "win": 1.76,
+      "top5": 7.67,
+      "top10": 14.41,
+      "make_cut": 62.9,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Hideki Matsuyama",
+        "win": 2.3,
+        "top5": 10.17,
+        "top10": 18.4,
+        "make_cut": 67.3,
+        "std": 2.58,
+        "win_rank": 11,
+        "ceiling": 18.4
+      },
+      {
+        "player": "Harris English",
+        "win": 2.12,
+        "top5": 9.35,
+        "top10": 17.27,
+        "make_cut": 65.9,
+        "std": 2.53,
+        "win_rank": 12,
+        "ceiling": 17.27
+      },
+      {
+        "player": "Jackson Koivun",
+        "win": 2.05,
+        "top5": 9.0,
+        "top10": 16.57,
+        "make_cut": 64.9,
+        "std": 2.61,
+        "win_rank": 13,
+        "ceiling": 16.57
+      },
+      {
+        "player": "Akshay Bhatia",
+        "win": 1.93,
+        "top5": 8.62,
+        "top10": 15.96,
+        "make_cut": 64.5,
+        "std": 2.6,
+        "win_rank": 14,
+        "ceiling": 15.96
+      },
+      {
+        "player": "Jacob Bridgeman",
+        "win": 1.76,
+        "top5": 7.67,
+        "top10": 14.41,
+        "make_cut": 62.9,
+        "std": 2.6,
+        "win_rank": 15,
+        "ceiling": 14.41
+      },
+      {
+        "player": "Jake Knapp",
+        "win": 1.5,
+        "top5": 7.41,
+        "top10": 14.2,
+        "make_cut": 62.5,
+        "std": 2.69,
+        "win_rank": 18,
+        "ceiling": 14.2
+      }
+    ],
+    "value": [],
+    "fit": [
+      {
+        "player": "Cameron Young",
+        "win": 4.65,
+        "top5": 16.87,
+        "top10": 28.16,
+        "make_cut": 75.9,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 1
+      },
+      {
+        "player": "Si Woo Kim",
+        "win": 4.25,
+        "top5": 15.62,
+        "top10": 26.2,
+        "make_cut": 74.0,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 2
+      },
+      {
+        "player": "Russell Henley",
+        "win": 3.7,
+        "top5": 14.64,
+        "top10": 24.78,
+        "make_cut": 73.0,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 3
+      },
+      {
+        "player": "Chris Gotterup",
+        "win": 3.63,
+        "top5": 13.89,
+        "top10": 23.89,
+        "make_cut": 72.7,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 4
+      },
+      {
+        "player": "Wyndham Clark",
+        "win": 3.58,
+        "top5": 14.19,
+        "top10": 24.25,
+        "make_cut": 72.8,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 5
+      },
+      {
+        "player": "Patrick Cantlay",
+        "win": 3.33,
+        "top5": 13.04,
+        "top10": 22.36,
+        "make_cut": 70.9,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 6
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Ben James",
+        "win": 0.63,
+        "top5": 3.43,
+        "top10": 7.38,
+        "make_cut": 50.6,
+        "owgr": 397,
+        "dg_rank": 102,
+        "gap": 295
+      },
+      {
+        "player": "Webb Simpson",
+        "win": 0.24,
+        "top5": 1.62,
+        "top10": 3.76,
+        "make_cut": 40.6,
+        "owgr": 501,
+        "dg_rank": 212,
+        "gap": 289
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.07,
+        "top5": 0.71,
+        "top10": 1.89,
+        "make_cut": 32.0,
+        "owgr": 476,
+        "dg_rank": 329,
+        "gap": 147
+      },
+      {
+        "player": "Kevin Streelman",
+        "win": 0.17,
+        "top5": 1.17,
+        "top10": 2.74,
+        "make_cut": 36.5,
+        "owgr": 397,
+        "dg_rank": 254,
+        "gap": 143
+      },
+      {
+        "player": "Kristoffer Ventura",
+        "win": 0.34,
+        "top5": 2.31,
+        "top10": 5.25,
+        "make_cut": 45.2,
+        "owgr": 262,
+        "dg_rank": 155,
+        "gap": 107
+      },
+      {
+        "player": "Dylan Wu",
+        "win": 0.12,
+        "top5": 0.96,
+        "top10": 2.38,
+        "make_cut": 34.4,
+        "owgr": 388,
+        "dg_rank": 287,
+        "gap": 101
+      }
+    ]
+  },
+  "synthesis": []
+}
