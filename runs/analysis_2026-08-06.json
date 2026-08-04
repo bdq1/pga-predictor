@@ -1,0 +1,435 @@
+{
+  "event": "Wyndham Championship",
+  "course": "Sedgefield Country Club",
+  "date": "2026-08-06",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Cameron Young",
+      "win": 6.73,
+      "top5": 21.54,
+      "top10": 33.58,
+      "make_cut": 79.1,
+      "win_rank": 1
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "win": 3.24,
+      "top5": 12.76,
+      "top10": 21.9,
+      "make_cut": 70.6,
+      "win_rank": 2
+    },
+    {
+      "player": "Ben Griffin",
+      "win": 3.01,
+      "top5": 11.84,
+      "top10": 20.84,
+      "make_cut": 69.2,
+      "win_rank": 3
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 2.95,
+      "top5": 12.13,
+      "top10": 21.12,
+      "make_cut": 69.6,
+      "win_rank": 4
+    },
+    {
+      "player": "Ryan Gerard",
+      "win": 2.87,
+      "top5": 11.64,
+      "top10": 20.61,
+      "make_cut": 68.7,
+      "win_rank": 5
+    },
+    {
+      "player": "Aaron Rai",
+      "win": 2.44,
+      "top5": 10.82,
+      "top10": 19.07,
+      "make_cut": 67.8,
+      "win_rank": 6
+    },
+    {
+      "player": "Justin Thomas",
+      "win": 2.2,
+      "top5": 9.55,
+      "top10": 17.44,
+      "make_cut": 65.7,
+      "win_rank": 7
+    },
+    {
+      "player": "Harris English",
+      "win": 2.17,
+      "top5": 9.82,
+      "top10": 17.66,
+      "make_cut": 66.1,
+      "win_rank": 8
+    },
+    {
+      "player": "Tom Kim",
+      "win": 2.07,
+      "top5": 9.2,
+      "top10": 16.7,
+      "make_cut": 65.2,
+      "win_rank": 9
+    },
+    {
+      "player": "Doug Ghim",
+      "win": 2.04,
+      "top5": 9.34,
+      "top10": 16.9,
+      "make_cut": 65.2,
+      "win_rank": 10
+    },
+    {
+      "player": "Alex Fitzpatrick",
+      "win": 1.95,
+      "top5": 8.78,
+      "top10": 15.96,
+      "make_cut": 64.1,
+      "win_rank": 11
+    },
+    {
+      "player": "Sungjae Im",
+      "win": 1.84,
+      "top5": 8.3,
+      "top10": 15.46,
+      "make_cut": 63.1,
+      "win_rank": 12
+    },
+    {
+      "player": "Mac Meissner",
+      "win": 1.82,
+      "top5": 8.33,
+      "top10": 15.2,
+      "make_cut": 63.4,
+      "win_rank": 13
+    },
+    {
+      "player": "Ben Kohles",
+      "win": 1.81,
+      "top5": 7.59,
+      "top10": 14.52,
+      "make_cut": 62.4,
+      "win_rank": 14
+    },
+    {
+      "player": "Davis Thompson",
+      "win": 1.66,
+      "top5": 7.66,
+      "top10": 14.5,
+      "make_cut": 62.2,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Alex Fitzpatrick",
+        "win": 1.95,
+        "top5": 8.78,
+        "top10": 15.96,
+        "make_cut": 64.1,
+        "std": 2.63,
+        "win_rank": 11,
+        "ceiling": 15.96
+      },
+      {
+        "player": "Sungjae Im",
+        "win": 1.84,
+        "top5": 8.3,
+        "top10": 15.46,
+        "make_cut": 63.1,
+        "std": 2.65,
+        "win_rank": 12,
+        "ceiling": 15.46
+      },
+      {
+        "player": "Mac Meissner",
+        "win": 1.82,
+        "top5": 8.33,
+        "top10": 15.2,
+        "make_cut": 63.4,
+        "std": 2.56,
+        "win_rank": 13,
+        "ceiling": 15.2
+      },
+      {
+        "player": "Ben Kohles",
+        "win": 1.81,
+        "top5": 7.59,
+        "top10": 14.52,
+        "make_cut": 62.4,
+        "std": 2.53,
+        "win_rank": 14,
+        "ceiling": 14.52
+      },
+      {
+        "player": "Davis Thompson",
+        "win": 1.66,
+        "top5": 7.66,
+        "top10": 14.5,
+        "make_cut": 62.2,
+        "std": 2.61,
+        "win_rank": 15,
+        "ceiling": 14.5
+      },
+      {
+        "player": "Keegan Bradley",
+        "win": 1.57,
+        "top5": 7.52,
+        "top10": 14.3,
+        "make_cut": 62.0,
+        "std": 2.64,
+        "win_rank": 17,
+        "ceiling": 14.3
+      }
+    ],
+    "value": [
+      {
+        "player": "Ben Kohles",
+        "win": 1.81,
+        "top5": 7.59,
+        "top10": 14.52,
+        "make_cut": 62.4,
+        "mkt_win": 1.24,
+        "dg_win": 1.48,
+        "edge": 0.57,
+        "odds": 55.04,
+        "dg_agrees": false
+      },
+      {
+        "player": "Harris English",
+        "win": 2.17,
+        "top5": 9.82,
+        "top10": 17.66,
+        "make_cut": 66.1,
+        "mkt_win": 1.65,
+        "dg_win": 2.28,
+        "edge": 0.52,
+        "odds": 41.25,
+        "dg_agrees": true
+      },
+      {
+        "player": "Ben Griffin",
+        "win": 3.01,
+        "top5": 11.84,
+        "top10": 20.84,
+        "make_cut": 69.2,
+        "mkt_win": 2.51,
+        "dg_win": 2.95,
+        "edge": 0.5,
+        "odds": 27.2,
+        "dg_agrees": true
+      },
+      {
+        "player": "Doug Ghim",
+        "win": 2.04,
+        "top5": 9.34,
+        "top10": 16.9,
+        "make_cut": 65.2,
+        "mkt_win": 1.57,
+        "dg_win": 2.23,
+        "edge": 0.47,
+        "odds": 43.39,
+        "dg_agrees": true
+      },
+      {
+        "player": "Mac Meissner",
+        "win": 1.82,
+        "top5": 8.33,
+        "top10": 15.2,
+        "make_cut": 63.4,
+        "mkt_win": 1.37,
+        "dg_win": 1.76,
+        "edge": 0.45,
+        "odds": 49.95,
+        "dg_agrees": true
+      },
+      {
+        "player": "Ryan Gerard",
+        "win": 2.87,
+        "top5": 11.64,
+        "top10": 20.61,
+        "make_cut": 68.7,
+        "mkt_win": 2.49,
+        "dg_win": 3.34,
+        "edge": 0.38,
+        "odds": 27.34,
+        "dg_agrees": true
+      }
+    ],
+    "fit": [
+      {
+        "player": "Sungjae Im",
+        "win": 1.84,
+        "top5": 8.3,
+        "top10": 15.46,
+        "make_cut": 63.1,
+        "fit": 0.63,
+        "hist": 0.19,
+        "coursefit": 0.05,
+        "win_rank": 12
+      },
+      {
+        "player": "Doug Ghim",
+        "win": 2.04,
+        "top5": 9.34,
+        "top10": 16.9,
+        "make_cut": 65.2,
+        "fit": 0.52,
+        "hist": 0.07,
+        "coursefit": 0.11,
+        "win_rank": 10
+      },
+      {
+        "player": "Brice Garnett",
+        "win": 0.29,
+        "top5": 1.67,
+        "top10": 3.95,
+        "make_cut": 40.7,
+        "fit": 0.43,
+        "hist": 0.2,
+        "coursefit": 0.28,
+        "win_rank": 91
+      },
+      {
+        "player": "Kensei Hirata",
+        "win": 0.08,
+        "top5": 0.7,
+        "top10": 1.81,
+        "make_cut": 30.9,
+        "fit": 0.43,
+        "hist": -0.04,
+        "coursefit": 0.22,
+        "win_rank": 123
+      },
+      {
+        "player": "Joel Dahmen",
+        "win": 0.5,
+        "top5": 3.12,
+        "top10": 6.76,
+        "make_cut": 48.4,
+        "fit": 0.41,
+        "hist": 0.08,
+        "coursefit": 0.34,
+        "win_rank": 67
+      },
+      {
+        "player": "Ryo Hisatsune",
+        "win": 1.45,
+        "top5": 7.18,
+        "top10": 13.57,
+        "make_cut": 60.9,
+        "fit": 0.4,
+        "hist": 0.0,
+        "coursefit": 0.08,
+        "win_rank": 20
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Webb Simpson",
+        "win": 0.22,
+        "top5": 1.41,
+        "top10": 3.31,
+        "make_cut": 38.4,
+        "owgr": 501,
+        "dg_rank": 221,
+        "gap": 280
+      },
+      {
+        "player": "Ben James",
+        "win": 1.08,
+        "top5": 5.35,
+        "top10": 10.43,
+        "make_cut": 56.5,
+        "owgr": 353,
+        "dg_rank": 98,
+        "gap": 255
+      },
+      {
+        "player": "Kihei Akina",
+        "win": 0.08,
+        "top5": 0.51,
+        "top10": 1.37,
+        "make_cut": 26.8,
+        "owgr": 501,
+        "dg_rank": 342,
+        "gap": 159
+      },
+      {
+        "player": "C.T. Pan",
+        "win": 0.06,
+        "top5": 0.52,
+        "top10": 1.29,
+        "make_cut": 26.6,
+        "owgr": 501,
+        "dg_rank": 348,
+        "gap": 153
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.18,
+        "top5": 1.26,
+        "top10": 2.94,
+        "make_cut": 36.0,
+        "owgr": 475,
+        "dg_rank": 330,
+        "gap": 145
+      },
+      {
+        "player": "Kevin Streelman",
+        "win": 0.16,
+        "top5": 1.17,
+        "top10": 2.72,
+        "make_cut": 35.3,
+        "owgr": 407,
+        "dg_rank": 276,
+        "gap": 131
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Doug Ghim",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 2.04
+    },
+    {
+      "player": "Sungjae Im",
+      "lenses": [
+        "ceiling",
+        "fit"
+      ],
+      "n": 2,
+      "win": 1.84
+    },
+    {
+      "player": "Mac Meissner",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 1.82
+    },
+    {
+      "player": "Ben Kohles",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 1.81
+    }
+  ]
+}

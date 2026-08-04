@@ -1,0 +1,891 @@
+{
+  "event": "Wyndham Championship",
+  "course": "Sedgefield Country Club",
+  "date": "2026-08-06",
+  "cut_line": 65,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
+  "players": [
+    {
+      "name": "Young, Cameron",
+      "skill": 1.738,
+      "adjustment": 0.262,
+      "notes": "DG fit +0.26 (hist +0.08, fit -0.09)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.314,
+      "adjustment": 0.114,
+      "notes": "DG fit +0.11 (hist +0.06, fit +0.06)"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.08,
+      "adjustment": 0.3,
+      "notes": "DG fit +0.30 (hist +0.02, fit +0.08)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.167,
+      "adjustment": 0.182,
+      "notes": "DG fit +0.18 (hist +0.12, fit -0.03)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.245,
+      "adjustment": 0.104,
+      "notes": "DG fit +0.10 (hist -0.03, fit +0.07)"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.903,
+      "adjustment": 0.377,
+      "notes": "DG fit +0.38 (hist +0.07, fit +0.40)"
+    },
+    {
+      "name": "English, Harris",
+      "skill": 0.861,
+      "adjustment": 0.317,
+      "notes": "DG fit +0.32 (hist +0.24, fit +0.04)"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.139,
+      "adjustment": 0.016,
+      "notes": "DG fit +0.02 (hist +0.02, fit -0.04)"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.606,
+      "adjustment": 0.524,
+      "notes": "DG fit +0.52 (hist +0.07, fit +0.11)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.832,
+      "adjustment": 0.28,
+      "notes": "DG fit +0.28 (hist +0.02, fit +0.12)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.925,
+      "adjustment": 0.143,
+      "notes": "DG fit +0.14 (hist -0.04, fit +0.13)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.394,
+      "adjustment": 0.633,
+      "notes": "DG fit +0.63 (hist +0.19, fit +0.05)"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.785,
+      "adjustment": 0.239,
+      "notes": "DG fit +0.24 (hist +0.08, fit -0.01)"
+    },
+    {
+      "name": "Kohles, Ben",
+      "skill": 0.69,
+      "adjustment": 0.291,
+      "notes": "DG fit +0.29 (hist +0.01, fit +0.40)"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.657,
+      "adjustment": 0.303,
+      "notes": "DG fit +0.30 (hist +0.08, fit +0.02)"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.967,
+      "adjustment": -0.012,
+      "notes": "DG fit -0.01 (hist +0.01, fit -0.08)"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.1,
+      "adjustment": -0.16,
+      "notes": "DG fit -0.16 (hist -0.03, fit -0.13)"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.59,
+      "adjustment": 0.335,
+      "notes": "DG fit +0.34 (hist -0.04, fit +0.13)"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.799,
+      "adjustment": 0.1,
+      "notes": "DG fit +0.10 (hist +0.17, fit +0.02)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.497,
+      "adjustment": 0.396,
+      "notes": "DG fit +0.40 (hist +0.00, fit +0.08)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.719,
+      "adjustment": 0.108,
+      "notes": "DG fit +0.11 (hist +0.13, fit +0.18)"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.538,
+      "adjustment": 0.233,
+      "notes": "DG fit +0.23 (hist +0.04, fit +0.17)"
+    },
+    {
+      "name": "Wallace, Matt",
+      "skill": 0.775,
+      "adjustment": -0.005,
+      "notes": "DG fit -0.01 (hist +0.07, fit -0.00)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.648,
+      "adjustment": 0.097,
+      "notes": "DG fit +0.10 (hist +0.17, fit +0.16)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.684,
+      "adjustment": 0.056,
+      "notes": "DG fit +0.06 (hist +0.12, fit +0.13)"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 0.86,
+      "adjustment": -0.129,
+      "notes": "DG fit -0.13 (hist +0.06, fit +0.19)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.749,
+      "adjustment": -0.048,
+      "notes": "DG fit -0.05 (hist +0.06, fit +0.05)"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": 0.454,
+      "adjustment": 0.226,
+      "notes": "DG fit +0.23 (hist -0.02, fit +0.24)"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.758,
+      "adjustment": -0.08,
+      "notes": "DG fit -0.08 (hist +0.08, fit -0.12)"
+    },
+    {
+      "name": "Neergaard-Petersen, Rasmus",
+      "skill": 0.41,
+      "adjustment": 0.243,
+      "notes": "DG fit +0.24 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "James, Ben",
+      "skill": 0.347,
+      "adjustment": 0.302,
+      "notes": "DG fit +0.30 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.433,
+      "adjustment": 0.206,
+      "notes": "DG fit +0.21 (hist +0.04, fit -0.09)"
+    },
+    {
+      "name": "Brown, Blades",
+      "skill": 0.522,
+      "adjustment": 0.097,
+      "notes": "DG fit +0.10 (hist -0.04, fit -0.02)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.682,
+      "adjustment": -0.073,
+      "notes": "DG fit -0.07 (hist +0.04, fit -0.04)"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.313,
+      "adjustment": 0.261,
+      "notes": "DG fit +0.26 (hist +0.16, fit +0.06)"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.482,
+      "adjustment": 0.073,
+      "notes": "DG fit +0.07 (hist +0.21, fit +0.03)"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.627,
+      "adjustment": -0.072,
+      "notes": "DG fit -0.07 (hist +0.05, fit -0.11)"
+    },
+    {
+      "name": "Blair, Zac",
+      "skill": 0.417,
+      "adjustment": 0.136,
+      "notes": "DG fit +0.14 (hist -0.01, fit +0.36)"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.391,
+      "adjustment": 0.122,
+      "notes": "DG fit +0.12 (hist +0.01, fit -0.04)"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.23,
+      "adjustment": 0.262,
+      "notes": "DG fit +0.26 (hist +0.04, fit +0.39)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.414,
+      "adjustment": 0.069,
+      "notes": "DG fit +0.07 (hist +0.02, fit +0.09)"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.173,
+      "adjustment": 0.305,
+      "notes": "DG fit +0.30 (hist +0.10, fit +0.21)"
+    },
+    {
+      "name": "Hodges, Lee",
+      "skill": 0.2,
+      "adjustment": 0.238,
+      "notes": "DG fit +0.24 (hist +0.00, fit +0.20)"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.557,
+      "adjustment": -0.125,
+      "notes": "DG fit -0.12 (hist -0.04, fit -0.21)"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.052,
+      "adjustment": 0.377,
+      "notes": "DG fit +0.38 (hist +0.01, fit +0.00)"
+    },
+    {
+      "name": "Suber, Jackson",
+      "skill": 0.32,
+      "adjustment": 0.086,
+      "notes": "DG fit +0.09 (hist -0.04, fit -0.04)"
+    },
+    {
+      "name": "Koepka, Brooks",
+      "skill": 0.551,
+      "adjustment": -0.156,
+      "notes": "DG fit -0.16 (hist +0.01, fit -0.13)"
+    },
+    {
+      "name": "Hossler, Beau",
+      "skill": 0.065,
+      "adjustment": 0.313,
+      "notes": "DG fit +0.31 (hist +0.07, fit -0.03)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.232,
+      "adjustment": 0.133,
+      "notes": "DG fit +0.13 (hist +0.06, fit +0.10)"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.224,
+      "adjustment": 0.135,
+      "notes": "DG fit +0.14 (hist -0.04, fit +0.17)"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.352,
+      "adjustment": -0.015,
+      "notes": "DG fit -0.01 (hist -0.06, fit -0.08)"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.161,
+      "adjustment": 0.162,
+      "notes": "DG fit +0.16 (hist +0.30, fit +0.04)"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.316,
+      "adjustment": -0.028,
+      "notes": "DG fit -0.03 (hist -0.04, fit -0.12)"
+    },
+    {
+      "name": "Ventura, Kristoffer",
+      "skill": 0.201,
+      "adjustment": 0.087,
+      "notes": "DG fit +0.09 (hist +0.02, fit -0.07)"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": -0.108,
+      "adjustment": 0.38,
+      "notes": "DG fit +0.38 (hist +0.18, fit +0.35)"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.105,
+      "adjustment": 0.16,
+      "notes": "DG fit +0.16 (hist -0.06, fit -0.06)"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": 0.085,
+      "adjustment": 0.179,
+      "notes": "DG fit +0.18 (hist -0.03, fit -0.00)"
+    },
+    {
+      "name": "Penge, Marco",
+      "skill": 0.274,
+      "adjustment": -0.013,
+      "notes": "DG fit -0.01 (hist -0.04, fit -0.31)"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.533,
+      "adjustment": -0.28,
+      "notes": "DG fit -0.28 (hist -0.05, fit -0.11)"
+    },
+    {
+      "name": "Dahmen, Joel",
+      "skill": -0.168,
+      "adjustment": 0.405,
+      "notes": "DG fit +0.41 (hist +0.08, fit +0.34)"
+    },
+    {
+      "name": "Mouw, William",
+      "skill": 0.113,
+      "adjustment": 0.117,
+      "notes": "DG fit +0.12 (hist -0.01, fit -0.01)"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.234,
+      "adjustment": -0.009,
+      "notes": "DG fit -0.01 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.239,
+      "adjustment": -0.016,
+      "notes": "DG fit -0.02 (hist -0.00, fit +0.09)"
+    },
+    {
+      "name": "Hoey, Rico",
+      "skill": 0.106,
+      "adjustment": 0.112,
+      "notes": "DG fit +0.11 (hist +0.01, fit -0.01)"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.457,
+      "adjustment": -0.268,
+      "notes": "DG fit -0.27 (hist -0.03, fit -0.00)"
+    },
+    {
+      "name": "Snedeker, Brandt",
+      "skill": -0.131,
+      "adjustment": 0.317,
+      "notes": "DG fit +0.32 (hist +0.17, fit +0.36)"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.301,
+      "adjustment": -0.118,
+      "notes": "DG fit -0.12 (hist -0.01, fit +0.08)"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.31,
+      "adjustment": -0.141,
+      "notes": "DG fit -0.14 (hist +0.03, fit -0.27)"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.371,
+      "adjustment": -0.205,
+      "notes": "DG fit -0.20 (hist -0.02, fit -0.12)"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.19,
+      "adjustment": -0.028,
+      "notes": "DG fit -0.03 (hist +0.07, fit -0.18)"
+    },
+    {
+      "name": "Olesen, Thorbjorn",
+      "skill": 0.023,
+      "adjustment": 0.094,
+      "notes": "DG fit +0.09 (hist -0.03, fit -0.00)"
+    },
+    {
+      "name": "Kuchar, Matt",
+      "skill": 0.115,
+      "adjustment": -0.007,
+      "notes": "DG fit -0.01 (hist +0.09, fit +0.28)"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.254,
+      "adjustment": 0.341,
+      "notes": "DG fit +0.34 (hist +0.18, fit +0.10)"
+    },
+    {
+      "name": "Dou, Zecheng",
+      "skill": 0.056,
+      "adjustment": 0.023,
+      "notes": "DG fit +0.02 (hist +0.02, fit -0.16)"
+    },
+    {
+      "name": "Power, Seamus",
+      "skill": 0.038,
+      "adjustment": 0.033,
+      "notes": "DG fit +0.03 (hist +0.10, fit +0.05)"
+    },
+    {
+      "name": "Jaeger, Stephan",
+      "skill": 0.163,
+      "adjustment": -0.103,
+      "notes": "DG fit -0.10 (hist +0.05, fit -0.27)"
+    },
+    {
+      "name": "Blanchet, Chandler",
+      "skill": -0.24,
+      "adjustment": 0.265,
+      "notes": "DG fit +0.27 (hist -0.04, fit +0.26)"
+    },
+    {
+      "name": "Lipsky, David",
+      "skill": -0.079,
+      "adjustment": 0.102,
+      "notes": "DG fit +0.10 (hist +0.05, fit +0.15)"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": -0.021,
+      "adjustment": 0.044,
+      "notes": "DG fit +0.04 (hist -0.01, fit -0.23)"
+    },
+    {
+      "name": "Phillips, Chandler",
+      "skill": -0.026,
+      "adjustment": 0.047,
+      "notes": "DG fit +0.05 (hist +0.03, fit +0.03)"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.239,
+      "adjustment": -0.22,
+      "notes": "DG fit -0.22 (hist -0.03, fit -0.21)"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.365,
+      "adjustment": -0.349,
+      "notes": "DG fit -0.35 (hist -0.01, fit -0.36)"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": 0.002,
+      "adjustment": 0.014,
+      "notes": "DG fit +0.01 (hist +0.04, fit -0.01)"
+    },
+    {
+      "name": "Chatfield, Davis",
+      "skill": -0.267,
+      "adjustment": 0.278,
+      "notes": "DG fit +0.28 (hist -0.04, fit +0.42)"
+    },
+    {
+      "name": "Fisk, Steven",
+      "skill": -0.048,
+      "adjustment": 0.035,
+      "notes": "DG fit +0.04 (hist -0.02, fit -0.09)"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": -0.353,
+      "adjustment": 0.299,
+      "notes": "DG fit +0.30 (hist +0.01, fit +0.20)"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": -0.083,
+      "adjustment": 0.027,
+      "notes": "DG fit +0.03 (hist +0.08, fit -0.18)"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.152,
+      "adjustment": 0.088,
+      "notes": "DG fit +0.09 (hist +0.07, fit +0.10)"
+    },
+    {
+      "name": "Fishburn, Patrick",
+      "skill": -0.102,
+      "adjustment": 0.006,
+      "notes": "DG fit +0.01 (hist +0.03, fit -0.08)"
+    },
+    {
+      "name": "Schmid, Matti",
+      "skill": 0.01,
+      "adjustment": -0.108,
+      "notes": "DG fit -0.11 (hist +0.06, fit -0.19)"
+    },
+    {
+      "name": "Kanaya, Takumi",
+      "skill": -0.173,
+      "adjustment": 0.075,
+      "notes": "DG fit +0.07 (hist -0.03, fit +0.19)"
+    },
+    {
+      "name": "Shipley, Neal",
+      "skill": -0.373,
+      "adjustment": 0.262,
+      "notes": "DG fit +0.26 (hist -0.04, fit +0.07)"
+    },
+    {
+      "name": "Garnett, Brice",
+      "skill": -0.631,
+      "adjustment": 0.431,
+      "notes": "DG fit +0.43 (hist +0.20, fit +0.28)"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.371,
+      "adjustment": 0.159,
+      "notes": "DG fit +0.16 (hist -0.03, fit +0.05)"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": -0.0,
+      "adjustment": -0.216,
+      "notes": "DG fit -0.22 (hist -0.02, fit -0.19)"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.38,
+      "adjustment": 0.154,
+      "notes": "DG fit +0.15 (hist +0.02, fit -0.03)"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.204,
+      "adjustment": -0.054,
+      "notes": "DG fit -0.05 (hist -0.04, fit -0.21)"
+    },
+    {
+      "name": "Saddier, Adrien",
+      "skill": -0.355,
+      "adjustment": 0.063,
+      "notes": "DG fit +0.06 (hist -0.04, fit +0.01)"
+    },
+    {
+      "name": "Simpson, Webb",
+      "skill": -0.328,
+      "adjustment": 0.029,
+      "notes": "DG fit +0.03 (hist +0.36, fit -0.04)"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": -0.269,
+      "adjustment": -0.052,
+      "notes": "DG fit -0.05 (hist -0.04, fit -0.10)"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": -0.078,
+      "adjustment": -0.243,
+      "notes": "DG fit -0.24 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Vilips, Karl",
+      "skill": -0.289,
+      "adjustment": -0.062,
+      "notes": "DG fit -0.06 (hist +0.02, fit -0.17)"
+    },
+    {
+      "name": "Lebioda, Hank",
+      "skill": -0.424,
+      "adjustment": 0.063,
+      "notes": "DG fit +0.06 (hist +0.02, fit +0.00)"
+    },
+    {
+      "name": "Potgieter, Aldrich",
+      "skill": -0.043,
+      "adjustment": -0.346,
+      "notes": "DG fit -0.35 (hist -0.04, fit -0.42)"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": -0.455,
+      "adjustment": 0.063,
+      "notes": "DG fit +0.06 (hist -0.01, fit +0.15)"
+    },
+    {
+      "name": "Dumont De Chassart, Adrien",
+      "skill": 0.004,
+      "adjustment": -0.403,
+      "notes": "DG fit -0.40 (hist -0.02, fit -0.28)"
+    },
+    {
+      "name": "Rodgers, Patrick",
+      "skill": -0.352,
+      "adjustment": -0.057,
+      "notes": "DG fit -0.06 (hist +0.17, fit -0.19)"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.744,
+      "adjustment": 0.323,
+      "notes": "DG fit +0.32 (hist +0.10, fit +0.13)"
+    },
+    {
+      "name": "Lower, Justin",
+      "skill": -0.715,
+      "adjustment": 0.258,
+      "notes": "DG fit +0.26 (hist +0.06, fit +0.20)"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.172,
+      "adjustment": -0.301,
+      "notes": "DG fit -0.30 (hist -0.02, fit -0.12)"
+    },
+    {
+      "name": "Campbell, Brian",
+      "skill": -0.794,
+      "adjustment": 0.318,
+      "notes": "DG fit +0.32 (hist -0.01, fit +0.36)"
+    },
+    {
+      "name": "Streelman, Kevin",
+      "skill": -0.556,
+      "adjustment": 0.08,
+      "notes": "DG fit +0.08 (hist +0.15, fit +0.14)"
+    },
+    {
+      "name": "Ramey, Chad",
+      "skill": -0.471,
+      "adjustment": -0.016,
+      "notes": "DG fit -0.02 (hist -0.01, fit -0.00)"
+    },
+    {
+      "name": "Griffin, Lanto",
+      "skill": -0.565,
+      "adjustment": 0.009,
+      "notes": "DG fit +0.01 (hist +0.04, fit +0.05)"
+    },
+    {
+      "name": "Wu, Dylan",
+      "skill": -0.581,
+      "adjustment": 0.019,
+      "notes": "DG fit +0.02 (hist -0.06, fit +0.06)"
+    },
+    {
+      "name": "Highsmith, Joe",
+      "skill": -0.748,
+      "adjustment": 0.169,
+      "notes": "DG fit +0.17 (hist -0.03, fit -0.06)"
+    },
+    {
+      "name": "Wise, Aaron",
+      "skill": -0.944,
+      "adjustment": 0.346,
+      "notes": "DG fit +0.35 (hist +0.05, fit -0.09)"
+    },
+    {
+      "name": "Crowe, Trace",
+      "skill": -0.508,
+      "adjustment": -0.135,
+      "notes": "DG fit -0.14 (hist +0.02, fit -0.16)"
+    },
+    {
+      "name": "VanDerLaan, John",
+      "skill": -0.718,
+      "adjustment": 0.007,
+      "notes": "DG fit +0.01 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Whaley, Vince",
+      "skill": -0.277,
+      "adjustment": -0.435,
+      "notes": "DG fit -0.43 (hist +0.00, fit -0.26)"
+    },
+    {
+      "name": "Hirata, Kensei",
+      "skill": -1.166,
+      "adjustment": 0.434,
+      "notes": "DG fit +0.43 (hist -0.04, fit +0.22)"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -0.684,
+      "adjustment": -0.093,
+      "notes": "DG fit -0.09 (hist +0.04, fit -0.24)"
+    },
+    {
+      "name": "Springer, Hayden",
+      "skill": -0.521,
+      "adjustment": -0.319,
+      "notes": "DG fit -0.32 (hist -0.02, fit -0.20)"
+    },
+    {
+      "name": "Dunlap, Nick",
+      "skill": -0.759,
+      "adjustment": -0.115,
+      "notes": "DG fit -0.12 (hist -0.02, fit -0.18)"
+    },
+    {
+      "name": "Stanger, Jimmy",
+      "skill": -0.83,
+      "adjustment": -0.05,
+      "notes": "DG fit -0.05 (hist -0.04, fit -0.16)"
+    },
+    {
+      "name": "Nyholm, Pontus",
+      "skill": -0.654,
+      "adjustment": -0.244,
+      "notes": "DG fit -0.24 (hist -0.04, fit -0.31)"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.214,
+      "adjustment": 0.278,
+      "notes": "DG fit +0.28 (hist +0.14, fit -0.17)"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.967,
+      "adjustment": 0.009,
+      "notes": "DG fit +0.01 (hist +0.25, fit -0.17)"
+    },
+    {
+      "name": "Kang, Jeffrey",
+      "skill": -0.859,
+      "adjustment": -0.107,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.09)"
+    },
+    {
+      "name": "Villegas, Camilo",
+      "skill": -0.879,
+      "adjustment": -0.088,
+      "notes": "DG fit -0.09 (hist +0.25, fit -0.03)"
+    },
+    {
+      "name": "Akina, Kihei",
+      "skill": -0.753,
+      "adjustment": -0.217,
+      "notes": "DG fit -0.22 (hist -0.04, fit -0.11)"
+    },
+    {
+      "name": "Pan, C.T.",
+      "skill": -0.732,
+      "adjustment": -0.274,
+      "notes": "DG fit -0.27 (hist +0.09, fit +0.14)"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -1.006,
+      "adjustment": -0.018,
+      "notes": "DG fit -0.02 (hist -0.04, fit -0.07)"
+    },
+    {
+      "name": "Sargent, Gordon",
+      "skill": -1.025,
+      "adjustment": -0.028,
+      "notes": "DG fit -0.03 (hist -0.02, fit -0.38)"
+    },
+    {
+      "name": "Mazzoli, Stefano",
+      "skill": -0.808,
+      "adjustment": -0.247,
+      "notes": "DG fit -0.25 (hist -0.04, fit -0.12)"
+    },
+    {
+      "name": "List, Luke",
+      "skill": -0.958,
+      "adjustment": -0.098,
+      "notes": "DG fit -0.10 (hist -0.01, fit -0.13)"
+    },
+    {
+      "name": "Rozo, Marcelo",
+      "skill": -1.345,
+      "adjustment": 0.172,
+      "notes": "DG fit +0.17 (hist -0.04, fit +0.24)"
+    },
+    {
+      "name": "Campos, Rafael",
+      "skill": -1.39,
+      "adjustment": -0.047,
+      "notes": "DG fit -0.05 (hist +0.00, fit -0.11)"
+    },
+    {
+      "name": "Walker, Danny",
+      "skill": -1.273,
+      "adjustment": -0.18,
+      "notes": "DG fit -0.18 (hist -0.03, fit -0.22)"
+    },
+    {
+      "name": "Tosti, Alejandro",
+      "skill": -1.364,
+      "adjustment": -0.101,
+      "notes": "DG fit -0.10 (hist -0.04, fit -0.24)"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -1.361,
+      "adjustment": -0.105,
+      "notes": "DG fit -0.10 (hist +0.18, fit -0.08)"
+    },
+    {
+      "name": "McGirt, William",
+      "skill": -1.972,
+      "adjustment": 0.017,
+      "notes": "DG fit +0.02 (hist +0.11, fit +0.36)"
+    },
+    {
+      "name": "Lamprecht, Christo",
+      "skill": -1.535,
+      "adjustment": -0.646,
+      "notes": "DG fit -0.65 (hist -0.04, fit -0.47)"
+    },
+    {
+      "name": "Huskey, Keenan",
+      "skill": -2.137,
+      "adjustment": -0.491,
+      "notes": "DG fit -0.49 (hist -0.04, fit -0.25)"
+    },
+    {
+      "name": "Collet, Tyler",
+      "skill": -2.439,
+      "adjustment": -0.279,
+      "notes": "DG fit -0.28 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Rodriguez, Lorenzo",
+      "skill": -3.52,
+      "adjustment": -0.198,
+      "notes": "DG fit -0.20 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "Hrabak, Cooper",
+      "skill": -4.824,
+      "adjustment": 0.327,
+      "notes": "DG fit +0.33 (hist -0.04, fit -0.13)"
+    }
+  ]
+}

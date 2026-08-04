@@ -1,0 +1,26 @@
+PGA forecast — Wyndham Championship
+Sedgefield Country Club · 2026-08-06 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Cameron Young            6.7%  (top5 21.5, top10 33.6)
+   2. Hideki Matsuyama         3.2%  (top5 12.8, top10 21.9)
+   3. Ben Griffin              3.0%  (top5 11.8, top10 20.8)
+   4. Jackson Koivun           3.0%  (top5 12.1, top10 21.1)
+   5. Ryan Gerard              2.9%  (top5 11.6, top10 20.6)
+   6. Aaron Rai                2.4%  (top5 10.8, top10 19.1)
+   7. Justin Thomas            2.2%  (top5 9.6, top10 17.4)
+   8. Harris English           2.2%  (top5 9.8, top10 17.7)
+   9. Tom Kim                  2.1%  (top5 9.2, top10 16.7)
+  10. Doug Ghim                2.0%  (top5 9.3, top10 16.9)
+  11. Alex Fitzpatrick         1.9%  (top5 8.8, top10 16.0)
+  12. Sungjae Im               1.8%  (top5 8.3, top10 15.5)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Alex Fitzpatrick 16.0%, Sungjae Im 15.5%, Mac Meissner 15.2%, Ben Kohles 14.5%, Davis Thompson 14.5%, Keegan Bradley 14.3%
+ [2] Value vs market: Ben Kohles +0.6 @55, Harris English +0.5 @41, Ben Griffin +0.5 @27, Doug Ghim +0.5 @43, Mac Meissner +0.5 @50, Ryan Gerard +0.4 @27
+ [3] Course-fit: Sungjae Im +0.63, Doug Ghim +0.52, Brice Garnett +0.43, Kensei Hirata +0.43, Joel Dahmen +0.41, Ryo Hisatsune +0.40
+ [4] Reputation gap: Webb Simpson (OWGR 501/DG 221), Ben James (OWGR 353/DG 98), Kihei Akina (OWGR 501/DG 342), C.T. Pan (OWGR 501/DG 348), Adam Svensson (OWGR 475/DG 330), Kevin Streelman (OWGR 407/DG 276)
+
+ SYNTHESIS (multiple lenses): Doug Ghim [value+fit]; Sungjae Im [ceiling+fit]; Mac Meissner [ceiling+value]; Ben Kohles [ceiling+value]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
