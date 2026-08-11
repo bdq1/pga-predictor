@@ -1,26 +1,26 @@
-PGA forecast — FedEx St. Jude Championship (est. — API unavailable)
-TPC Southwind, Memphis TN · 2026-08-13 · 40,000 sims · cut top 0+ties
+PGA forecast — FedEx St. Jude Championship
+TPC Southwind · 2026-08-13 · 40,000 sims · cut top 50+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Cameron Young            5.3%  (top5 20.1, top10 33.4)
-   2. Si Woo Kim               4.8%  (top5 18.9, top10 32.1)
-   3. Wyndham Clark            4.3%  (top5 17.1, top10 29.9)
-   4. Russell Henley           4.2%  (top5 17.3, top10 30.2)
-   5. Chris Gotterup           4.0%  (top5 16.6, top10 28.9)
-   6. Xander Schauffele        3.8%  (top5 15.5, top10 27.6)
-   7. Patrick Cantlay          3.7%  (top5 15.2, top10 27.2)
-   8. J.J. Spaun               3.1%  (top5 13.5, top10 25.0)
-   9. Ben Griffin              3.0%  (top5 12.9, top10 23.5)
-  10. Hideki Matsuyama         2.7%  (top5 12.4, top10 23.0)
-  11. Ryan Gerard              2.6%  (top5 11.8, top10 21.9)
-  12. Harris English           2.4%  (top5 11.0, top10 20.7)
+   1. Scottie Scheffler       11.0%  (top5 33.0, top10 49.5)
+   2. Rory McIlroy             4.1%  (top5 17.3, top10 30.1)
+   3. Tommy Fleetwood          3.8%  (top5 16.2, top10 28.5)
+   4. Cameron Young            3.8%  (top5 15.6, top10 27.8)
+   5. Xander Schauffele        3.6%  (top5 15.4, top10 27.4)
+   6. Matt Fitzpatrick         3.1%  (top5 14.1, top10 25.7)
+   7. Justin Thomas            2.8%  (top5 13.0, top10 24.5)
+   8. Sam Burns                2.8%  (top5 12.7, top10 23.6)
+   9. Hideki Matsuyama         2.6%  (top5 11.8, top10 22.5)
+  10. Si Woo Kim               2.5%  (top5 11.8, top10 22.8)
+  11. Patrick Cantlay          2.5%  (top5 11.9, top10 22.7)
+  12. Collin Morikawa          2.4%  (top5 11.6, top10 22.0)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Ryan Gerard 21.9%, Jackson Koivun 20.9%, Harris English 20.7%, Akshay Bhatia 20.2%, Jake Knapp 18.6%, Rickie Fowler 18.0%
- [2] Value vs market: 
- [3] Course-fit: Cameron Young +0.00, Si Woo Kim +0.00, Wyndham Clark +0.00, Russell Henley +0.00, Chris Gotterup +0.00, Xander Schauffele +0.00
- [4] Reputation gap: Ben James (OWGR 397/DG 102), Doug Ghim (OWGR 169/DG 76), Davis Thompson (OWGR 136/DG 72), Zac Blair (OWGR 142/DG 82), Seamus Power (OWGR 184/DG 124), Zach Bauchou (OWGR 155/DG 100)
+ [1] Deep ceiling: Patrick Cantlay 22.7%, Collin Morikawa 22.0%, Ludvig Aberg 21.7%, Viktor Hovland 20.7%, Russell Henley 19.9%, Chris Gotterup 18.3%
+ [2] Value vs market: Ben Griffin +0.7 @57, Ryan Gerard +0.5 @58, Aaron Rai +0.5 @73, Cameron Young +0.4 @22, Justin Thomas +0.4 @30, Tommy Fleetwood +0.4 @21
+ [3] Course-fit: Sungjae Im +0.44, Justin Thomas +0.40, Sam Stevens +0.28, Aaron Rai +0.26, Tom Kim +0.25, Cameron Young +0.24
+ [4] Reputation gap: Jackson Koivun (OWGR 69/DG 27), Patrick Cantlay (OWGR 41/DG 12), Maverick McNealy (OWGR 47/DG 25), Shane Lowry (OWGR 51/DG 30), Keith Mitchell (OWGR 74/DG 54), Alex Fitzpatrick (OWGR 68/DG 49)
 
- SYNTHESIS (multiple lenses): none
+ SYNTHESIS (multiple lenses): Cameron Young [value+fit]; Justin Thomas [value+fit]; Patrick Cantlay [ceiling+underrated]; Aaron Rai [value+fit]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.

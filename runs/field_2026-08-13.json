@@ -1,429 +1,423 @@
 {
-  "event": "FedEx St. Jude Championship (est. \u2014 API unavailable)",
-  "course": "TPC Southwind, Memphis TN",
+  "event": "FedEx St. Jude Championship",
+  "course": "TPC Southwind",
   "date": "2026-08-13",
-  "cut_line": 0,
-  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-08-07.json (2026-07-28 03:32:59 UTC); field approx. top 70 by DG rank; no course-fit",
+  "cut_line": 50,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
   "players": [
     {
+      "name": "Scheffler, Scottie",
+      "skill": 2.705,
+      "adjustment": 0.018,
+      "notes": "DG fit +0.02 (hist +0.11, fit -0.11)"
+    },
+    {
+      "name": "McIlroy, Rory",
+      "skill": 1.935,
+      "adjustment": -0.011,
+      "notes": "DG fit -0.01 (hist +0.08, fit -0.22)"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.875,
+      "adjustment": -0.034,
+      "notes": "DG fit -0.03 (hist +0.15, fit -0.01)"
+    },
+    {
       "name": "Young, Cameron",
-      "skill": 1.714,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Kim, Si Woo",
-      "skill": 1.641,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Henley, Russell",
-      "skill": 1.57,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Clark, Wyndham",
-      "skill": 1.545,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Gotterup, Chris",
-      "skill": 1.516,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 1.562,
+      "adjustment": 0.238,
+      "notes": "DG fit +0.24 (hist +0.05, fit -0.14)"
     },
     {
       "name": "Schauffele, Xander",
-      "skill": 1.449,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 1.572,
+      "adjustment": 0.21,
+      "notes": "DG fit +0.21 (hist +0.11, fit -0.14)"
     },
     {
-      "name": "Cantlay, Patrick",
-      "skill": 1.421,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.807,
+      "adjustment": -0.102,
+      "notes": "DG fit -0.10 (hist +0.11, fit -0.04)"
     },
     {
-      "name": "Spaun, J.J.",
-      "skill": 1.331,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Thomas, Justin",
+      "skill": 1.199,
+      "adjustment": 0.402,
+      "notes": "DG fit +0.40 (hist +0.12, fit -0.07)"
     },
     {
-      "name": "Griffin, Ben",
-      "skill": 1.24,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Burns, Sam",
+      "skill": 1.8,
+      "adjustment": -0.21,
+      "notes": "DG fit -0.21 (hist +0.15, fit -0.12)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.521,
+      "adjustment": 0.035,
+      "notes": "DG fit +0.04 (hist +0.02, fit +0.02)"
     },
     {
       "name": "Matsuyama, Hideki",
-      "skill": 1.214,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 1.398,
+      "adjustment": 0.132,
+      "notes": "DG fit +0.13 (hist +0.16, fit -0.02)"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.455,
+      "adjustment": 0.075,
+      "notes": "DG fit +0.07 (hist +0.13, fit -0.05)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.564,
+      "adjustment": -0.05,
+      "notes": "DG fit -0.05 (hist +0.11, fit +0.01)"
+    },
+    {
+      "name": "Aberg, Ludvig",
+      "skill": 1.5,
+      "adjustment": -0.004,
+      "notes": "DG fit -0.00 (hist +0.01, fit -0.13)"
+    },
+    {
+      "name": "Hovland, Viktor",
+      "skill": 1.273,
+      "adjustment": 0.136,
+      "notes": "DG fit +0.14 (hist +0.10, fit -0.03)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.55,
+      "adjustment": -0.171,
+      "notes": "DG fit -0.17 (hist +0.08, fit +0.08)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.343,
+      "adjustment": -0.057,
+      "notes": "DG fit -0.06 (hist -0.04, fit -0.17)"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.084,
+      "adjustment": 0.189,
+      "notes": "DG fit +0.19 (hist +0.05, fit -0.05)"
     },
     {
       "name": "Gerard, Ryan",
-      "skill": 1.17,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 1.158,
+      "adjustment": 0.112,
+      "notes": "DG fit +0.11 (hist -0.02, fit -0.04)"
     },
     {
-      "name": "English, Harris",
-      "skill": 1.09,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Kim, Tom",
+      "skill": 0.983,
+      "adjustment": 0.25,
+      "notes": "DG fit +0.25 (hist +0.03, fit +0.00)"
     },
     {
       "name": "Koivun, Jackson",
-      "skill": 1.081,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 1.069,
+      "adjustment": 0.155,
+      "notes": "DG fit +0.15 (hist -0.05, fit -0.04)"
     },
     {
-      "name": "Bhatia, Akshay",
-      "skill": 1.063,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "MacIntyre, Robert",
+      "skill": 1.34,
+      "adjustment": -0.131,
+      "notes": "DG fit -0.13 (hist +0.08, fit -0.05)"
     },
     {
-      "name": "Bridgeman, Jacob",
-      "skill": 0.939,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "McNealy, Maverick",
+      "skill": 1.094,
+      "adjustment": 0.113,
+      "notes": "DG fit +0.11 (hist +0.06, fit -0.09)"
     },
     {
-      "name": "Knapp, Jake",
-      "skill": 0.937,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Rai, Aaron",
+      "skill": 0.896,
+      "adjustment": 0.264,
+      "notes": "DG fit +0.26 (hist +0.13, fit +0.10)"
     },
     {
-      "name": "Fowler, Rickie",
-      "skill": 0.918,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Hojgaard, Nicolai",
-      "skill": 0.895,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Bradley, Keegan",
-      "skill": 0.887,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Taylor, Nick",
-      "skill": 0.793,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Meissner, Mac",
-      "skill": 0.726,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Conners, Corey",
-      "skill": 0.722,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Spaun, J.J.",
+      "skill": 1.195,
+      "adjustment": -0.045,
+      "notes": "DG fit -0.04 (hist +0.09, fit +0.00)"
     },
     {
       "name": "Thorbjornsen, Michael",
-      "skill": 0.688,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 0.936,
+      "adjustment": 0.163,
+      "notes": "DG fit +0.16 (hist -0.05, fit -0.10)"
     },
     {
-      "name": "Cole, Eric",
-      "skill": 0.668,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Lee, Min Woo",
+      "skill": 1.005,
+      "adjustment": 0.077,
+      "notes": "DG fit +0.08 (hist -0.04, fit -0.15)"
     },
     {
-      "name": "Kohles, Ben",
-      "skill": 0.624,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.819,
+      "adjustment": 0.207,
+      "notes": "DG fit +0.21 (hist -0.05, fit -0.01)"
     },
     {
-      "name": "McCarthy, Denny",
-      "skill": 0.617,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Clark, Wyndham",
+      "skill": 1.282,
+      "adjustment": -0.274,
+      "notes": "DG fit -0.27 (hist +0.04, fit -0.11)"
     },
     {
-      "name": "Wallace, Matt",
-      "skill": 0.612,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Koepka, Brooks",
-      "skill": 0.563,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Bezuidenhout, Christiaan",
-      "skill": 0.551,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Kim, Michael",
-      "skill": 0.546,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Hisatsune, Ryo",
-      "skill": 0.538,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Smith, Jordan",
-      "skill": 0.535,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Thompson, Davis",
-      "skill": 0.509,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Neergaard-Petersen, Rasmus",
-      "skill": 0.488,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Ghim, Doug",
-      "skill": 0.478,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Hall, Harry",
-      "skill": 0.472,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Blair, Zac",
-      "skill": 0.447,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "McCarty, Matt",
-      "skill": 0.444,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Brennan, Michael",
-      "skill": 0.433,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Grillo, Emiliano",
-      "skill": 0.382,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Spieth, Jordan",
-      "skill": 0.366,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Keefer, Johnny",
-      "skill": 0.36,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Coody, Pierceson",
-      "skill": 0.359,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "McGreevy, Max",
-      "skill": 0.338,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Suber, Jackson",
-      "skill": 0.336,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Greyserman, Max",
-      "skill": 0.328,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Bauchou, Zach",
-      "skill": 0.304,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Echavarria, Nico",
-      "skill": 0.302,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "James, Ben",
-      "skill": 0.295,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Yu, Kevin",
-      "skill": 0.269,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Parry, John",
-      "skill": 0.267,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Castillo, Ricky",
-      "skill": 0.267,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Penge, Marco",
-      "skill": 0.265,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Novak, Andrew",
-      "skill": 0.257,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Yellamaraju, Sudarshan",
-      "skill": 0.257,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Putnam, Andrew",
-      "skill": 0.252,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Lowry, Shane",
+      "skill": 1.052,
+      "adjustment": -0.072,
+      "notes": "DG fit -0.07 (hist +0.08, fit +0.01)"
     },
     {
       "name": "Im, Sungjae",
-      "skill": 0.246,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 0.522,
+      "adjustment": 0.44,
+      "notes": "DG fit +0.44 (hist +0.10, fit -0.02)"
     },
     {
-      "name": "Nakajima, Keita",
-      "skill": 0.22,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Conners, Corey",
+      "skill": 0.783,
+      "adjustment": 0.154,
+      "notes": "DG fit +0.15 (hist +0.09, fit +0.00)"
     },
     {
-      "name": "Hodges, Lee",
-      "skill": 0.216,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "English, Harris",
+      "skill": 0.753,
+      "adjustment": 0.171,
+      "notes": "DG fit +0.17 (hist +0.20, fit -0.04)"
     },
     {
-      "name": "Mouw, William",
-      "skill": 0.209,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Kitayama, Kurt",
+      "skill": 1.055,
+      "adjustment": -0.142,
+      "notes": "DG fit -0.14 (hist +0.03, fit -0.09)"
     },
     {
-      "name": "Hughes, Mackenzie",
-      "skill": 0.208,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Fowler, Rickie",
+      "skill": 0.999,
+      "adjustment": -0.088,
+      "notes": "DG fit -0.09 (hist +0.08, fit -0.01)"
     },
     {
-      "name": "Horschel, Billy",
-      "skill": 0.203,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Smalley, Alex",
+      "skill": 0.884,
+      "adjustment": 0.025,
+      "notes": "DG fit +0.03 (hist -0.04, fit -0.04)"
     },
     {
-      "name": "Power, Seamus",
-      "skill": 0.19,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Noren, Alex",
+      "skill": 0.982,
+      "adjustment": -0.086,
+      "notes": "DG fit -0.09 (hist +0.02, fit +0.05)"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.727,
+      "adjustment": 0.126,
+      "notes": "DG fit +0.13 (hist +0.01, fit -0.03)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.064,
+      "adjustment": -0.212,
+      "notes": "DG fit -0.21 (hist +0.12, fit -0.03)"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.887,
+      "adjustment": -0.058,
+      "notes": "DG fit -0.06 (hist -0.05, fit -0.15)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 0.958,
+      "adjustment": -0.147,
+      "notes": "DG fit -0.15 (hist +0.05, fit -0.04)"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.691,
+      "adjustment": 0.107,
+      "notes": "DG fit +0.11 (hist -0.05, fit -0.03)"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.739,
+      "adjustment": 0.057,
+      "notes": "DG fit +0.06 (hist +0.07, fit -0.09)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.952,
+      "adjustment": -0.166,
+      "notes": "DG fit -0.17 (hist +0.00, fit -0.02)"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.536,
+      "adjustment": 0.225,
+      "notes": "DG fit +0.23 (hist +0.07, fit -0.08)"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.572,
+      "adjustment": 0.178,
+      "notes": "DG fit +0.18 (hist +0.14, fit +0.04)"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.661,
+      "adjustment": 0.085,
+      "notes": "DG fit +0.09 (hist +0.11, fit +0.05)"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.639,
+      "adjustment": 0.096,
+      "notes": "DG fit +0.10 (hist +0.03, fit -0.02)"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.623,
+      "adjustment": 0.088,
+      "notes": "DG fit +0.09 (hist +0.07, fit -0.01)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 0.884,
+      "adjustment": -0.185,
+      "notes": "DG fit -0.18 (hist +0.14, fit -0.07)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.901,
+      "adjustment": -0.228,
+      "notes": "DG fit -0.23 (hist -0.05, fit -0.09)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.384,
+      "adjustment": 0.244,
+      "notes": "DG fit +0.24 (hist -0.05, fit -0.02)"
+    },
+    {
+      "name": "Hojgaard, Nicolai",
+      "skill": 0.759,
+      "adjustment": -0.143,
+      "notes": "DG fit -0.14 (hist -0.05, fit -0.18)"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.568,
+      "adjustment": 0.047,
+      "notes": "DG fit +0.05 (hist -0.01, fit -0.04)"
+    },
+    {
+      "name": "Knapp, Jake",
+      "skill": 0.865,
+      "adjustment": -0.269,
+      "notes": "DG fit -0.27 (hist -0.04, fit -0.13)"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.503,
+      "adjustment": 0.034,
+      "notes": "DG fit +0.03 (hist +0.06, fit -0.06)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.557,
+      "adjustment": -0.029,
+      "notes": "DG fit -0.03 (hist +0.09, fit +0.04)"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.383,
+      "adjustment": 0.094,
+      "notes": "DG fit +0.09 (hist -0.05, fit -0.04)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.897,
+      "adjustment": -0.458,
+      "notes": "DG fit -0.46 (hist -0.02, fit -0.08)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.398,
+      "adjustment": -0.026,
+      "notes": "DG fit -0.03 (hist -0.01, fit +0.02)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.56,
+      "adjustment": -0.192,
+      "notes": "DG fit -0.19 (hist +0.06, fit -0.08)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.45,
+      "adjustment": -0.083,
+      "notes": "DG fit -0.08 (hist -0.05, fit +0.03)"
     },
     {
       "name": "Stevens, Sam",
-      "skill": 0.171,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": 0.032,
+      "adjustment": 0.275,
+      "notes": "DG fit +0.28 (hist -0.00, fit -0.05)"
     },
     {
-      "name": "Fisk, Steven",
-      "skill": 0.17,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Straka, Sepp",
+      "skill": 0.09,
+      "adjustment": 0.201,
+      "notes": "DG fit +0.20 (hist +0.07, fit +0.03)"
+    },
+    {
+      "name": "Homa, Max",
+      "skill": 0.407,
+      "adjustment": -0.186,
+      "notes": "DG fit -0.19 (hist +0.03, fit -0.04)"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.214,
+      "adjustment": -0.106,
+      "notes": "DG fit -0.11 (hist -0.05, fit -0.06)"
     },
     {
       "name": "Schmid, Matti",
-      "skill": 0.139,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "skill": -0.059,
+      "adjustment": 0.111,
+      "notes": "DG fit +0.11 (hist -0.01, fit -0.06)"
     },
     {
-      "name": "Kirk, Chris",
-      "skill": 0.133,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Coody, Pierceson",
+      "skill": 0.045,
+      "adjustment": -0.038,
+      "notes": "DG fit -0.04 (hist -0.05, fit -0.11)"
     },
     {
-      "name": "Hojgaard, Rasmus",
-      "skill": 0.132,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Potgieter, Aldrich",
+      "skill": -0.293,
+      "adjustment": -0.069,
+      "notes": "DG fit -0.07 (hist -0.02, fit -0.20)"
     },
     {
-      "name": "Dou, Zecheng",
-      "skill": 0.125,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
-    },
-    {
-      "name": "Finau, Tony",
-      "skill": 0.117,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-07-28 03:32:59 UTC), no TPC Southwind course-fit applied"
+      "name": "Rodgers, Patrick",
+      "skill": -0.403,
+      "adjustment": 0.006,
+      "notes": "DG fit +0.01 (hist +0.07, fit -0.05)"
     }
   ]
 }
