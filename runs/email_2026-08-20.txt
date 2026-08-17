@@ -1,0 +1,26 @@
+PGA forecast — BMW Championship (est. — API unavailable)
+Bellerive Country Club, Town and Country, MO · 2026-08-20 · 40,000 sims · cut top 0+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Scottie Scheffler       11.3%  (top5 35.2, top10 53.5)
+   2. Rory McIlroy             4.7%  (top5 20.1, top10 35.4)
+   3. Tommy Fleetwood          4.4%  (top5 18.9, top10 33.4)
+   4. Matt Fitzpatrick         4.1%  (top5 17.7, top10 31.9)
+   5. Sam Burns                3.9%  (top5 17.4, top10 32.0)
+   6. Cameron Young            3.1%  (top5 14.1, top10 27.2)
+   7. Xander Schauffele        3.1%  (top5 14.2, top10 26.8)
+   8. Collin Morikawa          3.0%  (top5 14.0, top10 27.0)
+   9. Russell Henley           3.0%  (top5 14.1, top10 26.9)
+  10. Si Woo Kim               2.9%  (top5 13.7, top10 26.2)
+  11. Ludvig Aberg             2.7%  (top5 13.5, top10 25.7)
+  12. Patrick Cantlay          2.6%  (top5 12.8, top10 24.8)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Ludvig Aberg 25.7%, Patrick Cantlay 24.8%, Hideki Matsuyama 23.5%, Chris Gotterup 22.6%, Robert MacIntyre 22.5%, Wyndham Clark 21.3%
+ [2] Value vs market: 
+ [3] Course-fit: Scottie Scheffler +0.00, Rory McIlroy +0.00, Tommy Fleetwood +0.00, Matt Fitzpatrick +0.00, Sam Burns +0.00, Cameron Young +0.00
+ [4] Reputation gap: Jackson Koivun (OWGR 69/DG 27), Patrick Cantlay (OWGR 41/DG 12), Maverick McNealy (OWGR 47/DG 25), Shane Lowry (OWGR 51/DG 30), Keith Mitchell (OWGR 74/DG 54), Alex Fitzpatrick (OWGR 68/DG 49)
+
+ SYNTHESIS (multiple lenses): Patrick Cantlay [ceiling+underrated]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.
