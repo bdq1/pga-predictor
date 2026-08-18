@@ -1,309 +1,309 @@
 {
-  "event": "BMW Championship (est. \u2014 API unavailable)",
-  "course": "Bellerive Country Club, Town and Country, MO",
+  "event": "BMW Championship",
+  "course": "Bellerive Country Club",
   "date": "2026-08-20",
-  "cut_line": 0,
-  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-08-13.json (2026-08-10 17:31:23 UTC); top-50 by skill approx FedExCup standings; no course-fit",
+  "cut_line": 50,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
   "players": [
     {
       "name": "Scheffler, Scottie",
-      "skill": 2.705,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "McIlroy, Rory",
-      "skill": 1.935,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Fleetwood, Tommy",
-      "skill": 1.875,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Fitzpatrick, Matt",
-      "skill": 1.807,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Burns, Sam",
-      "skill": 1.8,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 2.9,
+      "adjustment": 0.017,
+      "notes": "DG fit +0.02 (hist -0.04, fit +0.02)"
     },
     {
       "name": "Schauffele, Xander",
-      "skill": 1.572,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Morikawa, Collin",
-      "skill": 1.564,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Young, Cameron",
-      "skill": 1.562,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Henley, Russell",
-      "skill": 1.55,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Kim, Si Woo",
-      "skill": 1.521,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.635,
+      "adjustment": 0.278,
+      "notes": "DG fit +0.28 (hist -0.01, fit +0.06)"
     },
     {
       "name": "Aberg, Ludvig",
-      "skill": 1.5,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.563,
+      "adjustment": 0.334,
+      "notes": "DG fit +0.33 (hist -0.04, fit +0.06)"
     },
     {
-      "name": "Cantlay, Patrick",
-      "skill": 1.455,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "McIlroy, Rory",
+      "skill": 1.651,
+      "adjustment": 0.216,
+      "notes": "DG fit +0.22 (hist -0.03, fit +0.09)"
     },
     {
-      "name": "Matsuyama, Hideki",
-      "skill": 1.398,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Fleetwood, Tommy",
+      "skill": 1.899,
+      "adjustment": -0.103,
+      "notes": "DG fit -0.10 (hist -0.02, fit -0.01)"
+    },
+    {
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.824,
+      "adjustment": -0.086,
+      "notes": "DG fit -0.09 (hist -0.03, fit -0.01)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.489,
+      "adjustment": 0.238,
+      "notes": "DG fit +0.24 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.878,
+      "adjustment": -0.22,
+      "notes": "DG fit -0.22 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.652,
+      "adjustment": -0.015,
+      "notes": "DG fit -0.01 (hist -0.06, fit -0.01)"
     },
     {
       "name": "Gotterup, Chris",
-      "skill": 1.343,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.33,
+      "adjustment": 0.224,
+      "notes": "DG fit +0.22 (hist -0.04, fit +0.06)"
     },
     {
-      "name": "MacIntyre, Robert",
-      "skill": 1.34,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Matsuyama, Hideki",
+      "skill": 1.472,
+      "adjustment": 0.016,
+      "notes": "DG fit +0.02 (hist -0.01, fit -0.02)"
     },
     {
-      "name": "Clark, Wyndham",
-      "skill": 1.282,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Cantlay, Patrick",
+      "skill": 1.507,
+      "adjustment": -0.05,
+      "notes": "DG fit -0.05 (hist -0.01, fit +0.00)"
     },
     {
       "name": "Hovland, Viktor",
-      "skill": 1.273,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.315,
+      "adjustment": 0.141,
+      "notes": "DG fit +0.14 (hist -0.04, fit +0.01)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.427,
+      "adjustment": -0.078,
+      "notes": "DG fit -0.08 (hist -0.04, fit +0.01)"
     },
     {
       "name": "Thomas, Justin",
-      "skill": 1.199,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Spaun, J.J.",
-      "skill": 1.195,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Gerard, Ryan",
-      "skill": 1.158,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "McNealy, Maverick",
-      "skill": 1.094,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Griffin, Ben",
-      "skill": 1.084,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Koivun, Jackson",
-      "skill": 1.069,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Rose, Justin",
-      "skill": 1.064,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Kitayama, Kurt",
-      "skill": 1.055,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Lowry, Shane",
-      "skill": 1.052,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.116,
+      "adjustment": 0.214,
+      "notes": "DG fit +0.21 (hist -0.00, fit -0.01)"
     },
     {
       "name": "Lee, Min Woo",
-      "skill": 1.005,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.894,
+      "adjustment": 0.344,
+      "notes": "DG fit +0.34 (hist -0.04, fit +0.06)"
     },
     {
-      "name": "Fowler, Rickie",
-      "skill": 0.999,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Clark, Wyndham",
+      "skill": 1.393,
+      "adjustment": -0.165,
+      "notes": "DG fit -0.17 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.19,
+      "adjustment": 0.024,
+      "notes": "DG fit +0.02 (hist -0.04, fit +0.01)"
     },
     {
       "name": "Kim, Tom",
-      "skill": 0.983,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 1.077,
+      "adjustment": 0.088,
+      "notes": "DG fit +0.09 (hist -0.04, fit -0.02)"
     },
     {
-      "name": "Noren, Alex",
-      "skill": 0.982,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Bhatia, Akshay",
-      "skill": 0.958,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Bridgeman, Jacob",
-      "skill": 0.952,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "McNealy, Maverick",
+      "skill": 1.157,
+      "adjustment": 0.004,
+      "notes": "DG fit +0.00 (hist -0.04, fit -0.01)"
     },
     {
       "name": "Thorbjornsen, Michael",
-      "skill": 0.936,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.877,
+      "adjustment": 0.283,
+      "notes": "DG fit +0.28 (hist -0.04, fit +0.04)"
     },
     {
-      "name": "Reitan, Kristoffer",
-      "skill": 0.901,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Griffin, Ben",
+      "skill": 1.045,
+      "adjustment": 0.108,
+      "notes": "DG fit +0.11 (hist -0.04, fit -0.02)"
     },
     {
-      "name": "Fox, Ryan",
-      "skill": 0.897,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Kitayama, Kurt",
+      "skill": 1.142,
+      "adjustment": 0.007,
+      "notes": "DG fit +0.01 (hist -0.04, fit +0.04)"
     },
     {
-      "name": "Rai, Aaron",
-      "skill": 0.896,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Henley, Russell",
+      "skill": 1.529,
+      "adjustment": -0.392,
+      "notes": "DG fit -0.39 (hist -0.01, fit -0.04)"
     },
     {
-      "name": "Brennan, Michael",
-      "skill": 0.887,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Smalley, Alex",
-      "skill": 0.884,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Scott, Adam",
-      "skill": 0.884,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Spaun, J.J.",
+      "skill": 1.181,
+      "adjustment": -0.064,
+      "notes": "DG fit -0.06 (hist -0.00, fit +0.01)"
     },
     {
       "name": "Knapp, Jake",
-      "skill": 0.865,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Fitzpatrick, Alex",
-      "skill": 0.819,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
-    },
-    {
-      "name": "Conners, Corey",
-      "skill": 0.783,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.99,
+      "adjustment": 0.069,
+      "notes": "DG fit +0.07 (hist -0.04, fit +0.05)"
     },
     {
       "name": "Hojgaard, Nicolai",
-      "skill": 0.759,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.788,
+      "adjustment": 0.136,
+      "notes": "DG fit +0.14 (hist -0.04, fit +0.07)"
     },
     {
-      "name": "English, Harris",
-      "skill": 0.753,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Brennan, Michael",
+      "skill": 0.864,
+      "adjustment": 0.059,
+      "notes": "DG fit +0.06 (hist -0.04, fit +0.09)"
     },
     {
-      "name": "Mitchell, Keith",
-      "skill": 0.739,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Scott, Adam",
+      "skill": 0.987,
+      "adjustment": -0.067,
+      "notes": "DG fit -0.07 (hist +0.03, fit +0.03)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.036,
+      "adjustment": -0.133,
+      "notes": "DG fit -0.13 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.702,
+      "adjustment": 0.184,
+      "notes": "DG fit +0.18 (hist +0.00, fit -0.02)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.943,
+      "adjustment": -0.071,
+      "notes": "DG fit -0.07 (hist -0.04, fit +0.01)"
     },
     {
       "name": "Cauley, Bud",
-      "skill": 0.727,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.846,
+      "adjustment": 0.017,
+      "notes": "DG fit +0.02 (hist -0.04, fit +0.01)"
     },
     {
-      "name": "Smith, Jordan",
-      "skill": 0.691,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Fowler, Rickie",
+      "skill": 1.001,
+      "adjustment": -0.153,
+      "notes": "DG fit -0.15 (hist -0.01, fit -0.00)"
     },
     {
-      "name": "Harman, Brian",
-      "skill": 0.661,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Rose, Justin",
+      "skill": 1.046,
+      "adjustment": -0.199,
+      "notes": "DG fit -0.20 (hist -0.01, fit +0.01)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.687,
+      "adjustment": 0.159,
+      "notes": "DG fit +0.16 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 1.143,
+      "adjustment": -0.312,
+      "notes": "DG fit -0.31 (hist -0.04, fit -0.05)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.984,
+      "adjustment": -0.195,
+      "notes": "DG fit -0.20 (hist -0.04, fit -0.02)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.78,
+      "adjustment": -0.001,
+      "notes": "DG fit -0.00 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.784,
+      "adjustment": -0.145,
+      "notes": "DG fit -0.14 (hist -0.00, fit +0.02)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.558,
+      "adjustment": 0.018,
+      "notes": "DG fit +0.02 (hist +0.01, fit +0.06)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.358,
+      "adjustment": 0.188,
+      "notes": "DG fit +0.19 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.724,
+      "adjustment": -0.198,
+      "notes": "DG fit -0.20 (hist -0.04, fit -0.04)"
     },
     {
       "name": "Cole, Eric",
-      "skill": 0.639,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "skill": 0.546,
+      "adjustment": -0.062,
+      "notes": "DG fit -0.06 (hist -0.04, fit -0.05)"
     },
     {
-      "name": "Kim, Michael",
-      "skill": 0.623,
-      "adjustment": 0.0,
-      "notes": "skill from DG (2026-08-10 17:31:23 UTC), no Bellerive course-fit applied"
+      "name": "Poston, J.T.",
+      "skill": 0.662,
+      "adjustment": -0.187,
+      "notes": "DG fit -0.19 (hist -0.04, fit -0.02)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 0.657,
+      "adjustment": -0.196,
+      "notes": "DG fit -0.20 (hist -0.04, fit -0.03)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.548,
+      "adjustment": -0.184,
+      "notes": "DG fit -0.18 (hist -0.04, fit -0.02)"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.184,
+      "adjustment": 0.077,
+      "notes": "DG fit +0.08 (hist -0.04, fit +0.00)"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.282,
+      "adjustment": -0.042,
+      "notes": "DG fit -0.04 (hist -0.04, fit +0.00)"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.331,
+      "adjustment": -0.266,
+      "notes": "DG fit -0.27 (hist -0.04, fit -0.03)"
     }
   ]
 }

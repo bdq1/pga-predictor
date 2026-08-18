@@ -1,26 +1,26 @@
-PGA forecast — BMW Championship (est. — API unavailable)
-Bellerive Country Club, Town and Country, MO · 2026-08-20 · 40,000 sims · cut top 0+ties
+PGA forecast — BMW Championship
+Bellerive Country Club · 2026-08-20 · 40,000 sims · cut top 50+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Scottie Scheffler       11.3%  (top5 35.2, top10 53.5)
-   2. Rory McIlroy             4.7%  (top5 20.1, top10 35.4)
-   3. Tommy Fleetwood          4.4%  (top5 18.9, top10 33.4)
-   4. Matt Fitzpatrick         4.1%  (top5 17.7, top10 31.9)
-   5. Sam Burns                3.9%  (top5 17.4, top10 32.0)
-   6. Cameron Young            3.1%  (top5 14.1, top10 27.2)
-   7. Xander Schauffele        3.1%  (top5 14.2, top10 26.8)
-   8. Collin Morikawa          3.0%  (top5 14.0, top10 27.0)
-   9. Russell Henley           3.0%  (top5 14.1, top10 26.9)
-  10. Si Woo Kim               2.9%  (top5 13.7, top10 26.2)
-  11. Ludvig Aberg             2.7%  (top5 13.5, top10 25.7)
-  12. Patrick Cantlay          2.6%  (top5 12.8, top10 24.8)
+   1. Scottie Scheffler       14.3%  (top5 40.9, top10 59.4)
+   2. Xander Schauffele        4.6%  (top5 19.9, top10 35.2)
+   3. Ludvig Aberg             4.5%  (top5 19.3, top10 34.6)
+   4. Rory McIlroy             4.5%  (top5 19.2, top10 34.2)
+   5. Tommy Fleetwood          3.9%  (top5 17.9, top10 32.4)
+   6. Cameron Young            3.7%  (top5 16.9, top10 31.1)
+   7. Matt Fitzpatrick         3.6%  (top5 16.9, top10 31.1)
+   8. Sam Burns                3.3%  (top5 16.0, top10 30.3)
+   9. Si Woo Kim               3.2%  (top5 15.5, top10 29.5)
+  10. Chris Gotterup           2.9%  (top5 14.1, top10 27.3)
+  11. Patrick Cantlay          2.7%  (top5 13.2, top10 25.7)
+  12. Viktor Hovland           2.6%  (top5 13.2, top10 25.9)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Ludvig Aberg 25.7%, Patrick Cantlay 24.8%, Hideki Matsuyama 23.5%, Chris Gotterup 22.6%, Robert MacIntyre 22.5%, Wyndham Clark 21.3%
- [2] Value vs market: 
- [3] Course-fit: Scottie Scheffler +0.00, Rory McIlroy +0.00, Tommy Fleetwood +0.00, Matt Fitzpatrick +0.00, Sam Burns +0.00, Cameron Young +0.00
- [4] Reputation gap: Jackson Koivun (OWGR 69/DG 27), Patrick Cantlay (OWGR 41/DG 12), Maverick McNealy (OWGR 47/DG 25), Shane Lowry (OWGR 51/DG 30), Keith Mitchell (OWGR 74/DG 54), Alex Fitzpatrick (OWGR 68/DG 49)
+ [1] Deep ceiling: Viktor Hovland 25.9%, Patrick Cantlay 25.7%, Hideki Matsuyama 25.6%, Collin Morikawa 23.5%, Justin Thomas 23.1%, Min Woo Lee 21.9%
+ [2] Value vs market: Ben Griffin +0.5 @65, Matt Fitzpatrick +0.5 @24, Si Woo Kim +0.5 @27, Ryan Gerard +0.4 @56, Min Woo Lee +0.4 @51, J.J. Spaun +0.3 @59
+ [3] Course-fit: Min Woo Lee +0.34, Ludvig Aberg +0.33, Xander Schauffele +0.28, Michael Thorbjornsen +0.28, Cameron Young +0.24, Rory McIlroy +0.22
+ [4] Reputation gap: Patrick Cantlay (OWGR 38/DG 10), Maverick McNealy (OWGR 46/DG 21), Adam Scott (OWGR 51/DG 34), Jake Knapp (OWGR 48/DG 33), Kurt Kitayama (OWGR 37/DG 23), Hideki Matsuyama (OWGR 25/DG 12)
 
- SYNTHESIS (multiple lenses): Patrick Cantlay [ceiling+underrated]
+ SYNTHESIS (multiple lenses): Min Woo Lee [ceiling+value+fit]; Patrick Cantlay [ceiling+underrated]; Hideki Matsuyama [ceiling+underrated]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
