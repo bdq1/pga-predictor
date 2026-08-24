@@ -1,0 +1,189 @@
+{
+  "event": "Tour Championship",
+  "course": "East Lake Golf Club",
+  "date": "2026-08-27",
+  "cut_line": 0,
+  "source": "DataGolf API (blocked - BMW Championship data used as proxy)",
+  "players": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.9,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.824,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.393,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.489,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.652,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.33,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.427,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.878,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Fleetwood, Tommy",
+      "skill": 1.899,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Aberg, Ludvig",
+      "skill": 1.563,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "McIlroy, Rory",
+      "skill": 1.651,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.635,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 0.984,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.529,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 0.657,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.472,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.19,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.558,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.507,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.78,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 0.894,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Spaun, J.J.",
+      "skill": 1.181,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.943,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.687,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.036,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Hovland, Viktor",
+      "skill": 1.315,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.046,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 0.987,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 1.077,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.784,
+      "adjustment": 0.0,
+      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+    }
+  ]
+}
