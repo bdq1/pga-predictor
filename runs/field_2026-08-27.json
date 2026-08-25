@@ -1,189 +1,189 @@
 {
-  "event": "Tour Championship",
+  "event": "TOUR Championship",
   "course": "East Lake Golf Club",
   "date": "2026-08-27",
-  "cut_line": 0,
-  "source": "DataGolf API (blocked - BMW Championship data used as proxy)",
+  "cut_line": 50,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
   "players": [
     {
       "name": "Scheffler, Scottie",
-      "skill": 2.9,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Fitzpatrick, Matt",
-      "skill": 1.824,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Clark, Wyndham",
-      "skill": 1.393,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Young, Cameron",
-      "skill": 1.489,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Kim, Si Woo",
-      "skill": 1.652,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Gotterup, Chris",
-      "skill": 1.33,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Morikawa, Collin",
-      "skill": 1.427,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Burns, Sam",
-      "skill": 1.878,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Fleetwood, Tommy",
-      "skill": 1.899,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Aberg, Ludvig",
-      "skill": 1.563,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 2.794,
+      "adjustment": 0.124,
+      "notes": "DG fit +0.12 (hist +0.07, fit +0.04)"
     },
     {
       "name": "McIlroy, Rory",
-      "skill": 1.651,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.795,
+      "adjustment": 0.436,
+      "notes": "DG fit +0.44 (hist +0.21, fit -0.01)"
     },
     {
       "name": "Schauffele, Xander",
-      "skill": 1.635,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Bridgeman, Jacob",
-      "skill": 0.984,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Henley, Russell",
-      "skill": 1.529,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Bhatia, Akshay",
-      "skill": 0.657,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Matsuyama, Hideki",
-      "skill": 1.472,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Gerard, Ryan",
-      "skill": 1.19,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
-    },
-    {
-      "name": "Woodland, Gary",
-      "skill": 0.558,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.582,
+      "adjustment": 0.634,
+      "notes": "DG fit +0.63 (hist +0.33, fit +0.02)"
     },
     {
       "name": "Cantlay, Patrick",
-      "skill": 1.507,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.684,
+      "adjustment": 0.134,
+      "notes": "DG fit +0.13 (hist +0.10, fit +0.03)"
     },
     {
-      "name": "Reitan, Kristoffer",
-      "skill": 0.78,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Fleetwood, Tommy",
+      "skill": 1.687,
+      "adjustment": 0.097,
+      "notes": "DG fit +0.10 (hist +0.09, fit +0.06)"
     },
     {
-      "name": "Lee, Min Woo",
-      "skill": 0.894,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Aberg, Ludvig",
+      "skill": 1.562,
+      "adjustment": 0.221,
+      "notes": "DG fit +0.22 (hist -0.02, fit +0.01)"
     },
     {
-      "name": "Spaun, J.J.",
-      "skill": 1.181,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Morikawa, Collin",
+      "skill": 1.569,
+      "adjustment": 0.146,
+      "notes": "DG fit +0.15 (hist +0.11, fit +0.07)"
     },
     {
-      "name": "Smalley, Alex",
-      "skill": 0.943,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Burns, Sam",
+      "skill": 1.782,
+      "adjustment": -0.084,
+      "notes": "DG fit -0.08 (hist +0.09, fit -0.00)"
     },
     {
-      "name": "Fitzpatrick, Alex",
-      "skill": 0.687,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Young, Cameron",
+      "skill": 1.383,
+      "adjustment": 0.306,
+      "notes": "DG fit +0.31 (hist +0.02, fit +0.01)"
     },
     {
-      "name": "MacIntyre, Robert",
-      "skill": 1.036,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Fitzpatrick, Matt",
+      "skill": 1.728,
+      "adjustment": -0.052,
+      "notes": "DG fit -0.05 (hist +0.01, fit +0.04)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.556,
+      "adjustment": 0.104,
+      "notes": "DG fit +0.10 (hist +0.01, fit +0.07)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.652,
+      "adjustment": -0.009,
+      "notes": "DG fit -0.01 (hist +0.05, fit -0.02)"
     },
     {
       "name": "Hovland, Viktor",
-      "skill": 1.315,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.247,
+      "adjustment": 0.379,
+      "notes": "DG fit +0.38 (hist +0.18, fit +0.04)"
     },
     {
-      "name": "Rose, Justin",
-      "skill": 1.046,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "name": "Matsuyama, Hideki",
+      "skill": 1.417,
+      "adjustment": 0.179,
+      "notes": "DG fit +0.18 (hist +0.06, fit +0.04)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.484,
+      "adjustment": 0.103,
+      "notes": "DG fit +0.10 (hist +0.00, fit -0.02)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.549,
+      "adjustment": -0.106,
+      "notes": "DG fit -0.11 (hist +0.18, fit +0.08)"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.232,
+      "adjustment": 0.047,
+      "notes": "DG fit +0.05 (hist -0.04, fit +0.03)"
     },
     {
       "name": "Scott, Adam",
-      "skill": 0.987,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.042,
+      "adjustment": 0.179,
+      "notes": "DG fit +0.18 (hist +0.16, fit +0.01)"
     },
     {
       "name": "Kim, Tom",
-      "skill": 1.077,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 1.062,
+      "adjustment": 0.137,
+      "notes": "DG fit +0.14 (hist -0.02, fit +0.04)"
+    },
+    {
+      "name": "MacIntyre, Robert",
+      "skill": 1.179,
+      "adjustment": 0.018,
+      "notes": "DG fit +0.02 (hist +0.01, fit +0.01)"
+    },
+    {
+      "name": "Rose, Justin",
+      "skill": 1.073,
+      "adjustment": 0.029,
+      "notes": "DG fit +0.03 (hist +0.21, fit +0.02)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 0.779,
+      "adjustment": 0.293,
+      "notes": "DG fit +0.29 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Spaun, J.J.",
+      "skill": 1.187,
+      "adjustment": -0.129,
+      "notes": "DG fit -0.13 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 1.006,
+      "adjustment": -0.059,
+      "notes": "DG fit -0.06 (hist -0.04, fit +0.03)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 1.109,
+      "adjustment": -0.191,
+      "notes": "DG fit -0.19 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Woodland, Gary",
+      "skill": 0.782,
+      "adjustment": 0.109,
+      "notes": "DG fit +0.11 (hist +0.16, fit +0.01)"
+    },
+    {
+      "name": "Reitan, Kristoffer",
+      "skill": 0.837,
+      "adjustment": -0.026,
+      "notes": "DG fit -0.03 (hist -0.04, fit +0.00)"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.609,
+      "adjustment": 0.168,
+      "notes": "DG fit +0.17 (hist -0.04, fit +0.04)"
+    },
+    {
+      "name": "Bhatia, Akshay",
+      "skill": 0.765,
+      "adjustment": -0.159,
+      "notes": "DG fit -0.16 (hist -0.00, fit -0.02)"
     },
     {
       "name": "Fox, Ryan",
-      "skill": 0.784,
-      "adjustment": 0.0,
-      "notes": "Skill from DG BMW Championship data; East Lake fit adj unavailable (API blocked)"
+      "skill": 0.68,
+      "adjustment": -0.272,
+      "notes": "DG fit -0.27 (hist -0.04, fit -0.03)"
     }
   ]
 }
