@@ -1,0 +1,26 @@
+PGA forecast — Biltmore Championship Asheville (est. — API unavailable)
+The Cliffs at Walnut Cove, Arden, NC · 2026-09-17 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Cameron Young            5.4%  (top5 18.8, top10 30.2)
+   2. Hideki Matsuyama         3.2%  (top5 12.4, top10 21.6)
+   3. Ryan Gerard              3.0%  (top5 11.9, top10 20.5)
+   4. Ben Griffin              2.7%  (top5 10.7, top10 18.8)
+   5. Justin Thomas            2.4%  (top5 10.2, top10 18.4)
+   6. Maverick McNealy         2.4%  (top5 9.9, top10 17.8)
+   7. Jackson Koivun           2.3%  (top5 9.9, top10 17.8)
+   8. Keegan Bradley           2.1%  (top5 9.0, top10 16.5)
+   9. Alex Fitzpatrick         1.9%  (top5 8.4, top10 15.3)
+  10. Aaron Rai                1.8%  (top5 8.3, top10 15.1)
+  11. Alex Noren               1.8%  (top5 7.7, top10 14.3)
+  12. Bud Cauley               1.7%  (top5 7.2, top10 13.5)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Alex Noren 14.3%, Harris English 14.1%, Tom Kim 13.9%, Bud Cauley 13.5%, Mac Meissner 13.2%, Matt Wallace 13.1%
+ [2] Value vs market: 
+ [3] Course-fit: Cameron Young +0.00, Hideki Matsuyama +0.00, Ryan Gerard +0.00, Ben Griffin +0.00, Justin Thomas +0.00, Maverick McNealy +0.00
+ [4] Reputation gap: Webb Simpson (OWGR 501/DG 221), Ben James (OWGR 353/DG 98), Kihei Akina (OWGR 501/DG 342), C.T. Pan (OWGR 501/DG 348), Adam Svensson (OWGR 475/DG 330), Kevin Streelman (OWGR 407/DG 276)
+
+ SYNTHESIS (multiple lenses): none
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.

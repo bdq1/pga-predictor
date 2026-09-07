@@ -1,0 +1,891 @@
+{
+  "event": "Biltmore Championship Asheville (est. \u2014 API unavailable)",
+  "course": "The Cliffs at Walnut Cove, Arden, NC",
+  "date": "2026-09-17",
+  "cut_line": 65,
+  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-08-06.json (2026-08-04 13:20:38 UTC); no course-fit",
+  "players": [
+    {
+      "name": "Young, Cameron",
+      "skill": 1.738,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.314,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.08,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Griffin, Ben",
+      "skill": 1.167,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Gerard, Ryan",
+      "skill": 1.245,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Rai, Aaron",
+      "skill": 0.903,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "English, Harris",
+      "skill": 0.861,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.606,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 0.832,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Fitzpatrick, Alex",
+      "skill": 0.925,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.394,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.785,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kohles, Ben",
+      "skill": 0.69,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.657,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Bradley, Keegan",
+      "skill": 0.967,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.1,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.59,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Cauley, Bud",
+      "skill": 0.799,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.497,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Harman, Brian",
+      "skill": 0.719,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.538,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Wallace, Matt",
+      "skill": 0.775,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.648,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.684,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Noren, Alex",
+      "skill": 0.86,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Smalley, Alex",
+      "skill": 0.749,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": 0.454,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Mitchell, Keith",
+      "skill": 0.758,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Neergaard-Petersen, Rasmus",
+      "skill": 0.41,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "James, Ben",
+      "skill": 0.347,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Spieth, Jordan",
+      "skill": 0.433,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Brown, Blades",
+      "skill": 0.522,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.682,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.313,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.482,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.627,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Blair, Zac",
+      "skill": 0.417,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.391,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.23,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.414,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.173,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hodges, Lee",
+      "skill": 0.2,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.557,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.052,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Suber, Jackson",
+      "skill": 0.32,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Koepka, Brooks",
+      "skill": 0.551,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hossler, Beau",
+      "skill": 0.065,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.232,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.224,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.352,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.161,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.316,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Ventura, Kristoffer",
+      "skill": 0.201,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": -0.108,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Stevens, Sam",
+      "skill": 0.105,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": 0.085,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Penge, Marco",
+      "skill": 0.274,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Theegala, Sahith",
+      "skill": 0.533,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Dahmen, Joel",
+      "skill": -0.168,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Mouw, William",
+      "skill": 0.113,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.234,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Straka, Sepp",
+      "skill": 0.239,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hoey, Rico",
+      "skill": 0.106,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Day, Jason",
+      "skill": 0.457,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Snedeker, Brandt",
+      "skill": -0.131,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Berger, Daniel",
+      "skill": 0.301,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.31,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.371,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.19,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Olesen, Thorbjorn",
+      "skill": 0.023,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kuchar, Matt",
+      "skill": 0.115,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.254,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Dou, Zecheng",
+      "skill": 0.056,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Power, Seamus",
+      "skill": 0.038,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Jaeger, Stephan",
+      "skill": 0.163,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Blanchet, Chandler",
+      "skill": -0.24,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Lipsky, David",
+      "skill": -0.079,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": -0.021,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Phillips, Chandler",
+      "skill": -0.026,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.239,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.365,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": 0.002,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Chatfield, Davis",
+      "skill": -0.267,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Fisk, Steven",
+      "skill": -0.048,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": -0.353,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": -0.083,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.152,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Fishburn, Patrick",
+      "skill": -0.102,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Schmid, Matti",
+      "skill": 0.01,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kanaya, Takumi",
+      "skill": -0.173,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Shipley, Neal",
+      "skill": -0.373,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Garnett, Brice",
+      "skill": -0.631,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.371,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": -0.0,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.38,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.204,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Saddier, Adrien",
+      "skill": -0.355,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Simpson, Webb",
+      "skill": -0.328,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": -0.269,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": -0.078,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Vilips, Karl",
+      "skill": -0.289,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Lebioda, Hank",
+      "skill": -0.424,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Potgieter, Aldrich",
+      "skill": -0.043,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": -0.455,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Dumont De Chassart, Adrien",
+      "skill": 0.004,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Rodgers, Patrick",
+      "skill": -0.352,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.744,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Lower, Justin",
+      "skill": -0.715,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.172,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Campbell, Brian",
+      "skill": -0.794,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Streelman, Kevin",
+      "skill": -0.556,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Ramey, Chad",
+      "skill": -0.471,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Griffin, Lanto",
+      "skill": -0.565,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Wu, Dylan",
+      "skill": -0.581,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Highsmith, Joe",
+      "skill": -0.748,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Wise, Aaron",
+      "skill": -0.944,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Crowe, Trace",
+      "skill": -0.508,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "VanDerLaan, John",
+      "skill": -0.718,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Whaley, Vince",
+      "skill": -0.277,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hirata, Kensei",
+      "skill": -1.166,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -0.684,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Springer, Hayden",
+      "skill": -0.521,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Dunlap, Nick",
+      "skill": -0.759,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Stanger, Jimmy",
+      "skill": -0.83,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Nyholm, Pontus",
+      "skill": -0.654,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.214,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.967,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kang, Jeffrey",
+      "skill": -0.859,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Villegas, Camilo",
+      "skill": -0.879,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Akina, Kihei",
+      "skill": -0.753,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Pan, C.T.",
+      "skill": -0.732,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -1.006,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Sargent, Gordon",
+      "skill": -1.025,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Mazzoli, Stefano",
+      "skill": -0.808,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "List, Luke",
+      "skill": -0.958,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Rozo, Marcelo",
+      "skill": -1.345,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Campos, Rafael",
+      "skill": -1.39,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Walker, Danny",
+      "skill": -1.273,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Tosti, Alejandro",
+      "skill": -1.364,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -1.361,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "McGirt, William",
+      "skill": -1.972,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Lamprecht, Christo",
+      "skill": -1.535,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Huskey, Keenan",
+      "skill": -2.137,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Collet, Tyler",
+      "skill": -2.439,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Rodriguez, Lorenzo",
+      "skill": -3.52,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    },
+    {
+      "name": "Hrabak, Cooper",
+      "skill": -4.824,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-08-04 13:20:38 UTC), no Walnut Cove course-fit applied"
+    }
+  ]
+}
