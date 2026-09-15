@@ -1,26 +1,26 @@
-PGA forecast — Biltmore Championship Asheville (est. — API unavailable)
-The Cliffs at Walnut Cove, Arden, NC · 2026-09-17 · 40,000 sims · cut top 65+ties
+PGA forecast — Biltmore Championship Asheville
+The Cliffs at Walnut Cove · 2026-09-17 · 40,000 sims · cut top 65+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Cameron Young            5.4%  (top5 18.8, top10 30.2)
-   2. Hideki Matsuyama         3.2%  (top5 12.4, top10 21.6)
-   3. Ryan Gerard              3.0%  (top5 11.9, top10 20.5)
-   4. Ben Griffin              2.7%  (top5 10.7, top10 18.8)
-   5. Justin Thomas            2.4%  (top5 10.2, top10 18.4)
-   6. Maverick McNealy         2.4%  (top5 9.9, top10 17.8)
-   7. Jackson Koivun           2.3%  (top5 9.9, top10 17.8)
-   8. Keegan Bradley           2.1%  (top5 9.0, top10 16.5)
-   9. Alex Fitzpatrick         1.9%  (top5 8.4, top10 15.3)
-  10. Aaron Rai                1.8%  (top5 8.3, top10 15.1)
-  11. Alex Noren               1.8%  (top5 7.7, top10 14.3)
-  12. Bud Cauley               1.7%  (top5 7.2, top10 13.5)
+   1. Jackson Koivun           4.9%  (top5 17.5, top10 28.6)
+   2. Jacob Bridgeman          3.6%  (top5 14.3, top10 24.2)
+   3. Doug Ghim                3.0%  (top5 11.9, top10 21.3)
+   4. Corey Conners            2.9%  (top5 11.5, top10 20.3)
+   5. Mac Meissner             2.6%  (top5 10.8, top10 19.3)
+   6. Davis Thompson           2.5%  (top5 10.8, top10 19.2)
+   7. Ben James                2.4%  (top5 10.7, top10 19.1)
+   8. Ryo Hisatsune            2.3%  (top5 9.8, top10 17.7)
+   9. Eric Cole                2.3%  (top5 9.9, top10 17.7)
+  10. Rasmus Hojgaard          2.2%  (top5 9.7, top10 17.9)
+  11. Marco Penge              2.2%  (top5 9.2, top10 17.0)
+  12. Keita Nakajima           2.0%  (top5 9.0, top10 16.6)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Alex Noren 14.3%, Harris English 14.1%, Tom Kim 13.9%, Bud Cauley 13.5%, Mac Meissner 13.2%, Matt Wallace 13.1%
- [2] Value vs market: 
- [3] Course-fit: Cameron Young +0.00, Hideki Matsuyama +0.00, Ryan Gerard +0.00, Ben Griffin +0.00, Justin Thomas +0.00, Maverick McNealy +0.00
- [4] Reputation gap: Webb Simpson (OWGR 501/DG 221), Ben James (OWGR 353/DG 98), Kihei Akina (OWGR 501/DG 342), C.T. Pan (OWGR 501/DG 348), Adam Svensson (OWGR 475/DG 330), Kevin Streelman (OWGR 407/DG 276)
+ [1] Deep ceiling: J.T. Poston 17.3%, Marco Penge 17.0%, Keita Nakajima 16.6%, Kevin Yu 15.4%, Michael Kim 14.8%, Jackson Suber 14.8%
+ [2] Value vs market: Mac Meissner +0.7 @35, Corey Conners +0.6 @31, Ryo Hisatsune +0.4 @37, Doug Ghim +0.4 @27, Ricky Castillo +0.4 @64, Eric Cole +0.4 @36
+ [3] Course-fit: Tyler Watts +0.31, Carson Bertagnole +0.26, Gordon Sargent +0.25, Keita Nakajima +0.22, Matthieu Pavon +0.22, Doug Ghim +0.21
+ [4] Reputation gap: Webb Simpson (OWGR 501/DG 209), Tyler Watts (OWGR 501/DG 258), Kevin Streelman (OWGR 419/DG 261), David Ford (OWGR 353/DG 210), Adam Svensson (OWGR 501/DG 374), Nick Hardy (OWGR 501/DG 381)
 
- SYNTHESIS (multiple lenses): none
+ SYNTHESIS (multiple lenses): Doug Ghim [value+fit]; Keita Nakajima [ceiling+fit]; Tyler Watts [fit+underrated]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
