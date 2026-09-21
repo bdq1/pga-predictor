@@ -1,0 +1,26 @@
+PGA forecast — Bank of Utah Championship (est. — API unavailable)
+Black Desert Golf Course, Ivins UT · 2026-10-01 · 40,000 sims · cut top 65+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Jacob Bridgeman          4.4%  (top5 16.4, top10 27.0)
+   2. Jackson Koivun           3.9%  (top5 15.0, top10 25.2)
+   3. Davis Thompson           2.5%  (top5 10.5, top10 19.0)
+   4. Corey Conners            2.4%  (top5 10.6, top10 18.8)
+   5. J.T. Poston              2.4%  (top5 10.2, top10 18.5)
+   6. Mac Meissner             2.3%  (top5 9.9, top10 18.1)
+   7. Doug Ghim                2.2%  (top5 9.8, top10 17.7)
+   8. Kevin Yu                 2.0%  (top5 8.7, top10 16.2)
+   9. Ben James                2.0%  (top5 8.9, top10 16.4)
+  10. Rasmus Hojgaard          2.0%  (top5 8.7, top10 15.9)
+  11. Eric Cole                1.9%  (top5 8.6, top10 16.0)
+  12. Nick Taylor              1.9%  (top5 8.5, top10 15.9)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Christiaan Bezuidenhout 16.0%, Eric Cole 16.0%, Nick Taylor 15.9%, Michael Kim 15.6%, Ryo Hisatsune 15.1%, Denny McCarthy 14.9%
+ [2] Value vs market: 
+ [3] Course-fit: Jacob Bridgeman +0.00, Jackson Koivun +0.00, Davis Thompson +0.00, Corey Conners +0.00, J.T. Poston +0.00, Mac Meissner +0.00
+ [4] Reputation gap: Webb Simpson (OWGR 501/DG 209), Tyler Watts (OWGR 501/DG 258), Kevin Streelman (OWGR 419/DG 261), David Ford (OWGR 353/DG 210), Adam Svensson (OWGR 501/DG 374), Nick Hardy (OWGR 501/DG 381)
+
+ SYNTHESIS (multiple lenses): none
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.

@@ -1,0 +1,801 @@
+{
+  "event": "Bank of Utah Championship (est. \u2014 API unavailable)",
+  "course": "Black Desert Golf Course, Ivins UT",
+  "date": "2026-10-01",
+  "cut_line": 65,
+  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-09-17.json (2026-09-15 17:09:13 UTC); no course-fit",
+  "players": [
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.1,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 1.198,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.676,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.734,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "James, Ben",
+      "skill": 0.602,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.709,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.746,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.48,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.562,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.561,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Poston, J.T.",
+      "skill": 0.717,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Penge, Marco",
+      "skill": 0.441,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Nakajima, Keita",
+      "skill": 0.384,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.563,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hossler, Beau",
+      "skill": 0.364,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Suber, Jackson",
+      "skill": 0.399,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kim, Michael",
+      "skill": 0.539,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Novak, Andrew",
+      "skill": 0.244,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.567,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Brown, Blades",
+      "skill": 0.265,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Castillo, Ricky",
+      "skill": 0.264,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.53,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": 0.21,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Ventura, Kristoffer",
+      "skill": 0.186,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kohles, Ben",
+      "skill": 0.452,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.243,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": 0.396,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.208,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.492,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.188,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.369,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hoey, Rico",
+      "skill": 0.179,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.237,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.181,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.318,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.209,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.39,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hodges, Lee",
+      "skill": 0.111,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": -0.044,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Dou, Zecheng",
+      "skill": -0.017,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Blair, Zac",
+      "skill": 0.346,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Phillips, Chandler",
+      "skill": 0.089,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Pendrith, Taylor",
+      "skill": 0.037,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Jaeger, Stephan",
+      "skill": 0.011,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Mouw, William",
+      "skill": 0.005,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": 0.044,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": -0.109,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": 0.086,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Fishburn, Patrick",
+      "skill": -0.069,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": -0.171,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Fisk, Steven",
+      "skill": -0.169,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.204,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.314,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Watts, Tyler",
+      "skill": -0.42,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Springer, Hayden",
+      "skill": -0.162,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Dumont De Chassart, Adrien",
+      "skill": -0.066,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Shipley, Neal",
+      "skill": -0.376,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Ford, David",
+      "skill": -0.26,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kanaya, Takumi",
+      "skill": -0.236,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.428,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Dahmen, Joel",
+      "skill": -0.111,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Power, Seamus",
+      "skill": -0.157,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Vilips, Karl",
+      "skill": -0.307,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.227,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.072,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": -0.124,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": -0.361,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.412,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Griffin, Lanto",
+      "skill": -0.351,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Chatfield, Davis",
+      "skill": -0.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Crowe, Trace",
+      "skill": -0.401,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Ramey, Chad",
+      "skill": -0.378,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.341,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Skinns, David",
+      "skill": -0.305,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Blanchet, Chandler",
+      "skill": -0.413,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Peterson, Paul",
+      "skill": -0.387,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": -0.182,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Simpson, Webb",
+      "skill": -0.254,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Nyholm, Pontus",
+      "skill": -0.623,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Lebioda, Hank",
+      "skill": -0.517,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Lipsky, David",
+      "skill": -0.335,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Bertagnole, Carson",
+      "skill": -0.906,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Duncan, Tyler",
+      "skill": -0.647,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": -0.511,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Streelman, Kevin",
+      "skill": -0.454,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Salinda, Isaiah",
+      "skill": -0.722,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "VanDerLaan, John",
+      "skill": -0.796,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hadwin, Adam",
+      "skill": -0.813,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -0.844,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Garnett, Brice",
+      "skill": -0.628,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Sargent, Gordon",
+      "skill": -1.041,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hardy, Nick",
+      "skill": -0.872,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Wise, Aaron",
+      "skill": -1.014,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Whaley, Vince",
+      "skill": -0.615,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Stanger, Jimmy",
+      "skill": -0.929,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Wu, Dylan",
+      "skill": -0.741,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Gordon, Will",
+      "skill": -0.975,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Higgs, Harry",
+      "skill": -0.868,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kang, Jeffrey",
+      "skill": -0.88,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Lower, Justin",
+      "skill": -0.738,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Gomez, Fabian",
+      "skill": -0.865,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Martin, Ben",
+      "skill": -0.961,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.854,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Walker, Danny",
+      "skill": -1.144,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Dunlap, Nick",
+      "skill": -1.094,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -1.081,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Champ, Cameron",
+      "skill": -1.168,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "List, Luke",
+      "skill": -1.222,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.986,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Hirata, Kensei",
+      "skill": -1.325,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Campos, Rafael",
+      "skill": -1.164,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Tosti, Alejandro",
+      "skill": -1.371,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Merritt, Troy",
+      "skill": -0.953,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Norlander, Henrik",
+      "skill": -0.927,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Byrd, Jonathan",
+      "skill": -0.88,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Villegas, Camilo",
+      "skill": -0.957,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.438,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -1.222,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Paul, Jeremy",
+      "skill": -1.373,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Valdes, Brendan",
+      "skill": -1.155,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Rozo, Marcelo",
+      "skill": -1.319,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Thompson, Michael",
+      "skill": -1.058,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Kisner, Kevin",
+      "skill": -1.211,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Lamprecht, Christo",
+      "skill": -1.591,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Duncan, Austin",
+      "skill": -1.958,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Todd, Brendon",
+      "skill": -1.905,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Brehm, Ryan",
+      "skill": -2.416,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Oxendine, Spencer",
+      "skill": -2.914,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Harper, Keller",
+      "skill": -2.672,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Jones, Tyler",
+      "skill": -4.208,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Deneen, Morgan",
+      "skill": -4.065,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    },
+    {
+      "name": "Yribarren, Phillip",
+      "skill": -5.132,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-15 17:09:13 UTC), no Black Desert course-fit applied"
+    }
+  ]
+}
