@@ -1,0 +1,26 @@
+PGA forecast — Presidents Cup
+Medinah Country Club (No. 3) · 2026-09-24 · 40,000 sims · cut top 50+ties
+
+PART 1 — THE FAVORITES (win%)
+   1. Scottie Scheffler       19.4%  (top5 55.2, top10 78.0)
+   2. Xander Schauffele        7.4%  (top5 32.3, top10 57.4)
+   3. Chris Gotterup           6.1%  (top5 28.4, top10 53.0)
+   4. Cameron Young            5.8%  (top5 27.9, top10 51.7)
+   5. Sam Burns                5.0%  (top5 25.7, top10 49.4)
+   6. Patrick Cantlay          4.8%  (top5 25.3, top10 49.0)
+   7. Wyndham Clark            4.6%  (top5 24.2, top10 47.5)
+   8. Si Woo Kim               4.5%  (top5 23.8, top10 47.2)
+   9. Collin Morikawa          4.2%  (top5 22.8, top10 45.7)
+  10. Jackson Koivun           3.9%  (top5 21.7, top10 44.5)
+  11. Justin Thomas            3.9%  (top5 21.9, top10 45.0)
+  12. Jacob Bridgeman          3.7%  (top5 20.7, top10 42.8)
+
+PART 2 — THE LONG SHOTS
+ [1] Deep ceiling: Justin Thomas 45.0%, Jacob Bridgeman 42.8%, Hideki Matsuyama 42.6%, Adam Scott 42.5%, Russell Henley 41.6%, Tom Kim 41.5%
+ [2] Value vs market: Corey Conners +2.1 @2801, Jackson Koivun +1.0 @29, Nick Taylor +1.0 @2801, Jacob Bridgeman -1.0 @18
+ [3] Course-fit: Min Woo Lee +0.32, Xander Schauffele +0.30, Cameron Young +0.27, Ryo Hisatsune +0.24, Justin Thomas +0.23, Corey Conners +0.21
+ [4] Reputation gap: Jackson Koivun (OWGR 57/DG 22), Christiaan Bezuidenhout (OWGR 104/DG 75), Patrick Cantlay (OWGR 28/DG 6), Adam Scott (OWGR 45/DG 23), Sungjae Im (OWGR 60/DG 45), Hideki Matsuyama (OWGR 27/DG 16)
+
+ SYNTHESIS (multiple lenses): Jackson Koivun [value+underrated]; Justin Thomas [ceiling+fit]; Jacob Bridgeman [ceiling+value]; Hideki Matsuyama [ceiling+underrated]; Adam Scott [ceiling+underrated]; Corey Conners [value+fit]
+
+Probabilities only. Even the favourite wins <25% of the time. No betting advice.

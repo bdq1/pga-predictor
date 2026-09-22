@@ -1,0 +1,153 @@
+{
+  "event": "Presidents Cup",
+  "course": "Medinah Country Club (No. 3)",
+  "date": "2026-09-24",
+  "cut_line": 50,
+  "source": "DataGolf API (player-decompositions + pre-tournament + skill-ratings)",
+  "players": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.827,
+      "adjustment": 0.01,
+      "notes": "DG fit +0.01 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.577,
+      "adjustment": 0.305,
+      "notes": "DG fit +0.30 (hist -0.01, fit +0.06)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.53,
+      "adjustment": 0.197,
+      "notes": "DG fit +0.20 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.419,
+      "adjustment": 0.267,
+      "notes": "DG fit +0.27 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.709,
+      "adjustment": -0.137,
+      "notes": "DG fit -0.14 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.581,
+      "adjustment": -0.03,
+      "notes": "DG fit -0.03 (hist +0.02, fit +0.01)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.547,
+      "adjustment": -0.05,
+      "notes": "DG fit -0.05 (hist -0.01, fit +0.05)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.558,
+      "adjustment": -0.107,
+      "notes": "DG fit -0.11 (hist -0.00, fit -0.04)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.562,
+      "adjustment": -0.141,
+      "notes": "DG fit -0.14 (hist -0.03, fit -0.04)"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.215,
+      "adjustment": 0.156,
+      "notes": "DG fit +0.16 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.138,
+      "adjustment": 0.225,
+      "notes": "DG fit +0.23 (hist +0.04, fit +0.02)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 1.41,
+      "adjustment": -0.109,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.344,
+      "adjustment": -0.044,
+      "notes": "DG fit -0.04 (hist +0.02, fit -0.02)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 1.206,
+      "adjustment": 0.066,
+      "notes": "DG fit +0.07 (hist -0.00, fit +0.02)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.594,
+      "adjustment": -0.35,
+      "notes": "DG fit -0.35 (hist -0.04, fit -0.09)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 1.114,
+      "adjustment": 0.113,
+      "notes": "DG fit +0.11 (hist -0.04, fit -0.03)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 0.894,
+      "adjustment": 0.324,
+      "notes": "DG fit +0.32 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.681,
+      "adjustment": 0.213,
+      "notes": "DG fit +0.21 (hist +0.02, fit -0.02)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.812,
+      "adjustment": 0.041,
+      "notes": "DG fit +0.04 (hist +0.00, fit -0.00)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.729,
+      "adjustment": -0.088,
+      "notes": "DG fit -0.09 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.378,
+      "adjustment": 0.238,
+      "notes": "DG fit +0.24 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.475,
+      "adjustment": -0.111,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.05)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.481,
+      "adjustment": -0.16,
+      "notes": "DG fit -0.16 (hist -0.04, fit -0.04)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": 0.154,
+      "adjustment": -0.28,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.02)"
+    }
+  ]
+}

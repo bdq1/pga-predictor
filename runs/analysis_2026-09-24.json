@@ -1,0 +1,429 @@
+{
+  "event": "Presidents Cup",
+  "course": "Medinah Country Club (No. 3)",
+  "date": "2026-09-24",
+  "sims": 40000,
+  "cut_line": 50,
+  "favorites": [
+    {
+      "player": "Scottie Scheffler",
+      "win": 19.43,
+      "top5": 55.25,
+      "top10": 78.03,
+      "make_cut": 100.0,
+      "win_rank": 1
+    },
+    {
+      "player": "Xander Schauffele",
+      "win": 7.4,
+      "top5": 32.3,
+      "top10": 57.35,
+      "make_cut": 100.0,
+      "win_rank": 2
+    },
+    {
+      "player": "Chris Gotterup",
+      "win": 6.12,
+      "top5": 28.44,
+      "top10": 53.02,
+      "make_cut": 100.0,
+      "win_rank": 3
+    },
+    {
+      "player": "Cameron Young",
+      "win": 5.85,
+      "top5": 27.89,
+      "top10": 51.69,
+      "make_cut": 100.0,
+      "win_rank": 4
+    },
+    {
+      "player": "Sam Burns",
+      "win": 5.04,
+      "top5": 25.7,
+      "top10": 49.44,
+      "make_cut": 100.0,
+      "win_rank": 5
+    },
+    {
+      "player": "Patrick Cantlay",
+      "win": 4.81,
+      "top5": 25.26,
+      "top10": 48.95,
+      "make_cut": 100.0,
+      "win_rank": 6
+    },
+    {
+      "player": "Wyndham Clark",
+      "win": 4.57,
+      "top5": 24.25,
+      "top10": 47.51,
+      "make_cut": 100.0,
+      "win_rank": 7
+    },
+    {
+      "player": "Si Woo Kim",
+      "win": 4.5,
+      "top5": 23.8,
+      "top10": 47.24,
+      "make_cut": 100.0,
+      "win_rank": 8
+    },
+    {
+      "player": "Collin Morikawa",
+      "win": 4.19,
+      "top5": 22.79,
+      "top10": 45.69,
+      "make_cut": 100.0,
+      "win_rank": 9
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 3.92,
+      "top5": 21.72,
+      "top10": 44.47,
+      "make_cut": 100.0,
+      "win_rank": 10
+    },
+    {
+      "player": "Justin Thomas",
+      "win": 3.88,
+      "top5": 21.91,
+      "top10": 44.95,
+      "make_cut": 100.0,
+      "win_rank": 11
+    },
+    {
+      "player": "Jacob Bridgeman",
+      "win": 3.73,
+      "top5": 20.74,
+      "top10": 42.78,
+      "make_cut": 100.0,
+      "win_rank": 12
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "win": 3.48,
+      "top5": 20.62,
+      "top10": 42.62,
+      "make_cut": 100.0,
+      "win_rank": 13
+    },
+    {
+      "player": "Adam Scott",
+      "win": 3.44,
+      "top5": 20.21,
+      "top10": 42.46,
+      "make_cut": 100.0,
+      "win_rank": 14
+    },
+    {
+      "player": "Russell Henley",
+      "win": 3.36,
+      "top5": 19.86,
+      "top10": 41.63,
+      "make_cut": 100.0,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Justin Thomas",
+        "win": 3.88,
+        "top5": 21.91,
+        "top10": 44.95,
+        "make_cut": 100.0,
+        "std": 2.77,
+        "win_rank": 11,
+        "ceiling": 44.95
+      },
+      {
+        "player": "Jacob Bridgeman",
+        "win": 3.73,
+        "top5": 20.74,
+        "top10": 42.78,
+        "make_cut": 100.0,
+        "std": 2.73,
+        "win_rank": 12,
+        "ceiling": 42.78
+      },
+      {
+        "player": "Hideki Matsuyama",
+        "win": 3.48,
+        "top5": 20.62,
+        "top10": 42.62,
+        "make_cut": 100.0,
+        "std": 2.71,
+        "win_rank": 13,
+        "ceiling": 42.62
+      },
+      {
+        "player": "Adam Scott",
+        "win": 3.44,
+        "top5": 20.21,
+        "top10": 42.46,
+        "make_cut": 100.0,
+        "std": 2.73,
+        "win_rank": 14,
+        "ceiling": 42.46
+      },
+      {
+        "player": "Russell Henley",
+        "win": 3.36,
+        "top5": 19.86,
+        "top10": 41.63,
+        "make_cut": 100.0,
+        "std": 2.64,
+        "win_rank": 15,
+        "ceiling": 41.63
+      },
+      {
+        "player": "Tom Kim",
+        "win": 3.35,
+        "top5": 19.45,
+        "top10": 41.49,
+        "make_cut": 100.0,
+        "std": 2.7,
+        "win_rank": 16,
+        "ceiling": 41.49
+      }
+    ],
+    "value": [
+      {
+        "player": "Corey Conners",
+        "win": 2.16,
+        "top5": 14.33,
+        "top10": 33.48,
+        "make_cut": 100.0,
+        "mkt_win": 0.03,
+        "dg_win": 2.93,
+        "edge": 2.13,
+        "odds": 2801.0,
+        "dg_agrees": true
+      },
+      {
+        "player": "Jackson Koivun",
+        "win": 3.92,
+        "top5": 21.72,
+        "top10": 44.47,
+        "make_cut": 100.0,
+        "mkt_win": 2.89,
+        "dg_win": 6.11,
+        "edge": 1.03,
+        "odds": 29.37,
+        "dg_agrees": true
+      },
+      {
+        "player": "Nick Taylor",
+        "win": 1.05,
+        "top5": 8.05,
+        "top10": 21.97,
+        "make_cut": 100.0,
+        "mkt_win": 0.03,
+        "dg_win": 1.14,
+        "edge": 1.02,
+        "odds": 2801.0,
+        "dg_agrees": true
+      },
+      {
+        "player": "Jacob Bridgeman",
+        "win": 3.73,
+        "top5": 20.74,
+        "top10": 42.78,
+        "make_cut": 100.0,
+        "mkt_win": 4.76,
+        "dg_win": 4.25,
+        "edge": -1.03,
+        "odds": 17.8,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Min Woo Lee",
+        "win": 3.22,
+        "top5": 18.82,
+        "top10": 40.38,
+        "make_cut": 100.0,
+        "fit": 0.32,
+        "hist": -0.04,
+        "coursefit": 0.08,
+        "win_rank": 17
+      },
+      {
+        "player": "Xander Schauffele",
+        "win": 7.4,
+        "top5": 32.3,
+        "top10": 57.35,
+        "make_cut": 100.0,
+        "fit": 0.3,
+        "hist": -0.01,
+        "coursefit": 0.06,
+        "win_rank": 2
+      },
+      {
+        "player": "Cameron Young",
+        "win": 5.85,
+        "top5": 27.89,
+        "top10": 51.69,
+        "make_cut": 100.0,
+        "fit": 0.27,
+        "hist": -0.04,
+        "coursefit": 0.06,
+        "win_rank": 4
+      },
+      {
+        "player": "Ryo Hisatsune",
+        "win": 1.48,
+        "top5": 10.88,
+        "top10": 27.12,
+        "make_cut": 100.0,
+        "fit": 0.24,
+        "hist": -0.04,
+        "coursefit": -0.0,
+        "win_rank": 20
+      },
+      {
+        "player": "Justin Thomas",
+        "win": 3.88,
+        "top5": 21.91,
+        "top10": 44.95,
+        "make_cut": 100.0,
+        "fit": 0.23,
+        "hist": 0.04,
+        "coursefit": 0.02,
+        "win_rank": 11
+      },
+      {
+        "player": "Corey Conners",
+        "win": 2.16,
+        "top5": 14.33,
+        "top10": 33.48,
+        "make_cut": 100.0,
+        "fit": 0.21,
+        "hist": 0.02,
+        "coursefit": -0.02,
+        "win_rank": 18
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Jackson Koivun",
+        "win": 3.92,
+        "top5": 21.72,
+        "top10": 44.47,
+        "make_cut": 100.0,
+        "owgr": 57,
+        "dg_rank": 22,
+        "gap": 35
+      },
+      {
+        "player": "Christiaan Bezuidenhout",
+        "win": 1.0,
+        "top5": 8.2,
+        "top10": 22.75,
+        "make_cut": 100.0,
+        "owgr": 104,
+        "dg_rank": 75,
+        "gap": 29
+      },
+      {
+        "player": "Patrick Cantlay",
+        "win": 4.81,
+        "top5": 25.26,
+        "top10": 48.95,
+        "make_cut": 100.0,
+        "owgr": 28,
+        "dg_rank": 6,
+        "gap": 22
+      },
+      {
+        "player": "Adam Scott",
+        "win": 3.44,
+        "top5": 20.21,
+        "top10": 42.46,
+        "make_cut": 100.0,
+        "owgr": 45,
+        "dg_rank": 23,
+        "gap": 22
+      },
+      {
+        "player": "Sungjae Im",
+        "win": 2.16,
+        "top5": 13.85,
+        "top10": 32.43,
+        "make_cut": 100.0,
+        "owgr": 60,
+        "dg_rank": 45,
+        "gap": 15
+      },
+      {
+        "player": "Hideki Matsuyama",
+        "win": 3.48,
+        "top5": 20.62,
+        "top10": 42.62,
+        "make_cut": 100.0,
+        "owgr": 27,
+        "dg_rank": 16,
+        "gap": 11
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Jackson Koivun",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 3.92
+    },
+    {
+      "player": "Justin Thomas",
+      "lenses": [
+        "ceiling",
+        "fit"
+      ],
+      "n": 2,
+      "win": 3.88
+    },
+    {
+      "player": "Jacob Bridgeman",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 3.73
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "lenses": [
+        "ceiling",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 3.48
+    },
+    {
+      "player": "Adam Scott",
+      "lenses": [
+        "ceiling",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 3.44
+    },
+    {
+      "player": "Corey Conners",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 2.16
+    }
+  ]
+}

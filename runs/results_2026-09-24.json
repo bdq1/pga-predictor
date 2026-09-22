@@ -1,0 +1,278 @@
+{
+  "event": "Presidents Cup",
+  "course": "Medinah Country Club (No. 3)",
+  "date": "2026-09-24",
+  "sims": 40000,
+  "cut_line": 50,
+  "params": {
+    "sigma_form": 1.0,
+    "sigma_round": 2.6
+  },
+  "field_size": 24,
+  "results": [
+    {
+      "name": "Scheffler, Scottie",
+      "skill": 2.837,
+      "win_pct": 19.43,
+      "top5_pct": 55.25,
+      "top10_pct": 78.03,
+      "top20_pct": 97.51,
+      "make_cut_pct": 100.0,
+      "exp_finish": 6.5,
+      "notes": "DG fit +0.01 (hist -0.04, fit +0.02)"
+    },
+    {
+      "name": "Schauffele, Xander",
+      "skill": 1.882,
+      "win_pct": 7.4,
+      "top5_pct": 32.3,
+      "top10_pct": 57.35,
+      "top20_pct": 92.43,
+      "make_cut_pct": 100.0,
+      "exp_finish": 9.9,
+      "notes": "DG fit +0.30 (hist -0.01, fit +0.06)"
+    },
+    {
+      "name": "Gotterup, Chris",
+      "skill": 1.727,
+      "win_pct": 6.12,
+      "top5_pct": 28.44,
+      "top10_pct": 53.02,
+      "top20_pct": 90.8,
+      "make_cut_pct": 100.0,
+      "exp_finish": 10.6,
+      "notes": "DG fit +0.20 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Young, Cameron",
+      "skill": 1.686,
+      "win_pct": 5.85,
+      "top5_pct": 27.89,
+      "top10_pct": 51.69,
+      "top20_pct": 90.38,
+      "make_cut_pct": 100.0,
+      "exp_finish": 10.7,
+      "notes": "DG fit +0.27 (hist -0.04, fit +0.06)"
+    },
+    {
+      "name": "Burns, Sam",
+      "skill": 1.572,
+      "win_pct": 5.04,
+      "top5_pct": 25.7,
+      "top10_pct": 49.44,
+      "top20_pct": 89.14,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.1,
+      "notes": "DG fit -0.14 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Cantlay, Patrick",
+      "skill": 1.551,
+      "win_pct": 4.81,
+      "top5_pct": 25.26,
+      "top10_pct": 48.95,
+      "top20_pct": 88.93,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.2,
+      "notes": "DG fit -0.03 (hist +0.02, fit +0.01)"
+    },
+    {
+      "name": "Clark, Wyndham",
+      "skill": 1.497,
+      "win_pct": 4.57,
+      "top5_pct": 24.25,
+      "top10_pct": 47.51,
+      "top20_pct": 88.2,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.4,
+      "notes": "DG fit -0.05 (hist -0.01, fit +0.05)"
+    },
+    {
+      "name": "Kim, Si Woo",
+      "skill": 1.451,
+      "win_pct": 4.5,
+      "top5_pct": 23.8,
+      "top10_pct": 47.24,
+      "top20_pct": 87.8,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.5,
+      "notes": "DG fit -0.11 (hist -0.00, fit -0.04)"
+    },
+    {
+      "name": "Morikawa, Collin",
+      "skill": 1.421,
+      "win_pct": 4.19,
+      "top5_pct": 22.79,
+      "top10_pct": 45.69,
+      "top20_pct": 87.76,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.7,
+      "notes": "DG fit -0.14 (hist -0.03, fit -0.04)"
+    },
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.371,
+      "win_pct": 3.92,
+      "top5_pct": 21.72,
+      "top10_pct": 44.47,
+      "top20_pct": 86.4,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.0,
+      "notes": "DG fit +0.16 (hist -0.04, fit -0.01)"
+    },
+    {
+      "name": "Thomas, Justin",
+      "skill": 1.363,
+      "win_pct": 3.88,
+      "top5_pct": 21.91,
+      "top10_pct": 44.95,
+      "top20_pct": 87.02,
+      "make_cut_pct": 100.0,
+      "exp_finish": 11.9,
+      "notes": "DG fit +0.23 (hist +0.04, fit +0.02)"
+    },
+    {
+      "name": "Bridgeman, Jacob",
+      "skill": 1.301,
+      "win_pct": 3.73,
+      "top5_pct": 20.74,
+      "top10_pct": 42.78,
+      "top20_pct": 85.84,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.2,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "Matsuyama, Hideki",
+      "skill": 1.3,
+      "win_pct": 3.48,
+      "top5_pct": 20.62,
+      "top10_pct": 42.62,
+      "top20_pct": 85.61,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.3,
+      "notes": "DG fit -0.04 (hist +0.02, fit -0.02)"
+    },
+    {
+      "name": "Scott, Adam",
+      "skill": 1.272,
+      "win_pct": 3.44,
+      "top5_pct": 20.21,
+      "top10_pct": 42.46,
+      "top20_pct": 85.21,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.3,
+      "notes": "DG fit +0.07 (hist -0.00, fit +0.02)"
+    },
+    {
+      "name": "Henley, Russell",
+      "skill": 1.244,
+      "win_pct": 3.36,
+      "top5_pct": 19.86,
+      "top10_pct": 41.63,
+      "top20_pct": 85.18,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.4,
+      "notes": "DG fit -0.35 (hist -0.04, fit -0.09)"
+    },
+    {
+      "name": "Kim, Tom",
+      "skill": 1.227,
+      "win_pct": 3.35,
+      "top5_pct": 19.45,
+      "top10_pct": 41.49,
+      "top20_pct": 85.0,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.4,
+      "notes": "DG fit +0.11 (hist -0.04, fit -0.03)"
+    },
+    {
+      "name": "Lee, Min Woo",
+      "skill": 1.218,
+      "win_pct": 3.22,
+      "top5_pct": 18.82,
+      "top10_pct": 40.38,
+      "top20_pct": 84.58,
+      "make_cut_pct": 100.0,
+      "exp_finish": 12.6,
+      "notes": "DG fit +0.32 (hist -0.04, fit +0.08)"
+    },
+    {
+      "name": "Conners, Corey",
+      "skill": 0.894,
+      "win_pct": 2.16,
+      "top5_pct": 14.33,
+      "top10_pct": 33.48,
+      "top20_pct": 79.6,
+      "make_cut_pct": 100.0,
+      "exp_finish": 13.8,
+      "notes": "DG fit +0.21 (hist +0.02, fit -0.02)"
+    },
+    {
+      "name": "Im, Sungjae",
+      "skill": 0.853,
+      "win_pct": 2.16,
+      "top5_pct": 13.85,
+      "top10_pct": 32.43,
+      "top20_pct": 78.43,
+      "make_cut_pct": 100.0,
+      "exp_finish": 14.0,
+      "notes": "DG fit +0.04 (hist +0.00, fit -0.00)"
+    },
+    {
+      "name": "Hisatsune, Ryo",
+      "skill": 0.616,
+      "win_pct": 1.48,
+      "top5_pct": 10.88,
+      "top10_pct": 27.12,
+      "top20_pct": 74.59,
+      "make_cut_pct": 100.0,
+      "exp_finish": 14.9,
+      "notes": "DG fit +0.24 (hist -0.04, fit -0.00)"
+    },
+    {
+      "name": "Fox, Ryan",
+      "skill": 0.641,
+      "win_pct": 1.41,
+      "top5_pct": 10.86,
+      "top10_pct": 27.72,
+      "top20_pct": 74.92,
+      "make_cut_pct": 100.0,
+      "exp_finish": 14.8,
+      "notes": "DG fit -0.09 (hist -0.04, fit +0.05)"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.321,
+      "win_pct": 1.05,
+      "top5_pct": 8.05,
+      "top10_pct": 21.97,
+      "top20_pct": 68.04,
+      "make_cut_pct": 100.0,
+      "exp_finish": 16.0,
+      "notes": "DG fit -0.16 (hist -0.04, fit -0.04)"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.364,
+      "win_pct": 1.0,
+      "top5_pct": 8.2,
+      "top10_pct": 22.75,
+      "top20_pct": 69.1,
+      "make_cut_pct": 100.0,
+      "exp_finish": 15.9,
+      "notes": "DG fit -0.11 (hist -0.04, fit -0.05)"
+    },
+    {
+      "name": "Echavarria, Nico",
+      "skill": -0.126,
+      "win_pct": 0.44,
+      "top5_pct": 4.82,
+      "top10_pct": 14.83,
+      "top20_pct": 57.52,
+      "make_cut_pct": 100.0,
+      "exp_finish": 17.6,
+      "notes": "DG fit -0.28 (hist -0.04, fit -0.02)"
+    }
+  ]
+}
