@@ -1,26 +1,26 @@
-PGA forecast — Bank of Utah Championship (est. — API unavailable)
-Black Desert Golf Course, Ivins UT · 2026-10-01 · 40,000 sims · cut top 65+ties
+PGA forecast — Bank of Utah Championship
+Black Desert Resort · 2026-10-01 · 40,000 sims · cut top 65+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Jacob Bridgeman          4.4%  (top5 16.4, top10 27.0)
-   2. Jackson Koivun           3.9%  (top5 15.0, top10 25.2)
-   3. Davis Thompson           2.5%  (top5 10.5, top10 19.0)
-   4. Corey Conners            2.4%  (top5 10.6, top10 18.8)
-   5. J.T. Poston              2.4%  (top5 10.2, top10 18.5)
-   6. Mac Meissner             2.3%  (top5 9.9, top10 18.1)
-   7. Doug Ghim                2.2%  (top5 9.8, top10 17.7)
-   8. Kevin Yu                 2.0%  (top5 8.7, top10 16.2)
-   9. Ben James                2.0%  (top5 8.9, top10 16.4)
-  10. Rasmus Hojgaard          2.0%  (top5 8.7, top10 15.9)
-  11. Eric Cole                1.9%  (top5 8.6, top10 16.0)
-  12. Nick Taylor              1.9%  (top5 8.5, top10 15.9)
+   1. Jackson Koivun           5.3%  (top5 19.0, top10 30.8)
+   2. Ben James                3.7%  (top5 14.4, top10 25.2)
+   3. Doug Ghim                3.5%  (top5 13.9, top10 24.1)
+   4. Michael Brennan          3.4%  (top5 13.8, top10 24.1)
+   5. Maverick McNealy         3.3%  (top5 13.0, top10 22.8)
+   6. Matt Wallace             3.2%  (top5 13.4, top10 23.2)
+   7. Kevin Yu                 2.1%  (top5 9.7, top10 18.1)
+   8. Jordan Smith             2.1%  (top5 9.6, top10 17.5)
+   9. Jackson Suber            2.1%  (top5 9.6, top10 17.8)
+  10. Mac Meissner             2.1%  (top5 9.1, top10 16.8)
+  11. Marco Penge              2.0%  (top5 9.5, top10 17.6)
+  12. Davis Thompson           2.0%  (top5 8.8, top10 16.6)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Christiaan Bezuidenhout 16.0%, Eric Cole 16.0%, Nick Taylor 15.9%, Michael Kim 15.6%, Ryo Hisatsune 15.1%, Denny McCarthy 14.9%
- [2] Value vs market: 
- [3] Course-fit: Jacob Bridgeman +0.00, Jackson Koivun +0.00, Davis Thompson +0.00, Corey Conners +0.00, J.T. Poston +0.00, Mac Meissner +0.00
- [4] Reputation gap: Webb Simpson (OWGR 501/DG 209), Tyler Watts (OWGR 501/DG 258), Kevin Streelman (OWGR 419/DG 261), David Ford (OWGR 353/DG 210), Adam Svensson (OWGR 501/DG 374), Nick Hardy (OWGR 501/DG 381)
+ [1] Deep ceiling: Marco Penge 17.6%, Davis Thompson 16.6%, Ben Kohles 15.2%, Eric Cole 14.9%, Johnny Keefer 14.8%, Beau Hossler 14.8%
+ [2] Value vs market: Doug Ghim +0.7 @25, Mac Meissner +0.6 @45, Matt Wallace +0.5 @26, Ben Kohles +0.4 @54, Jordan Smith +0.3 @40, John Parry +0.3 @75
+ [3] Course-fit: Gordon Sargent +0.41, Matthieu Pavon +0.34, Neal Shipley +0.33, Isaiah Salinda +0.32, Doug Ghim +0.28, Kristoffer Ventura +0.26
+ [4] Reputation gap: Kevin Streelman (OWGR 433/DG 266), Adam Svensson (OWGR 501/DG 340), Peter Malnati (OWGR 501/DG 347), C.T. Pan (OWGR 501/DG 352), David Ford (OWGR 373/DG 232), Kihei Akina (OWGR 501/DG 379)
 
- SYNTHESIS (multiple lenses): none
+ SYNTHESIS (multiple lenses): Doug Ghim [value+fit]; Ben Kohles [ceiling+value]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
