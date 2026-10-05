@@ -1,0 +1,435 @@
+{
+  "event": "Baycurrent Classic",
+  "course": "Yokohama Country Club",
+  "date": "2026-10-08",
+  "sims": 40000,
+  "cut_line": 0,
+  "favorites": [
+    {
+      "player": "Xander Schauffele",
+      "win": 5.79,
+      "top5": 21.8,
+      "top10": 36.02,
+      "make_cut": 100.0,
+      "win_rank": 1
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "win": 5.07,
+      "top5": 18.94,
+      "top10": 31.95,
+      "make_cut": 100.0,
+      "win_rank": 2
+    },
+    {
+      "player": "Collin Morikawa",
+      "win": 5.02,
+      "top5": 19.1,
+      "top10": 32.12,
+      "make_cut": 100.0,
+      "win_rank": 3
+    },
+    {
+      "player": "Wyndham Clark",
+      "win": 3.34,
+      "top5": 14.45,
+      "top10": 26.05,
+      "make_cut": 100.0,
+      "win_rank": 4
+    },
+    {
+      "player": "Justin Thomas",
+      "win": 3.33,
+      "top5": 14.12,
+      "top10": 25.14,
+      "make_cut": 100.0,
+      "win_rank": 5
+    },
+    {
+      "player": "Jordan Spieth",
+      "win": 3.18,
+      "top5": 13.47,
+      "top10": 24.64,
+      "make_cut": 100.0,
+      "win_rank": 6
+    },
+    {
+      "player": "Max Greyserman",
+      "win": 2.79,
+      "top5": 12.54,
+      "top10": 22.98,
+      "make_cut": 100.0,
+      "win_rank": 7
+    },
+    {
+      "player": "Jacob Bridgeman",
+      "win": 2.78,
+      "top5": 12.7,
+      "top10": 23.17,
+      "make_cut": 100.0,
+      "win_rank": 8
+    },
+    {
+      "player": "Sungjae Im",
+      "win": 2.74,
+      "top5": 11.86,
+      "top10": 21.95,
+      "make_cut": 100.0,
+      "win_rank": 9
+    },
+    {
+      "player": "Sahith Theegala",
+      "win": 2.62,
+      "top5": 11.68,
+      "top10": 21.7,
+      "make_cut": 100.0,
+      "win_rank": 10
+    },
+    {
+      "player": "Min Woo Lee",
+      "win": 2.42,
+      "top5": 10.94,
+      "top10": 20.7,
+      "make_cut": 100.0,
+      "win_rank": 11
+    },
+    {
+      "player": "Max Homa",
+      "win": 2.35,
+      "top5": 10.9,
+      "top10": 20.72,
+      "make_cut": 100.0,
+      "win_rank": 12
+    },
+    {
+      "player": "Ryan Gerard",
+      "win": 2.26,
+      "top5": 10.31,
+      "top10": 19.8,
+      "make_cut": 100.0,
+      "win_rank": 13
+    },
+    {
+      "player": "Adam Scott",
+      "win": 2.16,
+      "top5": 10.13,
+      "top10": 19.86,
+      "make_cut": 100.0,
+      "win_rank": 14
+    },
+    {
+      "player": "Rasmus Neergaard-Petersen",
+      "win": 1.79,
+      "top5": 8.75,
+      "top10": 17.12,
+      "make_cut": 100.0,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Max Homa",
+        "win": 2.35,
+        "top5": 10.9,
+        "top10": 20.72,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 12,
+        "ceiling": 20.72
+      },
+      {
+        "player": "Min Woo Lee",
+        "win": 2.42,
+        "top5": 10.94,
+        "top10": 20.7,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 11,
+        "ceiling": 20.7
+      },
+      {
+        "player": "Adam Scott",
+        "win": 2.16,
+        "top5": 10.13,
+        "top10": 19.86,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 14,
+        "ceiling": 19.86
+      },
+      {
+        "player": "Ryan Gerard",
+        "win": 2.26,
+        "top5": 10.31,
+        "top10": 19.8,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 13,
+        "ceiling": 19.8
+      },
+      {
+        "player": "Rasmus Neergaard-Petersen",
+        "win": 1.79,
+        "top5": 8.75,
+        "top10": 17.12,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 15,
+        "ceiling": 17.12
+      },
+      {
+        "player": "Tony Finau",
+        "win": 1.58,
+        "top5": 8.56,
+        "top10": 16.88,
+        "make_cut": 100.0,
+        "std": 2.81,
+        "win_rank": 18,
+        "ceiling": 16.88
+      }
+    ],
+    "value": [
+      {
+        "player": "Kosuke Sunagawa",
+        "win": 0.71,
+        "top5": 4.08,
+        "top10": 9.1,
+        "make_cut": 100.0,
+        "mkt_win": 0.27,
+        "dg_win": 0.25,
+        "edge": 0.44,
+        "odds": 301.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Aguri Iwasaki",
+        "win": 0.69,
+        "top5": 4.08,
+        "top10": 9.05,
+        "make_cut": 100.0,
+        "mkt_win": 0.27,
+        "dg_win": 0.25,
+        "edge": 0.42,
+        "odds": 301.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Ren Yonezawa",
+        "win": 0.68,
+        "top5": 4.21,
+        "top10": 9.1,
+        "make_cut": 100.0,
+        "mkt_win": 0.27,
+        "dg_win": 0.25,
+        "edge": 0.41,
+        "odds": 301.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Tomohiro Ishizaka",
+        "win": 0.67,
+        "top5": 4.07,
+        "top10": 8.88,
+        "make_cut": 100.0,
+        "mkt_win": 0.27,
+        "dg_win": 0.25,
+        "edge": 0.4,
+        "odds": 301.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Koshin Nagasaki",
+        "win": 0.66,
+        "top5": 3.98,
+        "top10": 9.32,
+        "make_cut": 100.0,
+        "mkt_win": 0.27,
+        "dg_win": 0.25,
+        "edge": 0.39,
+        "odds": 301.0,
+        "dg_agrees": false
+      },
+      {
+        "player": "Yoshinori Fujimoto",
+        "win": 0.69,
+        "top5": 4.09,
+        "top10": 9.12,
+        "make_cut": 100.0,
+        "mkt_win": 0.32,
+        "dg_win": 0.3,
+        "edge": 0.37,
+        "odds": 251.0,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Hideki Matsuyama",
+        "win": 5.07,
+        "top5": 18.94,
+        "top10": 31.95,
+        "make_cut": 100.0,
+        "fit": 0.3,
+        "hist": 0.12,
+        "coursefit": 0.18,
+        "win_rank": 2
+      },
+      {
+        "player": "Collin Morikawa",
+        "win": 5.02,
+        "top5": 19.1,
+        "top10": 32.12,
+        "make_cut": 100.0,
+        "fit": 0.22,
+        "hist": 0.09,
+        "coursefit": 0.13,
+        "win_rank": 3
+      },
+      {
+        "player": "Xander Schauffele",
+        "win": 5.79,
+        "top5": 21.8,
+        "top10": 36.02,
+        "make_cut": 100.0,
+        "fit": 0.18,
+        "hist": 0.07,
+        "coursefit": 0.11,
+        "win_rank": 1
+      },
+      {
+        "player": "Keita Nakajima",
+        "win": 1.46,
+        "top5": 7.72,
+        "top10": 15.71,
+        "make_cut": 100.0,
+        "fit": 0.18,
+        "hist": 0.07,
+        "coursefit": 0.11,
+        "win_rank": 23
+      },
+      {
+        "player": "Takumi Kanaya",
+        "win": 0.9,
+        "top5": 5.03,
+        "top10": 10.77,
+        "make_cut": 100.0,
+        "fit": 0.16,
+        "hist": 0.06,
+        "coursefit": 0.1,
+        "win_rank": 39
+      },
+      {
+        "player": "Ryo Hisatsune",
+        "win": 1.53,
+        "top5": 8.15,
+        "top10": 16.28,
+        "make_cut": 100.0,
+        "fit": 0.14,
+        "hist": 0.06,
+        "coursefit": 0.08,
+        "win_rank": 19
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Kosuke Sunagawa",
+        "win": 0.71,
+        "top5": 4.08,
+        "top10": 9.1,
+        "make_cut": 100.0,
+        "owgr": 410,
+        "dg_rank": 368,
+        "gap": 42
+      },
+      {
+        "player": "Ren Yonezawa",
+        "win": 0.68,
+        "top5": 4.21,
+        "top10": 9.1,
+        "make_cut": 100.0,
+        "owgr": 430,
+        "dg_rank": 388,
+        "gap": 42
+      },
+      {
+        "player": "Koshin Nagasaki",
+        "win": 0.66,
+        "top5": 3.98,
+        "top10": 9.32,
+        "make_cut": 100.0,
+        "owgr": 420,
+        "dg_rank": 378,
+        "gap": 42
+      },
+      {
+        "player": "Jinichiro Kozuma",
+        "win": 0.64,
+        "top5": 4.03,
+        "top10": 8.8,
+        "make_cut": 100.0,
+        "owgr": 400,
+        "dg_rank": 360,
+        "gap": 40
+      },
+      {
+        "player": "Yusaku Hosono",
+        "win": 0.63,
+        "top5": 4.16,
+        "top10": 9.16,
+        "make_cut": 100.0,
+        "owgr": 380,
+        "dg_rank": 345,
+        "gap": 35
+      },
+      {
+        "player": "Aguri Iwasaki",
+        "win": 0.69,
+        "top5": 4.08,
+        "top10": 9.05,
+        "make_cut": 100.0,
+        "owgr": 350,
+        "dg_rank": 320,
+        "gap": 30
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Kosuke Sunagawa",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 0.71
+    },
+    {
+      "player": "Aguri Iwasaki",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 0.69
+    },
+    {
+      "player": "Ren Yonezawa",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 0.68
+    },
+    {
+      "player": "Koshin Nagasaki",
+      "lenses": [
+        "value",
+        "underrated"
+      ],
+      "n": 2,
+      "win": 0.66
+    }
+  ]
+}
