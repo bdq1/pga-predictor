@@ -1,0 +1,32 @@
+PGA Tour Forecast — Weekly Run Status
+Run date: Monday 12 October 2026
+
+NO FORECAST GENERATED THIS WEEK — TWO BLOCKERS:
+
+1. BYE WEEK: There is no PGA Tour event teeing off Thursday 15 October 2026.
+   The Baycurrent Classic (Yokohama, Oct 8-11) concluded last week.
+
+2. DATAGOLF API BLOCKED: The cloud sandbox's egress policy denies outbound
+   connections to feeds.datagolf.com (HTTP 403 policy denial from the org
+   proxy). Fresh player data cannot be fetched until this is resolved.
+
+SCHEDULE:
+  Oct 8-11  : Baycurrent Classic, Yokohama CC (completed)
+  Oct 15-18 : *** NO EVENT — BYE WEEK ***
+  Oct 22-25 : Butterfield Bermuda Championship, Port Royal GC, Bermuda
+  Oct 29-Nov 1: VidantaWorld Mexico Open, Nuevo Vallarta, Mexico
+
+NEXT RUN TARGET: Butterfield Bermuda Championship, Thursday 22 October 2026
+  Cut rule: top 65 + ties (standard event, ~120-player field)
+
+ACTION REQUIRED: The DataGolf egress policy block on feeds.datagolf.com:443
+must be resolved before the next run can fetch player data.
+
+WHAT FAILED:
+  fetch_datagolf.py aborted with:
+    OSError: Tunnel connection failed: 403 Forbidden (feeds.datagolf.com:443)
+  The proxy status endpoint confirmed this is an organization egress policy
+  denial, not a DataGolf outage. No stale or fabricated data was used.
+
+--
+Automated PGA Predictor — github.com/bdq1/pga-predictor

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PGA Forecast – Pipeline Status 2026-10-12</title>
+<style>
+  body { font-family: Georgia, serif; max-width: 640px; margin: 0 auto; padding: 24px; background: #fff; color: #222; }
+  h1 { font-size: 1.4em; border-bottom: 2px solid #1a5c2a; padding-bottom: 8px; color: #1a5c2a; }
+  h2 { font-size: 1.1em; color: #1a5c2a; margin-top: 24px; }
+  .alert { background: #fff3cd; border-left: 4px solid #e0a800; padding: 12px 16px; margin: 16px 0; border-radius: 3px; }
+  .info  { background: #d1ecf1; border-left: 4px solid #0c7a8f; padding: 12px 16px; margin: 16px 0; border-radius: 3px; }
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.9em; }
+  th, td { border: 1px solid #ccc; padding: 7px 10px; text-align: left; }
+  th { background: #f0f0f0; }
+  .footer { margin-top: 32px; font-size: 0.8em; color: #777; border-top: 1px solid #ddd; padding-top: 12px; }
+</style>
+</head>
+<body>
+
+<h1>⛳ PGA Tour Forecast — Weekly Run Status</h1>
+<p><strong>Run date:</strong> Monday 12 October 2026</p>
+
+<div class="alert">
+  <strong>⚠ No forecast generated this week.</strong> Two blockers:
+  <ol>
+    <li><strong>Bye week:</strong> There is no PGA Tour event teeing off Thursday 15 October 2026. The previous event (Baycurrent Classic, Yokohama, Oct 8–11) concluded last week.</li>
+    <li><strong>DataGolf API blocked:</strong> The cloud sandbox's egress policy denies outbound connections to <code>feeds.datagolf.com</code> (HTTP 403 policy denial from the org proxy). Fresh player data cannot be fetched until this is resolved.</li>
+  </ol>
+</div>
+
+<h2>Schedule context</h2>
+<table>
+  <tr><th>Date</th><th>Event</th><th>Venue</th></tr>
+  <tr><td>Oct 8–11</td><td>Baycurrent Classic</td><td>Yokohama CC, Japan (completed)</td></tr>
+  <tr style="background:#fffde7"><td><strong>Oct 15–18</strong></td><td><em>No event — bye week</em></td><td>—</td></tr>
+  <tr><td>Oct 22–25</td><td>Butterfield Bermuda Championship</td><td>Port Royal GC, Bermuda</td></tr>
+  <tr><td>Oct 29–Nov 1</td><td>VidantaWorld Mexico Open</td><td>Nuevo Vallarta, Mexico</td></tr>
+</table>
+
+<div class="info">
+  <strong>Next run target:</strong> Butterfield Bermuda Championship, starting Thursday 22 October 2026.<br>
+  Cut rule: top 65 + ties (standard event, ~120-player field).<br>
+  <strong>Action required:</strong> The DataGolf egress policy block on <code>feeds.datagolf.com</code> must be resolved before the next run can fetch player data.
+</div>
+
+<h2>What failed</h2>
+<ul>
+  <li><strong>fetch_datagolf.py</strong> — aborted immediately: <code>OSError: Tunnel connection failed: 403 Forbidden</code> connecting to <code>feeds.datagolf.com:443</code>. The proxy status endpoint confirmed this is an organization egress policy denial, not a DataGolf outage.</li>
+  <li>Steps 4–8 (simulate, analyze, build_email, commit) did not run.</li>
+</ul>
+
+<p>No stale or fabricated forecast was generated; per the quality rules, skill numbers are not invented when real data is unavailable.</p>
+
+<div class="footer">
+  Automated PGA Predictor — pga-predictor/weekly-routine &bull; github.com/bdq1/pga-predictor
+</div>
+
+</body>
+</html>
