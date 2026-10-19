@@ -1,0 +1,729 @@
+{
+  "event": "Butterfield Bermuda Championship (est. \u2014 API unavailable)",
+  "course": "Port Royal Golf Course, Southampton Parish, Bermuda",
+  "date": "2026-10-22",
+  "cut_line": 65,
+  "source": "DataGolf API unavailable (egress blocked); skill from runs/field_2026-10-01.json (2026-09-29 19:22:25 UTC); no course-fit",
+  "players": [
+    {
+      "name": "Koivun, Jackson",
+      "skill": 1.204,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "James, Ben",
+      "skill": 0.82,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Ghim, Doug",
+      "skill": 0.745,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Brennan, Michael",
+      "skill": 0.966,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Wallace, Matt",
+      "skill": 1.078,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "McNealy, Maverick",
+      "skill": 1.263,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Yu, Kevin",
+      "skill": 0.593,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Smith, Jordan",
+      "skill": 0.468,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Suber, Jackson",
+      "skill": 0.505,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Penge, Marco",
+      "skill": 0.568,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Meissner, Mac",
+      "skill": 0.526,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Thompson, Davis",
+      "skill": 0.565,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Kohles, Ben",
+      "skill": 0.544,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Cole, Eric",
+      "skill": 0.581,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Keefer, Johnny",
+      "skill": 0.414,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hossler, Beau",
+      "skill": 0.319,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Kirk, Chris",
+      "skill": 0.356,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hall, Harry",
+      "skill": 0.467,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hoey, Rico",
+      "skill": 0.2,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Ventura, Kristoffer",
+      "skill": 0.125,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Roy, Kevin",
+      "skill": 0.273,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Bauchou, Zach",
+      "skill": 0.413,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Taylor, Nick",
+      "skill": 0.479,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Bezuidenhout, Christiaan",
+      "skill": 0.472,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Coody, Pierceson",
+      "skill": 0.155,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Neergaard-Petersen, Rasmus",
+      "skill": 0.298,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Parry, John",
+      "skill": 0.273,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Homa, Max",
+      "skill": 0.506,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Grillo, Emiliano",
+      "skill": 0.303,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Greyserman, Max",
+      "skill": 0.331,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hojgaard, Rasmus",
+      "skill": 0.348,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Shipley, Neal",
+      "skill": -0.087,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Horschel, Billy",
+      "skill": 0.3,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Dou, Zecheng",
+      "skill": 0.174,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hughes, Mackenzie",
+      "skill": 0.296,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Eckroat, Austin",
+      "skill": 0.126,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Fisk, Steven",
+      "skill": -0.047,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hodges, Lee",
+      "skill": 0.112,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Blair, Zac",
+      "skill": 0.304,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "McCarty, Matt",
+      "skill": 0.347,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Phillips, Chandler",
+      "skill": 0.077,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "McCarthy, Denny",
+      "skill": 0.344,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "McGreevy, Max",
+      "skill": -0.041,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Pavon, Matthieu",
+      "skill": -0.261,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Mouw, William",
+      "skill": -0.044,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Jaeger, Stephan",
+      "skill": -0.017,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Smotherman, Austin",
+      "skill": -0.203,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Li, Haotong",
+      "skill": 0.021,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Moore, Taylor",
+      "skill": -0.181,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Fishburn, Patrick",
+      "skill": -0.092,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Power, Seamus",
+      "skill": 0.051,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Yellamaraju, Sudarshan",
+      "skill": 0.028,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Crowe, Trace",
+      "skill": -0.281,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Dahmen, Joel",
+      "skill": -0.156,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Ford, David",
+      "skill": -0.324,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Kanaya, Takumi",
+      "skill": -0.193,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Springer, Hayden",
+      "skill": -0.131,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Putnam, Andrew",
+      "skill": 0.111,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Ramey, Chad",
+      "skill": -0.285,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Chatfield, Davis",
+      "skill": -0.131,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Finau, Tony",
+      "skill": -0.277,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hoge, Tom",
+      "skill": -0.101,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Blanchet, Chandler",
+      "skill": -0.45,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Potgieter, Aldrich",
+      "skill": -0.331,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Glover, Lucas",
+      "skill": -0.287,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hubbard, Mark",
+      "skill": -0.375,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Salinda, Isaiah",
+      "skill": -0.676,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Peterson, Paul",
+      "skill": -0.344,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "VanDerLaan, John",
+      "skill": -0.552,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Ewart, A.J.",
+      "skill": -0.196,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Svensson, Jesper",
+      "skill": -0.549,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Rodgers, Patrick",
+      "skill": -0.207,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Duncan, Tyler",
+      "skill": -0.537,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Clanton, Luke",
+      "skill": -0.512,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Sargent, Gordon",
+      "skill": -0.881,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Silverman, Ben",
+      "skill": -0.451,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Dumont De Chassart, Adrien",
+      "skill": -0.237,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lower, Justin",
+      "skill": -0.599,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lipsky, David",
+      "skill": -0.369,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Nyholm, Pontus",
+      "skill": -0.555,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Van Rooyen, Erik",
+      "skill": -0.404,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Streelman, Kevin",
+      "skill": -0.462,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Higgo, Garrick",
+      "skill": -0.481,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lebioda, Hank",
+      "skill": -0.513,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Highsmith, Joe",
+      "skill": -0.77,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Skinns, David",
+      "skill": -0.504,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Martin, Ben",
+      "skill": -0.816,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Garnett, Brice",
+      "skill": -0.648,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Svensson, Adam",
+      "skill": -0.725,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Wu, Dylan",
+      "skill": -0.697,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Akina, Kihei",
+      "skill": -0.84,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Whaley, Vince",
+      "skill": -0.536,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Gordon, Will",
+      "skill": -1.01,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Wise, Aaron",
+      "skill": -0.997,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Kang, Jeffrey",
+      "skill": -0.893,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Malnati, Peter",
+      "skill": -0.762,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Riley, Davis",
+      "skill": -0.9,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Walker, Danny",
+      "skill": -1.119,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Schenk, Adam",
+      "skill": -0.963,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Stanger, Jimmy",
+      "skill": -1.069,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Campos, Rafael",
+      "skill": -1.181,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Tosti, Alejandro",
+      "skill": -1.399,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Kizzire, Patton",
+      "skill": -1.155,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Pan, C.T.",
+      "skill": -0.731,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Hirata, Kensei",
+      "skill": -1.447,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Dunlap, Nick",
+      "skill": -1.241,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Davis, Cam",
+      "skill": -1.422,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Rozo, Marcelo",
+      "skill": -1.398,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Thompson, Michael",
+      "skill": -1.121,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Bracken, Boston",
+      "skill": -1.838,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lamprecht, Christo",
+      "skill": -1.592,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Todd, Brendon",
+      "skill": -1.87,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lingmerth, David",
+      "skill": -1.716,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Lundell, Carson",
+      "skill": -2.24,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "An, Seonghyeon",
+      "skill": -3.184,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Mauss, Bowen",
+      "skill": -3.139,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Shelley, Tyson",
+      "skill": -3.317,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Rasmussen, Rhett",
+      "skill": -2.88,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Snyder, Matt",
+      "skill": -3.489,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    },
+    {
+      "name": "Johnson, Zach J.",
+      "skill": -3.332,
+      "adjustment": 0.0,
+      "notes": "skill from DG (2026-09-29 19:22:25 UTC), no Port Royal course-fit applied"
+    }
+  ]
+}
