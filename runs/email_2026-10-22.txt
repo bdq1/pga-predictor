@@ -1,26 +1,26 @@
-PGA forecast — Butterfield Bermuda Championship (est. — API unavailable)
-Port Royal Golf Course, Southampton Parish, Bermuda · 2026-10-22 · 40,000 sims · cut top 65+ties
+PGA forecast — Butterfield Bermuda Championship
+Port Royal Golf Course · 2026-10-22 · 40,000 sims · cut top 65+ties
 
 PART 1 — THE FAVORITES (win%)
-   1. Maverick McNealy         4.9%  (top5 17.8, top10 29.3)
-   2. Jackson Koivun           4.5%  (top5 16.9, top10 28.0)
-   3. Matt Wallace             3.9%  (top5 14.9, top10 25.5)
-   4. Michael Brennan          3.3%  (top5 13.6, top10 23.5)
-   5. Ben James                2.9%  (top5 11.7, top10 20.9)
-   6. Doug Ghim                2.5%  (top5 10.8, top10 19.4)
-   7. Eric Cole                2.1%  (top5 9.0, top10 16.7)
-   8. Kevin Yu                 2.0%  (top5 9.0, top10 16.7)
-   9. Davis Thompson           1.9%  (top5 8.8, top10 16.6)
-  10. Ben Kohles               1.9%  (top5 8.7, top10 16.5)
-  11. Marco Penge              1.9%  (top5 8.8, top10 16.6)
-  12. Harry Hall               1.8%  (top5 7.9, top10 15.1)
+   1. Ben James                5.5%  (top5 19.6, top10 31.6)
+   2. Corey Conners            3.3%  (top5 13.2, top10 23.5)
+   3. Kevin Yu                 3.1%  (top5 12.5, top10 22.1)
+   4. Andrew Novak             2.6%  (top5 11.4, top10 20.8)
+   5. Rico Hoey                2.6%  (top5 10.8, top10 19.6)
+   6. Chris Kirk               2.5%  (top5 11.2, top10 20.3)
+   7. Eric Cole                2.5%  (top5 10.8, top10 19.8)
+   8. Kevin Roy                2.4%  (top5 10.6, top10 19.2)
+   9. Kristoffer Ventura       2.2%  (top5 9.9, top10 18.0)
+  10. Austin Smotherman        2.2%  (top5 9.7, top10 17.9)
+  11. Seamus Power             2.2%  (top5 10.0, top10 18.5)
+  12. Ben Kohles               2.2%  (top5 10.0, top10 18.6)
 
 PART 2 — THE LONG SHOTS
- [1] Deep ceiling: Marco Penge 16.6%, Mac Meissner 16.0%, Max Homa 15.6%, Jackson Suber 15.4%, Nick Taylor 15.2%, Christiaan Bezuidenhout 15.2%
- [2] Value vs market: 
- [3] Course-fit: Maverick McNealy +0.00, Jackson Koivun +0.00, Matt Wallace +0.00, Michael Brennan +0.00, Ben James +0.00, Doug Ghim +0.00
- [4] Reputation gap: Kevin Streelman (OWGR 433/DG 266), Adam Svensson (OWGR 501/DG 340), Peter Malnati (OWGR 501/DG 347), C.T. Pan (OWGR 501/DG 352), David Ford (OWGR 373/DG 232), Kihei Akina (OWGR 501/DG 379)
+ [1] Deep ceiling: Ben Kohles 18.6%, Seamus Power 18.5%, Trace Crowe 17.6%, Denny McCarthy 17.4%, Neal Shipley 16.9%, Zac Blair 16.7%
+ [2] Value vs market: Corey Conners +0.6 @26, Kevin Yu +0.6 @28, Rico Hoey +0.4 @32, Kristoffer Ventura +0.3 @37, John Parry +0.3 @45, Trace Crowe +0.3 @38
+ [3] Course-fit: Aaron Wise +0.37, Rudy Sautron +0.30, Taylor Moore +0.29, Alejandro Tosti +0.29, Rafael Campos +0.27, Virgilio Paz +0.27
+ [4] Reputation gap: Miles Russell (OWGR 501/DG 181), Greyson Sigg (OWGR 501/DG 282), Kihei Akina (OWGR 501/DG 289), Adam Svensson (OWGR 501/DG 335), Dylan Wu (OWGR 433/DG 294), Peter Malnati (OWGR 501/DG 368)
 
- SYNTHESIS (multiple lenses): none
+ SYNTHESIS (multiple lenses): Trace Crowe [ceiling+value]
 
 Probabilities only. Even the favourite wins <25% of the time. No betting advice.
