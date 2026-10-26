@@ -1,0 +1,408 @@
+{
+  "event": "VidantaWorld Mexico Open",
+  "course": "Vidanta Vallarta",
+  "date": "2026-10-29",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Ben James",
+      "win": 5.5,
+      "top5": 19.61,
+      "top10": 31.65,
+      "make_cut": 83.1,
+      "win_rank": 1
+    },
+    {
+      "player": "Corey Conners",
+      "win": 3.28,
+      "top5": 13.23,
+      "top10": 23.51,
+      "make_cut": 77.5,
+      "win_rank": 2
+    },
+    {
+      "player": "Kevin Yu",
+      "win": 3.07,
+      "top5": 12.52,
+      "top10": 22.15,
+      "make_cut": 77.1,
+      "win_rank": 3
+    },
+    {
+      "player": "Andrew Novak",
+      "win": 2.64,
+      "top5": 11.42,
+      "top10": 20.8,
+      "make_cut": 75.5,
+      "win_rank": 4
+    },
+    {
+      "player": "Rico Hoey",
+      "win": 2.62,
+      "top5": 10.83,
+      "top10": 19.64,
+      "make_cut": 74.9,
+      "win_rank": 5
+    },
+    {
+      "player": "Chris Kirk",
+      "win": 2.46,
+      "top5": 11.22,
+      "top10": 20.33,
+      "make_cut": 75.3,
+      "win_rank": 6
+    },
+    {
+      "player": "Eric Cole",
+      "win": 2.45,
+      "top5": 10.8,
+      "top10": 19.82,
+      "make_cut": 74.9,
+      "win_rank": 7
+    },
+    {
+      "player": "Kevin Roy",
+      "win": 2.4,
+      "top5": 10.62,
+      "top10": 19.18,
+      "make_cut": 75.0,
+      "win_rank": 8
+    },
+    {
+      "player": "Kristoffer Ventura",
+      "win": 2.24,
+      "top5": 9.9,
+      "top10": 17.98,
+      "make_cut": 73.4,
+      "win_rank": 9
+    },
+    {
+      "player": "Austin Smotherman",
+      "win": 2.23,
+      "top5": 9.7,
+      "top10": 17.95,
+      "make_cut": 73.3,
+      "win_rank": 10
+    },
+    {
+      "player": "Seamus Power",
+      "win": 2.22,
+      "top5": 10.01,
+      "top10": 18.5,
+      "make_cut": 73.6,
+      "win_rank": 11
+    },
+    {
+      "player": "Ben Kohles",
+      "win": 2.21,
+      "top5": 10.04,
+      "top10": 18.62,
+      "make_cut": 73.6,
+      "win_rank": 12
+    },
+    {
+      "player": "Trace Crowe",
+      "win": 2.1,
+      "top5": 9.33,
+      "top10": 17.55,
+      "make_cut": 73.1,
+      "win_rank": 13
+    },
+    {
+      "player": "Denny McCarthy",
+      "win": 2.04,
+      "top5": 9.51,
+      "top10": 17.43,
+      "make_cut": 72.6,
+      "win_rank": 14
+    },
+    {
+      "player": "Davis Thompson",
+      "win": 1.97,
+      "top5": 9.09,
+      "top10": 16.6,
+      "make_cut": 71.8,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Ben Kohles",
+        "win": 2.21,
+        "top5": 10.04,
+        "top10": 18.62,
+        "make_cut": 73.6,
+        "std": 2.67,
+        "win_rank": 12,
+        "ceiling": 18.62
+      },
+      {
+        "player": "Seamus Power",
+        "win": 2.22,
+        "top5": 10.01,
+        "top10": 18.5,
+        "make_cut": 73.6,
+        "std": 2.77,
+        "win_rank": 11,
+        "ceiling": 18.5
+      },
+      {
+        "player": "Trace Crowe",
+        "win": 2.1,
+        "top5": 9.33,
+        "top10": 17.55,
+        "make_cut": 73.1,
+        "std": 2.79,
+        "win_rank": 13,
+        "ceiling": 17.55
+      },
+      {
+        "player": "Denny McCarthy",
+        "win": 2.04,
+        "top5": 9.51,
+        "top10": 17.43,
+        "make_cut": 72.6,
+        "std": 2.68,
+        "win_rank": 14,
+        "ceiling": 17.43
+      },
+      {
+        "player": "Neal Shipley",
+        "win": 1.94,
+        "top5": 9.03,
+        "top10": 16.86,
+        "make_cut": 72.3,
+        "std": 2.81,
+        "win_rank": 16,
+        "ceiling": 16.86
+      },
+      {
+        "player": "Zac Blair",
+        "win": 1.84,
+        "top5": 8.91,
+        "top10": 16.74,
+        "make_cut": 71.9,
+        "std": 2.63,
+        "win_rank": 19,
+        "ceiling": 16.74
+      }
+    ],
+    "value": [
+      {
+        "player": "Corey Conners",
+        "win": 3.28,
+        "top5": 13.23,
+        "top10": 23.51,
+        "make_cut": 77.5,
+        "mkt_win": 2.7,
+        "dg_win": 3.29,
+        "edge": 0.58,
+        "odds": 25.86,
+        "dg_agrees": true
+      },
+      {
+        "player": "Kevin Yu",
+        "win": 3.07,
+        "top5": 12.52,
+        "top10": 22.15,
+        "make_cut": 77.1,
+        "mkt_win": 2.5,
+        "dg_win": 3.46,
+        "edge": 0.57,
+        "odds": 27.9,
+        "dg_agrees": true
+      },
+      {
+        "player": "Rico Hoey",
+        "win": 2.62,
+        "top5": 10.83,
+        "top10": 19.64,
+        "make_cut": 74.9,
+        "mkt_win": 2.19,
+        "dg_win": 2.69,
+        "edge": 0.43,
+        "odds": 31.9,
+        "dg_agrees": true
+      },
+      {
+        "player": "Kristoffer Ventura",
+        "win": 2.24,
+        "top5": 9.9,
+        "top10": 17.98,
+        "make_cut": 73.4,
+        "mkt_win": 1.9,
+        "dg_win": 2.53,
+        "edge": 0.34,
+        "odds": 36.76,
+        "dg_agrees": true
+      },
+      {
+        "player": "John Parry",
+        "win": 1.85,
+        "top5": 8.22,
+        "top10": 15.82,
+        "make_cut": 71.2,
+        "mkt_win": 1.55,
+        "dg_win": 1.47,
+        "edge": 0.3,
+        "odds": 44.91,
+        "dg_agrees": false
+      },
+      {
+        "player": "Trace Crowe",
+        "win": 2.1,
+        "top5": 9.33,
+        "top10": 17.55,
+        "make_cut": 73.1,
+        "mkt_win": 1.82,
+        "dg_win": 2.08,
+        "edge": 0.28,
+        "odds": 38.26,
+        "dg_agrees": false
+      }
+    ],
+    "fit": [
+      {
+        "player": "Aaron Wise",
+        "win": 0.39,
+        "top5": 2.52,
+        "top10": 5.6,
+        "make_cut": 53.8,
+        "fit": 0.37,
+        "hist": 0.05,
+        "coursefit": 0.08,
+        "win_rank": 72
+      },
+      {
+        "player": "Rudy Sautron",
+        "win": 0.07,
+        "top5": 0.68,
+        "top10": 1.87,
+        "make_cut": 37.6,
+        "fit": 0.3,
+        "hist": -0.04,
+        "coursefit": 0.09,
+        "win_rank": 103
+      },
+      {
+        "player": "Taylor Moore",
+        "win": 1.49,
+        "top5": 7.32,
+        "top10": 14.17,
+        "make_cut": 69.2,
+        "fit": 0.29,
+        "hist": -0.05,
+        "coursefit": 0.01,
+        "win_rank": 27
+      },
+      {
+        "player": "Alejandro Tosti",
+        "win": 0.4,
+        "top5": 2.76,
+        "top10": 6.11,
+        "make_cut": 55.2,
+        "fit": 0.29,
+        "hist": -0.04,
+        "coursefit": 0.05,
+        "win_rank": 71
+      },
+      {
+        "player": "Rafael Campos",
+        "win": 0.22,
+        "top5": 1.6,
+        "top10": 3.9,
+        "make_cut": 47.9,
+        "fit": 0.27,
+        "hist": 0.12,
+        "coursefit": 0.09,
+        "win_rank": 90
+      },
+      {
+        "player": "Virgilio Paz",
+        "win": 0.0,
+        "top5": 0.02,
+        "top10": 0.07,
+        "make_cut": 11.9,
+        "fit": 0.27,
+        "hist": -0.04,
+        "coursefit": 0.24,
+        "win_rank": 117
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Miles Russell",
+        "win": 1.05,
+        "top5": 5.64,
+        "top10": 11.22,
+        "make_cut": 65.1,
+        "owgr": 501,
+        "dg_rank": 181,
+        "gap": 320
+      },
+      {
+        "player": "Greyson Sigg",
+        "win": 0.55,
+        "top5": 3.2,
+        "top10": 7.11,
+        "make_cut": 57.7,
+        "owgr": 501,
+        "dg_rank": 282,
+        "gap": 219
+      },
+      {
+        "player": "Kihei Akina",
+        "win": 0.88,
+        "top5": 4.99,
+        "top10": 10.22,
+        "make_cut": 63.7,
+        "owgr": 501,
+        "dg_rank": 289,
+        "gap": 212
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.49,
+        "top5": 2.95,
+        "top10": 6.57,
+        "make_cut": 56.4,
+        "owgr": 501,
+        "dg_rank": 335,
+        "gap": 166
+      },
+      {
+        "player": "Dylan Wu",
+        "win": 0.82,
+        "top5": 4.52,
+        "top10": 9.43,
+        "make_cut": 62.2,
+        "owgr": 433,
+        "dg_rank": 294,
+        "gap": 139
+      },
+      {
+        "player": "Peter Malnati",
+        "win": 0.49,
+        "top5": 2.91,
+        "top10": 6.42,
+        "make_cut": 56.4,
+        "owgr": 501,
+        "dg_rank": 368,
+        "gap": 133
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Trace Crowe",
+      "lenses": [
+        "ceiling",
+        "value"
+      ],
+      "n": 2,
+      "win": 2.1
+    }
+  ]
+}
