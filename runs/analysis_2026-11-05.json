@@ -1,0 +1,408 @@
+{
+  "event": "World Wide Technology Championship",
+  "course": "El Cardonal at Diamante",
+  "date": "2026-11-05",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Ben Griffin",
+      "win": 5.56,
+      "top5": 19.56,
+      "top10": 31.54,
+      "make_cut": 82.7,
+      "win_rank": 1
+    },
+    {
+      "player": "Ryan Gerard",
+      "win": 4.99,
+      "top5": 18.16,
+      "top10": 30.09,
+      "make_cut": 81.6,
+      "win_rank": 2
+    },
+    {
+      "player": "Ben James",
+      "win": 3.95,
+      "top5": 15.17,
+      "top10": 25.98,
+      "make_cut": 79.4,
+      "win_rank": 3
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 3.33,
+      "top5": 13.59,
+      "top10": 23.79,
+      "make_cut": 77.5,
+      "win_rank": 4
+    },
+    {
+      "player": "Harry Hall",
+      "win": 2.5,
+      "top5": 10.26,
+      "top10": 18.72,
+      "make_cut": 73.6,
+      "win_rank": 5
+    },
+    {
+      "player": "Christiaan Bezuidenhout",
+      "win": 2.34,
+      "top5": 10.7,
+      "top10": 19.53,
+      "make_cut": 74.1,
+      "win_rank": 6
+    },
+    {
+      "player": "Jordan Smith",
+      "win": 2.22,
+      "top5": 9.99,
+      "top10": 18.44,
+      "make_cut": 73.1,
+      "win_rank": 7
+    },
+    {
+      "player": "Blades Brown",
+      "win": 2.18,
+      "top5": 9.8,
+      "top10": 17.89,
+      "make_cut": 73.5,
+      "win_rank": 8
+    },
+    {
+      "player": "Zach Bauchou",
+      "win": 2.0,
+      "top5": 9.27,
+      "top10": 17.28,
+      "make_cut": 71.9,
+      "win_rank": 9
+    },
+    {
+      "player": "Ben Kohles",
+      "win": 1.93,
+      "top5": 9.06,
+      "top10": 16.89,
+      "make_cut": 71.4,
+      "win_rank": 10
+    },
+    {
+      "player": "Mackenzie Hughes",
+      "win": 1.9,
+      "top5": 8.42,
+      "top10": 15.63,
+      "make_cut": 70.6,
+      "win_rank": 11
+    },
+    {
+      "player": "Keith Mitchell",
+      "win": 1.82,
+      "top5": 8.24,
+      "top10": 15.66,
+      "make_cut": 70.3,
+      "win_rank": 12
+    },
+    {
+      "player": "Michael Kim",
+      "win": 1.7,
+      "top5": 7.88,
+      "top10": 15.14,
+      "make_cut": 70.2,
+      "win_rank": 13
+    },
+    {
+      "player": "Chris Kirk",
+      "win": 1.6,
+      "top5": 7.68,
+      "top10": 14.43,
+      "make_cut": 68.7,
+      "win_rank": 14
+    },
+    {
+      "player": "Jackson Suber",
+      "win": 1.58,
+      "top5": 7.76,
+      "top10": 14.73,
+      "make_cut": 69.2,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Keith Mitchell",
+        "win": 1.82,
+        "top5": 8.24,
+        "top10": 15.66,
+        "make_cut": 70.3,
+        "std": 2.76,
+        "win_rank": 12,
+        "ceiling": 15.66
+      },
+      {
+        "player": "Mackenzie Hughes",
+        "win": 1.9,
+        "top5": 8.42,
+        "top10": 15.63,
+        "make_cut": 70.6,
+        "std": 2.7,
+        "win_rank": 11,
+        "ceiling": 15.63
+      },
+      {
+        "player": "Michael Kim",
+        "win": 1.7,
+        "top5": 7.88,
+        "top10": 15.14,
+        "make_cut": 70.2,
+        "std": 2.74,
+        "win_rank": 13,
+        "ceiling": 15.14
+      },
+      {
+        "player": "Kristoffer Ventura",
+        "win": 1.58,
+        "top5": 7.82,
+        "top10": 14.77,
+        "make_cut": 69.7,
+        "std": 2.76,
+        "win_rank": 16,
+        "ceiling": 14.77
+      },
+      {
+        "player": "Jackson Suber",
+        "win": 1.58,
+        "top5": 7.76,
+        "top10": 14.73,
+        "make_cut": 69.2,
+        "std": 2.79,
+        "win_rank": 15,
+        "ceiling": 14.73
+      },
+      {
+        "player": "Steven Fisk",
+        "win": 1.44,
+        "top5": 7.54,
+        "top10": 14.49,
+        "make_cut": 69.0,
+        "std": 2.74,
+        "win_rank": 18,
+        "ceiling": 14.49
+      }
+    ],
+    "value": [
+      {
+        "player": "Ben Griffin",
+        "win": 5.56,
+        "top5": 19.56,
+        "top10": 31.54,
+        "make_cut": 82.7,
+        "mkt_win": 4.56,
+        "dg_win": 6.52,
+        "edge": 1.0,
+        "odds": 15.19,
+        "dg_agrees": true
+      },
+      {
+        "player": "Christiaan Bezuidenhout",
+        "win": 2.34,
+        "top5": 10.7,
+        "top10": 19.53,
+        "make_cut": 74.1,
+        "mkt_win": 1.77,
+        "dg_win": 2.0,
+        "edge": 0.57,
+        "odds": 39.16,
+        "dg_agrees": false
+      },
+      {
+        "player": "Zac Blair",
+        "win": 1.41,
+        "top5": 7.12,
+        "top10": 13.82,
+        "make_cut": 68.3,
+        "mkt_win": 0.84,
+        "dg_win": 1.05,
+        "edge": 0.57,
+        "odds": 82.01,
+        "dg_agrees": false
+      },
+      {
+        "player": "Harry Hall",
+        "win": 2.5,
+        "top5": 10.26,
+        "top10": 18.72,
+        "make_cut": 73.6,
+        "mkt_win": 1.97,
+        "dg_win": 2.27,
+        "edge": 0.53,
+        "odds": 35.12,
+        "dg_agrees": false
+      },
+      {
+        "player": "Andrew Putnam",
+        "win": 1.14,
+        "top5": 5.72,
+        "top10": 11.43,
+        "make_cut": 64.7,
+        "mkt_win": 0.65,
+        "dg_win": 0.72,
+        "edge": 0.49,
+        "odds": 107.28,
+        "dg_agrees": false
+      },
+      {
+        "player": "Zach Bauchou",
+        "win": 2.0,
+        "top5": 9.27,
+        "top10": 17.28,
+        "make_cut": 71.9,
+        "mkt_win": 1.58,
+        "dg_win": 1.98,
+        "edge": 0.42,
+        "odds": 43.82,
+        "dg_agrees": true
+      }
+    ],
+    "fit": [
+      {
+        "player": "Muzzy Donohue",
+        "win": 0.0,
+        "top5": 0.0,
+        "top10": 0.0,
+        "make_cut": 3.9,
+        "fit": 0.53,
+        "hist": -0.04,
+        "coursefit": -0.16,
+        "win_rank": 120
+      },
+      {
+        "player": "Ben Griffin",
+        "win": 5.56,
+        "top5": 19.56,
+        "top10": 31.54,
+        "make_cut": 82.7,
+        "fit": 0.39,
+        "hist": 0.07,
+        "coursefit": 0.07,
+        "win_rank": 1
+      },
+      {
+        "player": "Ben James",
+        "win": 3.95,
+        "top5": 15.17,
+        "top10": 25.98,
+        "make_cut": 79.4,
+        "fit": 0.32,
+        "hist": -0.04,
+        "coursefit": 0.07,
+        "win_rank": 3
+      },
+      {
+        "player": "Kensei Hirata",
+        "win": 0.26,
+        "top5": 1.54,
+        "top10": 3.69,
+        "make_cut": 46.7,
+        "fit": 0.32,
+        "hist": -0.03,
+        "coursefit": 0.12,
+        "win_rank": 87
+      },
+      {
+        "player": "Austin Eckroat",
+        "win": 1.14,
+        "top5": 6.08,
+        "top10": 11.94,
+        "make_cut": 65.7,
+        "fit": 0.3,
+        "hist": 0.07,
+        "coursefit": 0.0,
+        "win_rank": 28
+      },
+      {
+        "player": "Brice Garnett",
+        "win": 0.57,
+        "top5": 3.22,
+        "top10": 6.94,
+        "make_cut": 57.2,
+        "fit": 0.3,
+        "hist": -0.03,
+        "coursefit": 0.18,
+        "win_rank": 63
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Preston Stout",
+        "win": 0.36,
+        "top5": 2.23,
+        "top10": 5.22,
+        "make_cut": 51.7,
+        "owgr": 501,
+        "dg_rank": 185,
+        "gap": 316
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.28,
+        "top5": 1.94,
+        "top10": 4.46,
+        "make_cut": 49.4,
+        "owgr": 501,
+        "dg_rank": 357,
+        "gap": 144
+      },
+      {
+        "player": "Dylan Wu",
+        "win": 0.48,
+        "top5": 2.89,
+        "top10": 6.3,
+        "make_cut": 55.1,
+        "owgr": 427,
+        "dg_rank": 284,
+        "gap": 143
+      },
+      {
+        "player": "Ben Martin",
+        "win": 0.22,
+        "top5": 1.56,
+        "top10": 3.8,
+        "make_cut": 47.2,
+        "owgr": 501,
+        "dg_rank": 366,
+        "gap": 135
+      },
+      {
+        "player": "Peter Malnati",
+        "win": 0.16,
+        "top5": 1.33,
+        "top10": 3.14,
+        "make_cut": 44.7,
+        "owgr": 501,
+        "dg_rank": 368,
+        "gap": 133
+      },
+      {
+        "player": "Tyler Duncan",
+        "win": 0.32,
+        "top5": 2.07,
+        "top10": 4.72,
+        "make_cut": 49.9,
+        "owgr": 419,
+        "dg_rank": 315,
+        "gap": 104
+      }
+    ]
+  },
+  "synthesis": [
+    {
+      "player": "Ben Griffin",
+      "lenses": [
+        "value",
+        "fit"
+      ],
+      "n": 2,
+      "win": 5.56
+    }
+  ]
+}
