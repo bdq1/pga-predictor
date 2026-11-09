@@ -1,0 +1,325 @@
+{
+  "event": "Good Good Championship (est. \u2014 API unavailable)",
+  "course": "Omni Barton Creek, Fazio Canyons Course, Austin TX",
+  "date": "2026-11-12",
+  "sims": 40000,
+  "cut_line": 65,
+  "favorites": [
+    {
+      "player": "Ryan Gerard",
+      "win": 4.83,
+      "top5": 17.59,
+      "top10": 28.92,
+      "make_cut": 80.8,
+      "win_rank": 1
+    },
+    {
+      "player": "Ben Griffin",
+      "win": 3.6,
+      "top5": 14.18,
+      "top10": 24.47,
+      "make_cut": 78.2,
+      "win_rank": 2
+    },
+    {
+      "player": "Jackson Koivun",
+      "win": 3.57,
+      "top5": 13.95,
+      "top10": 23.89,
+      "make_cut": 77.2,
+      "win_rank": 3
+    },
+    {
+      "player": "Keith Mitchell",
+      "win": 2.97,
+      "top5": 12.66,
+      "top10": 22.1,
+      "make_cut": 76.6,
+      "win_rank": 4
+    },
+    {
+      "player": "Ben James",
+      "win": 2.93,
+      "top5": 11.83,
+      "top10": 20.75,
+      "make_cut": 74.8,
+      "win_rank": 5
+    },
+    {
+      "player": "Michael Kim",
+      "win": 2.45,
+      "top5": 10.74,
+      "top10": 19.48,
+      "make_cut": 73.2,
+      "win_rank": 6
+    },
+    {
+      "player": "Jordan Smith",
+      "win": 2.42,
+      "top5": 10.21,
+      "top10": 18.47,
+      "make_cut": 73.1,
+      "win_rank": 7
+    },
+    {
+      "player": "Ben Kohles",
+      "win": 2.22,
+      "top5": 10.11,
+      "top10": 18.64,
+      "make_cut": 72.4,
+      "win_rank": 8
+    },
+    {
+      "player": "Christiaan Bezuidenhout",
+      "win": 2.17,
+      "top5": 9.37,
+      "top10": 17.18,
+      "make_cut": 71.6,
+      "win_rank": 9
+    },
+    {
+      "player": "Blades Brown",
+      "win": 2.01,
+      "top5": 9.01,
+      "top10": 17.02,
+      "make_cut": 71.3,
+      "win_rank": 10
+    },
+    {
+      "player": "Zach Bauchou",
+      "win": 1.91,
+      "top5": 8.4,
+      "top10": 15.67,
+      "make_cut": 70.3,
+      "win_rank": 11
+    },
+    {
+      "player": "Chris Kirk",
+      "win": 1.91,
+      "top5": 8.44,
+      "top10": 15.78,
+      "make_cut": 70.3,
+      "win_rank": 12
+    },
+    {
+      "player": "Harry Hall",
+      "win": 1.88,
+      "top5": 8.85,
+      "top10": 16.59,
+      "make_cut": 70.8,
+      "win_rank": 13
+    },
+    {
+      "player": "Jackson Suber",
+      "win": 1.73,
+      "top5": 7.74,
+      "top10": 14.66,
+      "make_cut": 69.1,
+      "win_rank": 14
+    },
+    {
+      "player": "Denny McCarthy",
+      "win": 1.69,
+      "top5": 7.46,
+      "top10": 14.24,
+      "make_cut": 68.1,
+      "win_rank": 15
+    }
+  ],
+  "long_shots": {
+    "ceiling": [
+      {
+        "player": "Harry Hall",
+        "win": 1.88,
+        "top5": 8.85,
+        "top10": 16.59,
+        "make_cut": 70.8,
+        "std": 2.68,
+        "win_rank": 13,
+        "ceiling": 16.59
+      },
+      {
+        "player": "Chris Kirk",
+        "win": 1.91,
+        "top5": 8.44,
+        "top10": 15.78,
+        "make_cut": 70.3,
+        "std": 2.69,
+        "win_rank": 12,
+        "ceiling": 15.78
+      },
+      {
+        "player": "Zach Bauchou",
+        "win": 1.91,
+        "top5": 8.4,
+        "top10": 15.67,
+        "make_cut": 70.3,
+        "std": 2.69,
+        "win_rank": 11,
+        "ceiling": 15.67
+      },
+      {
+        "player": "Billy Horschel",
+        "win": 1.6,
+        "top5": 7.7,
+        "top10": 14.92,
+        "make_cut": 69.1,
+        "std": 2.7,
+        "win_rank": 16,
+        "ceiling": 14.92
+      },
+      {
+        "player": "Johnny Keefer",
+        "win": 1.55,
+        "top5": 7.64,
+        "top10": 14.69,
+        "make_cut": 68.5,
+        "std": 2.81,
+        "win_rank": 18,
+        "ceiling": 14.69
+      },
+      {
+        "player": "Jackson Suber",
+        "win": 1.73,
+        "top5": 7.74,
+        "top10": 14.66,
+        "make_cut": 69.1,
+        "std": 2.79,
+        "win_rank": 14,
+        "ceiling": 14.66
+      }
+    ],
+    "value": [],
+    "fit": [
+      {
+        "player": "Ryan Gerard",
+        "win": 4.83,
+        "top5": 17.59,
+        "top10": 28.92,
+        "make_cut": 80.8,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 1
+      },
+      {
+        "player": "Ben Griffin",
+        "win": 3.6,
+        "top5": 14.18,
+        "top10": 24.47,
+        "make_cut": 78.2,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 2
+      },
+      {
+        "player": "Jackson Koivun",
+        "win": 3.57,
+        "top5": 13.95,
+        "top10": 23.89,
+        "make_cut": 77.2,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 3
+      },
+      {
+        "player": "Keith Mitchell",
+        "win": 2.97,
+        "top5": 12.66,
+        "top10": 22.1,
+        "make_cut": 76.6,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 4
+      },
+      {
+        "player": "Ben James",
+        "win": 2.93,
+        "top5": 11.83,
+        "top10": 20.75,
+        "make_cut": 74.8,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 5
+      },
+      {
+        "player": "Michael Kim",
+        "win": 2.45,
+        "top5": 10.74,
+        "top10": 19.48,
+        "make_cut": 73.2,
+        "fit": 0,
+        "hist": 0,
+        "coursefit": 0,
+        "win_rank": 6
+      }
+    ],
+    "underrated": [
+      {
+        "player": "Preston Stout",
+        "win": 0.62,
+        "top5": 3.8,
+        "top10": 8.18,
+        "make_cut": 59.0,
+        "owgr": 501,
+        "dg_rank": 185,
+        "gap": 316
+      },
+      {
+        "player": "Adam Svensson",
+        "win": 0.19,
+        "top5": 1.58,
+        "top10": 3.68,
+        "make_cut": 46.2,
+        "owgr": 501,
+        "dg_rank": 357,
+        "gap": 144
+      },
+      {
+        "player": "Dylan Wu",
+        "win": 0.37,
+        "top5": 2.37,
+        "top10": 5.39,
+        "make_cut": 51.7,
+        "owgr": 427,
+        "dg_rank": 284,
+        "gap": 143
+      },
+      {
+        "player": "Ben Martin",
+        "win": 0.24,
+        "top5": 1.54,
+        "top10": 3.67,
+        "make_cut": 46.0,
+        "owgr": 501,
+        "dg_rank": 366,
+        "gap": 135
+      },
+      {
+        "player": "Peter Malnati",
+        "win": 0.23,
+        "top5": 1.46,
+        "top10": 3.61,
+        "make_cut": 46.1,
+        "owgr": 501,
+        "dg_rank": 368,
+        "gap": 133
+      },
+      {
+        "player": "Tyler Duncan",
+        "win": 0.26,
+        "top5": 1.86,
+        "top10": 4.33,
+        "make_cut": 48.9,
+        "owgr": 419,
+        "dg_rank": 315,
+        "gap": 104
+      }
+    ]
+  },
+  "synthesis": []
+}
